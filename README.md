@@ -40,4 +40,3 @@ This unit introduces the students to the natural language processing field.
 Each unit folder contains the following files:
 - `README.md`: A markdown file that contains the unit's overview and learning objectives.
 - `px_topic.py`: A Python file that contains the unit's learning material.
-- `px_topic_test.py`: A Python file that contains the unit's learning material tests. This shouldn't be exposed to the 
