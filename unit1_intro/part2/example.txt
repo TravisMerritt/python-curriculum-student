@@ -1,0 +1,3 @@
+Hello, this is an example text file!
+Python's I/O module makes it easy to work with files.
+Have a great day!

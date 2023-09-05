@@ -1,0 +1,9 @@
+name: Jane Smith
+age: 28
+address:
+  city: Los Angeles
+  zip: "90001"
+hobbies:
+  - painting
+  - hiking
+  - cooking
