@@ -3,6 +3,7 @@ Each section of the compendium contains a unit that corresponds with the "Curric
 course's folder. It is advised that each section of the unit be released to the students in succession at the instructors' 
 discretion. 
 
+
 In practice, the first unit should be released to the students at the beginning of the course. The second unit should be
 released to the students after the first unit has been completed. And so on.
 
