@@ -1,0 +1,25 @@
+import random
+
+# List of 12 Students
+names = ["1", "2", "#3", "#4", "#5", "#6", "#7", "#8","#9", "#10", "#11", "#12"]
+
+
+
+def select_next_presenter():
+    if names:
+        # Randomly select a name and remove it from the list
+        name = random.choice(names)
+        names.remove(name)
+        return name
+    else:
+        return "All presenters have been selected."
+
+while True:
+    user_input = input("Would you like to select a presenter? (yes/no) ")
+    if user_input.lower() == 'yes':
+        print("Your next presenter will be: ", select_next_presenter())
+    elif user_input.lower() == 'no':
+        print("Thank you for playing Select that Presenter.")
+        break
+    else:
+        print("Invalid input. Please enter Yes or No.")
