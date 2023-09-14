@@ -19,23 +19,24 @@ inheritance, and polymorphism. It also should demonstrate the use of modules.
 This unit introduces the students to more advanced Python topics. It covers the basics of regular expressions, 
 list comprehension, lambda functions and exception handling.
 
-## Unit 4: Practical Python GUI Programming
-This unit introduces the students to GUI programming with Python. It covers the basics of GUI programming, with a simple 
-calculator application using Tkinter.
-
-## Unit 5: Introduction to Data Science
+## Unit 4:  Data Handling & Analysis
 This unit introduces the students to the data science field. It covers the basics of data science, data analysis and 
 visualization. It also should demonstrate the use of the Pandas and MatPlotLib library.
 
-## Unit 6: Web Development with Flask
+## Unit 5: Web Development with Flask and Game Development with PyGame
 This unit introduces the students to web development with Flask. Showcasing a basic web application.
+It also introduces the students to game development with PyGame. Showcasing a basic game.
 
-## Unit 7: Introduction to Machine Learning
+## Unit 6: Introduction to Machine Learning
 This unit introduces the students to the machine learning field. It covers the basics of machine learning, with a supervised 
 learning algorithm using SciKit-Learn. (Linear Regression)
 
-## Unit 8: Introduction to Natural Language Processing
+## Unit 7: Introduction to Natural Language Processing
 This unit introduces the students to the natural language processing field.
+
+## Unit 8: Practical Python
+This unit introduces the students to the practical applications of Python. It covers the basics of web scraping,
+web automation, GUI development, robotic libraries.
 
 # Unit Folder Contents Overview
 Each unit folder contains the following files:
