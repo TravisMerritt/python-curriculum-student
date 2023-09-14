@@ -99,7 +99,21 @@ my_list = [i for i in range(20)]
 result_2 = timeit.timeit('get_all_pairs(my_list)', globals=globals(), number=1000)
 print("get_all_pairs(my_list) took {} seconds to run 1000 times.".format(result_2))
 
+
 # Other complexities include logarithmic time (O(log n)), exponential time (O(2^n)), and factorial time (O(n!)).
 # We may discuss these in a later unit.
 
-# TODO: Exercises?
+# -------------------------------
+# Exercise 1: What would be the time complexity of the following function?
+def exercise_1(the_list):
+    # Initialize a list to hold the pairs.
+    pairs = []
+
+    # Iterate through the list and add each pair to the list.
+    for i in range(len(the_list)):
+        for j in range(len(the_list)):
+            for k in range(len(the_list)):
+                pairs.append((the_list[i], the_list[j], the_list[k]))
+
+    # Return the list of pairs.
+    return pairs

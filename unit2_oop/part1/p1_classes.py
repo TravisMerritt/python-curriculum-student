@@ -233,21 +233,46 @@ print(Person.is_adult(20))
 
 
 # --------------------------------------------------
-# Section 8: Creating a module
-# A module is a file containing Python definitions and statements. Modules are used to break down large programs into
-#   small manageable and organized files. Furthermore, modules provide reusability of code. We have been using modules
-#   since the beginning of this course. The files that we have been creating are modules.
-# To create a module, create a file with the .py extension. Then, import the module using the import keyword.
-#   import module_name
-# You can also import specific functions from a module.
-#   from module_name import function_name
-# You can also import all functions from a module.
-#   from module_name import *
-# You can also import a module using an alias.
-#   import module_name as alias
-# You can also import a function from a module using an alias.
-#   from module_name import function_name as alias
+# Section 8: Overloading operators
+# Python allows you to overload operators. This means that you can define what happens when you use an operator on an
+#   object. For example, you can define what happens when you use the + operator on two objects.
+class Vector:
+    def __init__(self, x=0, y=0):
+        self.x = x
+        self.y = y
 
+    def __str__(self):
+        return f"({self.x}, {self.y})"
+
+    # Overload the '+' operator
+    def __add__(self, other):
+        return Vector(self.x + other.x, self.y + other.y)
+
+# Create instances
+v1 = Vector(2, 3)
+v2 = Vector(1, 4)
+
+# Use the overloaded '+' operator
+print(v1 + v2)  # Outputs: (3, 7)
+
+
+# Python doesn't support traditional overloading, however, you can use default arguments to simulate overloading.
+class Greet:
+    def hello(self, name=None):
+        # Default arguments can be used to simulate overloading. In this case, the name parameter is optional.
+        if name is not None:
+            print(f"Hello {name}")
+        else:
+            print("Hello ")
+
+# Create instance
+greeting = Greet()
+
+# Call the method
+greeting.hello()
+
+# Call the method with a parameter
+greeting.hello("Alice")
 
 # --------------------------------------------------
 # Exercise 1: Create a module called `my_bus.py` in this folder and add a class named 'Bus' that has
