@@ -1,0 +1,161 @@
+{
+  "tutorials": [
+    {
+      "title": "What is Git",
+      "description": "An introduction to the Git version control system.",
+      "components": [
+        {
+          "type": "label",
+          "text": "Git is a distributed version control system that allows multiple people to work on the same project simultaneously."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "Each person can have a copy of the entire project and work on it independently. Git helps to track changes, merge them, and keep the history intact. It ensures that the evolution of a project remains organized and comprehensible."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Use the command below to check if Git is installed on your machine.",
+          "code": "git --version"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "image",
+          "description": "The output of the command should look something like this.",
+          "image_file_name": "git_version.png",
+          "scale": 0.7
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Repositories"
+        }
+      ]
+    },
+    {
+      "title": "Repositories",
+      "description": "Understand the concept of a Git repository.",
+      "components": [
+        {
+          "type": "label",
+          "text": "A Git repository, often just called a repo, is a storage location where your project lives."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "The repository contains all the files related to a project and the revision history. You can have local repositories on your machine and remote repositories on platforms like GitHub, GitLab, or Bitbucket."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Commits"
+        }
+      ]
+    },
+    {
+      "title": "Commits",
+      "description": "Learn about making commits in Git.",
+      "components": [
+        {
+          "type": "label",
+          "text": "A commit in Git represents a snapshot of your project's state at a particular point in time."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "Every commit has a unique ID, often referred to as a hash. This allows you to track changes and go back to any specific state of the project. Commits also include metadata like the author, timestamp, and a descriptive message."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Push and Pull"
+        }
+      ]
+    },
+    {
+      "title": "Push and Pull",
+      "description": "Synchronize your local repository with a remote repository.",
+      "components": [
+        {
+          "type": "label",
+          "text": "'Push' is the act of sending your local commits to a remote repository."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "When you push, you are updating the remote repository with your latest changes. Conversely, 'Pull' retrieves the latest changes from a remote repository and updates your local repository. It is effectively a combination of 'fetch' and 'merge' operations."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Merging"
+        }
+      ]
+    },
+    {
+      "title": "Merging",
+      "description": "How to integrate changes from one branch into another.",
+      "components": [
+        {
+          "type": "label",
+          "text": "Merging in Git is the act of taking the changes from one branch and applying them onto another."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "This process allows you to integrate separate lines of development into a single branch. There are different merge strategies in Git, and sometimes, conflicts can occur if the same parts of files are modified differently. Git provides tools to help you resolve these conflicts."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Pull Requests"
+        }
+      ]
+    },
+    {
+      "title": "Pull Requests",
+      "description": "Introduction to the concept of pull requests.",
+      "components": [
+        {
+          "type": "label",
+          "text": "A pull request, often called a PR, is a method of submitting contributions to a project."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "It's a way of proposing changes and initiating a discussion about them. PRs are typically used on platforms like GitHub and GitLab. When you submit a PR, project maintainers or collaborators review the changes, provide feedback, and ultimately decide whether to merge or decline the changes."
+        },
+        {
+          "type": "whitespace"
+        }
+      ]
+    }
+  ]
+}

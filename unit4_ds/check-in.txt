@@ -1,0 +1,3 @@
+Units from here on will cover less about the Python programming language syntax and begin to shift more into the
+practical knowledge of how to use Python to solve problems. Python is a very versatile language and have a wide number
+of applications. The next few units will cover some of the most common applications of Python.
