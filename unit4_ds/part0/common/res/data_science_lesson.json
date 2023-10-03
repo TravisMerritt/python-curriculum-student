@@ -1,0 +1,148 @@
+{
+  "tutorials": [
+    {
+      "title": "What is: Data Science",
+      "description": "An introduction to the world of data science.",
+      "components": [
+        {
+          "type": "label",
+          "content": "Data Science is a multidisciplinary field that fuses statistics, computer science, and domain knowledge."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "content": "It aims to derive actionable insights from complex and unstructured data. Data Science often involves creating machine learning models to make predictions or decisions without explicit human instructions."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "One popular Python library for Data Science is Pandas, which can be installed as follows:",
+          "code": "pip install pandas"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Loading data using Pandas:",
+          "code": "import pandas as pd\n\ndf = pd.read_csv('data.csv')\nprint(df.head())"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "content": "Data Science not only revolves around analyzing data but also involves visualizing, cleaning, and interpreting it. The main goal is to answer questions and derive knowledge from vast amounts of data."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Matplotlib is a Python library for data visualization, which can be installed as follows:",
+          "code": "pip install matplotlib"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Visualizing data can be achieved with libraries like Matplotlib:",
+          "code": "import matplotlib.pyplot as plt\n\ndf['column_name'].plot(kind='hist')\nplt.show()"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Explain the data science process"
+        }
+      ]
+    },
+    {
+      "title": "The Process",
+      "description": "Diving deeper into how data science works.",
+      "components": [
+        {
+          "type": "label",
+          "text": "The data science process involves several steps:"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "1. Data Collection\n2. Data Cleaning\n3. Data Exploration\n4. Model Building\n5. Model Deployment"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "For instance, data exploration in Python might look like this:",
+          "code": "df.describe()\n\ndf.info()"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Recognize the importance of data science"
+        }
+      ]
+    },
+    {
+      "title": "Importance",
+      "description": "Understanding the impact of data science in the modern world.",
+      "components": [
+        {
+          "type": "label",
+          "text": "Data Science has become crucial in decision-making processes for businesses, governments, and organizations. Its importance stems from the capability to turn raw data into valuable insights, enabling informed decisions."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "It drives automation, AI innovations, and helps in predicting future trends and behaviors."
+        },
+        {
+          "type": "next_btn",
+          "next_tutorial_title": "Identify the different types of data"
+        }
+      ]
+    },
+    {
+      "title": "Data Types",
+      "description": "Learning about various data types in data science.",
+      "components": [
+        {
+          "type": "label",
+          "text": "There are various types of data in data science:"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "label",
+          "text": "1. Structured Data: Organized data, typically in tables.\n2. Unstructured Data: Data that doesn't have a pre-defined format, like texts or images.\n3. Semi-structured Data: A mix, like JSON or XML files.\n4. Time-series Data: Data points collected or recorded at specific time intervals."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "For example, reading a JSON (semi-structured data) with Python:",
+          "code": "data = pd.read_json('data.json')\nprint(data.head())"
+        },
+        {
+          "type": "whitespace"
+        }
+      ]
+    }
+  ]
+}
