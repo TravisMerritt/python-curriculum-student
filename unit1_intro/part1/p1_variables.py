@@ -20,7 +20,7 @@ d = e = f = 1
 
 # For fine-tuned control over Python's Garbage Collector, you can use the del keyword to delete a variable.
 id(d)   # Get the memory address of d
-del d   # Delete the variable d
+#del d   # Delete the variable d
 
 # If you need to know the type, use the type() function to get the type of variable Python inferred.
 type(my_string)
@@ -31,5 +31,14 @@ type(my_list)
 type(my_tuple)
 type(my_dict)
 
+print(id(d))
+
+
 # Exercise 1: Create a variable called `my_name` and assign it your name.
+my_name = "travis"
+print(my_name)
 # Exercise 2: Create a variable called `my_age` and assign it your age.
+print (3*(2**3))
+print (2//3)
+print (2.0//3.0)
+

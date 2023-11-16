@@ -156,6 +156,34 @@
           "type": "whitespace"
         }
       ]
+    },
+    {
+      "title": "Upstream Setup",
+      "description": "We are creating an upstream to read from the parent repository, the one that your teacher will share",
+      "components": [
+        {
+          "type": "label",
+          "text": "git-remote - Manage set of tracked repositories."
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Create a remote that can then reference the parent repository for this Python Course",
+          "code": "git remote add upstream 'https://github.com/TravisMerritt/python-curriculum-student'"
+        },
+        {
+          "type": "whitespace"
+        },
+        {
+          "type": "code",
+          "description": "Pull Request",
+          "code": "git pull upstream main"
+        }
+
+          
+      ]
     }
   ]
 }
