@@ -18,13 +18,14 @@ while True:
     number_students = input("How many students are in the class?")
     names = list(range(1,int(number_students)+1))
 
+    test =  {"name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis","name":"Travis"}
     print (names)
 
-    # user_input = input("Would you like to select a group memner? (yes/no) ")
-    # if user_input.lower() == 'yes':
-    #     print("Your next member will be: ", select_next_member())
-    # elif user_input.lower() == 'no':
-    #     print("Thank you for playing Select that Presenter.")
-    #     break
-    # else:
-    #     print("Invalid input. Please enter Yes or No.")
+    user_input = input("Would you like to select a group memner? (yes/no) ")
+    if user_input.lower() == 'yes':
+        print("Your next member will be: ", select_next_member())
+    elif user_input.lower() == 'no':
+        print("Thank you for playing Select that Presenter.")
+        break
+    else:
+        print("Invalid input. Please enter Yes or No.")

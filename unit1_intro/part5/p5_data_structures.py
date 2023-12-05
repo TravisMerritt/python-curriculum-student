@@ -38,21 +38,32 @@ my_tuple = (1, 2, 3, 4, 5)                  # In Java, this would be `List<Integ
 # Section 2: Sets
 # Sets are unordered collections of unique elements. They are used to test membership and eliminate duplicates.
 #   They are also faster than lists. Hash tables are used to implement sets. Sets are mutable.
-my_set = {1, 2, 3, 4, 5}                    # In Java, this would be `Set<Integer> my_set = new HashSet<>(Arrays.asList(1, 2, 3, 4, 5))`
+#sets have natural ordering. 
+my_set = {-1,1, -3, 2, -4, 3,-2, 4, 5}                 # In Java, this would be `Set<Integer> my_set = new HashSet<>(Arrays.asList(1, 2, 3, 4, 5))`
 # my_set.add(6)                             # In Java, this would be `my_set.add(6)`
 # my_set.remove(6)                          # In Java, this would be `my_set.remove(6)`
 # my_set.clear()                            # In Java, this would be `my_set.clear()`
-# my_set.pop()                              # In Java, this would be `my_set.remove(my_set.iterator().next())`
-
+#pop takes most recent add and removes is # # (LIFO)LAST IN FIRST OUT. (FIFO)FIRST IN FIRST OUT      # In Java, this would be `my_set.remove(my_set.iterator().next())`
+print (my_set)
+name = my_set.pop()
+print (name)
+print (my_set.pop()) 
+print (my_set.pop()) 
+print (my_set.pop()) 
+print (my_set.pop()) 
+print (my_set)                     
 # --------------------------------------------------
 # Section 3: Dictionaries
 # Dictionaries are Python's version of hash maps. They are mutable and can contain elements of different types.
 #   They are unordered. Hash tables are used to implement dictionaries.
-my_dict = {"a": 1, "b": 2, "c": 3}          # In Java, this would be `Map<String, Integer> my_dict = new HashMap<>(); my_dict.put("a", 1); my_dict.put("b", 2); my_dict.put("c", 3);`
-# my_dict["a"]                              # In Java, this would be `my_dict.get("a")`
+#my_dict = {"a": 1, "b": 2, "c": 3}          # In Java, this would be `Map<String, Integer> my_dict = new HashMap<>(); my_dict.put("a", 1); my_dict.put("b", 2); my_dict.put("c", 3);`
+# print (my_dict["a"])                           # In Java, this would be `my_dict.get("a")`
 # my_dict["d"] = 4                          # In Java, this would be `my_dict.put("d", 4)`
-# my_dict.pop("d")                          # In Java, this would be `my_dict.remove("d")`
+# print(my_dict)
+# my_dict.pop("a")                          # In Java, this would be `my_dict.remove("d")`
+# print(my_dict)
 # my_dict.popitem()                         # In Java, this would be `my_dict.remove(my_dict.entrySet().iterator().next())`
+# print(my_dict)
 # my_dict.clear()                           # In Java, this would be `my_dict.clear()`
 
 # --------------------------------------------------
