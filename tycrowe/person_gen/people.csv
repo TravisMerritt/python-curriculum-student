@@ -1,0 +1,2001 @@
+Name,Traits,Free Hours
+Sherri,Empathetic[3];Leadership[4];Communicative[2];Overbearing[-1];Impatient[-1],9
+Alverta,Logical[3];Organized[2];Detail-Oriented[3];Passive[-1];Overly Competitive[-1],8
+Carina,Analytical[3];Resourceful[2];Logical[3];Intolerant[-2];Uncooperative[-2],9
+Ulrike,Flexible[2];Supportive[2];Strategic[3];Stubborn[-1];Unempathetic[-2],33
+Allsun,Diplomatic[2];Supportive[2];Collaborative[2];Skeptical[-1];Non-communicative[-2],36
+Sondra,Diplomatic[2];Supportive[2];Collaborative[2];Dismissive[-2];Easily Distracted[-1],6
+Kordula,Flexible[2];Detail-Oriented[3];Innovative[2];Uncooperative[-2];Conflict-Averse[-2],12
+Cathleen,Collaborative[2];Problem-Solver[3];Flexible[2];Procrastinator[-3];Indecisive[-2],37
+Marysa,Analytical[3];Problem-Solver[3];Diplomatic[2];Overly Critical[-2];Unreliable[-3],9
+Ethelind,Strategic[3];Tech-Savvy[2];Empathetic[3];Procrastinator[-3];Overly Critical[-2],30
+Aimil,Flexible[2];Creative Thinker[2];Tech-Savvy[2];Rigid[-2];Impatient[-1],2
+Gloria,Mediator[2];Tech-Savvy[2];Empathetic[3];Stubborn[-1];Defensive[-1],13
+Henrie,Collaborative[2];Diplomatic[2];Organized[2];Skeptical[-1];Non-communicative[-2],32
+Cacilie,Flexible[2];Supportive[2];Communicative[2];Intolerant[-2];Micromanaging[-2],36
+Ursulina,Supportive[2];Organized[2];Logical[3];Dismissive[-2];Aloof[-1],38
+Hailee,Supportive[2];Analytical[3];Problem-Solver[3];Intolerant[-2];Perfectionist (to a fault)[-1],27
+Kessiah,Resourceful[2];Flexible[2];Innovative[2];Perfectionist (to a fault)[-1];Stubborn[-1],37
+Dorette,Creative Thinker[2];Analytical[3];Detail-Oriented[3];Overly Competitive[-1];Perfectionist (to a fault)[-1],39
+Leeann,Innovative[2];Communicative[2];Collaborative[2];Unempathetic[-2];Narrow-Minded[-2],37
+Brina,Analytical[3];Empathetic[3];Flexible[2];Uncooperative[-2];Overbearing[-1],20
+Vania,Creative Thinker[2];Problem-Solver[3];Logical[3];Overbearing[-1];Perfectionist (to a fault)[-1],26
+Winne,Analytical[3];Organized[2];Time-Manager[3];Narrow-Minded[-2];Uncooperative[-2],7
+Emera,Resourceful[2];Mediator[2];Problem-Solver[3];Impulsive[-1];Indecisive[-2],35
+Caron,Supportive[2];Logical[3];Detail-Oriented[3];Overbearing[-1];Overly Competitive[-1],16
+Twila,Communicative[2];Empathetic[3];Problem-Solver[3];Non-communicative[-2];Overly Critical[-2],17
+Tresa,Flexible[2];Creative Thinker[2];Logical[3];Stubborn[-1];Overbearing[-1],2
+Goldi,Diplomatic[2];Creative Thinker[2];Empathetic[3];Rigid[-2];Dismissive[-2],24
+Timi,Innovative[2];Tech-Savvy[2];Analytical[3];Easily Distracted[-1];Impulsive[-1],39
+Melany,Detail-Oriented[3];Mediator[2];Strategic[3];Skeptical[-1];Aloof[-1],35
+Katlin,Time-Manager[3];Organized[2];Detail-Oriented[3];Indecisive[-2];Intolerant[-2],25
+Adriane,Analytical[3];Collaborative[2];Time-Manager[3];Intolerant[-2];Moody[-1],15
+Blair,Resourceful[2];Detail-Oriented[3];Analytical[3];Overly Competitive[-1];Micromanaging[-2],3
+Merline,Organized[2];Logical[3];Tech-Savvy[2];Uncooperative[-2];Aloof[-1],15
+Dayna,Supportive[2];Logical[3];Innovative[2];Uncooperative[-2];Defensive[-1],16
+Glennie,Problem-Solver[3];Leadership[4];Tech-Savvy[2];Overly Competitive[-1];Unempathetic[-2],13
+Guillemette,Empathetic[3];Time-Manager[3];Collaborative[2];Unreliable[-3];Overbearing[-1],14
+Dore,Tech-Savvy[2];Collaborative[2];Communicative[2];Narrow-Minded[-2];Uncooperative[-2],23
+Farand,Tech-Savvy[2];Mediator[2];Problem-Solver[3];Rigid[-2];Indecisive[-2],24
+Sonia,Tech-Savvy[2];Collaborative[2];Reliable[3];Micromanaging[-2];Pessimistic[-1],30
+Georgine,Empathetic[3];Detail-Oriented[3];Resourceful[2];Pessimistic[-1];Moody[-1],39
+Shelbi,Innovative[2];Detail-Oriented[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Dismissive[-2],35
+Charita,Communicative[2];Creative Thinker[2];Analytical[3];Pessimistic[-1];Overly Critical[-2],36
+Sibel,Logical[3];Problem-Solver[3];Creative Thinker[2];Skeptical[-1];Uncooperative[-2],2
+Horatia,Resourceful[2];Creative Thinker[2];Diplomatic[2];Unempathetic[-2];Micromanaging[-2],30
+Emmalyn,Logical[3];Time-Manager[3];Resourceful[2];Dismissive[-2];Perfectionist (to a fault)[-1],20
+Ora,Leadership[4];Mediator[2];Time-Manager[3];Passive[-1];Rigid[-2],33
+Kelsi,Analytical[3];Logical[3];Reliable[3];Conflict-Averse[-2];Narrow-Minded[-2],39
+Felisha,Time-Manager[3];Problem-Solver[3];Communicative[2];Unempathetic[-2];Non-communicative[-2],0
+Lora,Flexible[2];Diplomatic[2];Leadership[4];Micromanaging[-2];Unempathetic[-2],11
+Adena,Leadership[4];Strategic[3];Creative Thinker[2];Impatient[-1];Overly Critical[-2],32
+Didi,Communicative[2];Time-Manager[3];Tech-Savvy[2];Skeptical[-1];Procrastinator[-3],38
+Dasi,Creative Thinker[2];Innovative[2];Time-Manager[3];Non-communicative[-2];Perfectionist (to a fault)[-1],18
+Cathie,Analytical[3];Leadership[4];Tech-Savvy[2];Unempathetic[-2];Overly Competitive[-1],24
+Jobyna,Detail-Oriented[3];Reliable[3];Flexible[2];Aloof[-1];Easily Distracted[-1],35
+Maryrose,Analytical[3];Supportive[2];Leadership[4];Micromanaging[-2];Procrastinator[-3],13
+Celina,Empathetic[3];Collaborative[2];Problem-Solver[3];Uncooperative[-2];Resistant to Change[-2],14
+Dorree,Collaborative[2];Tech-Savvy[2];Logical[3];Conflict-Averse[-2];Indecisive[-2],37
+Shannen,Leadership[4];Time-Manager[3];Flexible[2];Micromanaging[-2];Dismissive[-2],31
+Arlyne,Tech-Savvy[2];Collaborative[2];Supportive[2];Procrastinator[-3];Unempathetic[-2],17
+Meggie,Creative Thinker[2];Problem-Solver[3];Analytical[3];Moody[-1];Skeptical[-1],32
+Beatrice,Leadership[4];Tech-Savvy[2];Analytical[3];Narrow-Minded[-2];Non-communicative[-2],20
+Madge,Organized[2];Logical[3];Empathetic[3];Non-communicative[-2];Resistant to Change[-2],28
+Elwira,Diplomatic[2];Tech-Savvy[2];Logical[3];Moody[-1];Unempathetic[-2],31
+Halette,Detail-Oriented[3];Analytical[3];Organized[2];Indecisive[-2];Narrow-Minded[-2],24
+Laurene,Diplomatic[2];Supportive[2];Creative Thinker[2];Overbearing[-1];Dismissive[-2],35
+Stella,Flexible[2];Analytical[3];Supportive[2];Non-communicative[-2];Impatient[-1],32
+Beilul,Creative Thinker[2];Strategic[3];Time-Manager[3];Defensive[-1];Unempathetic[-2],26
+Simone,Tech-Savvy[2];Problem-Solver[3];Time-Manager[3];Uncooperative[-2];Overly Critical[-2],36
+Julina,Mediator[2];Detail-Oriented[3];Creative Thinker[2];Overbearing[-1];Overly Competitive[-1],28
+Joceline,Leadership[4];Diplomatic[2];Tech-Savvy[2];Dismissive[-2];Impulsive[-1],30
+Willi,Leadership[4];Organized[2];Diplomatic[2];Overly Critical[-2];Overbearing[-1],6
+Ophelie,Mediator[2];Logical[3];Reliable[3];Micromanaging[-2];Impatient[-1],1
+Ardys,Innovative[2];Problem-Solver[3];Leadership[4];Unreliable[-3];Passive[-1],8
+Ollie,Innovative[2];Mediator[2];Resourceful[2];Easily Distracted[-1];Narrow-Minded[-2],19
+Binni,Tech-Savvy[2];Mediator[2];Flexible[2];Perfectionist (to a fault)[-1];Pessimistic[-1],30
+Nixie,Mediator[2];Resourceful[2];Strategic[3];Impulsive[-1];Stubborn[-1],27
+Marleah,Resourceful[2];Collaborative[2];Creative Thinker[2];Defensive[-1];Overly Critical[-2],11
+Waly,Creative Thinker[2];Organized[2];Time-Manager[3];Indecisive[-2];Overly Critical[-2],15
+Karlotta,Reliable[3];Problem-Solver[3];Strategic[3];Stubborn[-1];Micromanaging[-2],34
+Helge,Analytical[3];Diplomatic[2];Time-Manager[3];Perfectionist (to a fault)[-1];Impulsive[-1],23
+Druci,Innovative[2];Empathetic[3];Time-Manager[3];Pessimistic[-1];Stubborn[-1],15
+Marnie,Organized[2];Tech-Savvy[2];Leadership[4];Intolerant[-2];Pessimistic[-1],28
+Ardisj,Leadership[4];Resourceful[2];Analytical[3];Non-communicative[-2];Intolerant[-2],37
+Hedi,Communicative[2];Leadership[4];Tech-Savvy[2];Dismissive[-2];Overly Competitive[-1],34
+Morena,Tech-Savvy[2];Reliable[3];Problem-Solver[3];Indecisive[-2];Dismissive[-2],40
+Victoria,Tech-Savvy[2];Empathetic[3];Organized[2];Passive[-1];Overbearing[-1],29
+Kelcie,Communicative[2];Mediator[2];Analytical[3];Passive[-1];Procrastinator[-3],24
+Gaylene,Leadership[4];Innovative[2];Mediator[2];Moody[-1];Dismissive[-2],9
+Daffy,Creative Thinker[2];Flexible[2];Collaborative[2];Indecisive[-2];Perfectionist (to a fault)[-1],16
+Erma,Problem-Solver[3];Strategic[3];Creative Thinker[2];Moody[-1];Narrow-Minded[-2],10
+Alfie,Innovative[2];Reliable[3];Mediator[2];Stubborn[-1];Skeptical[-1],39
+Lorry,Strategic[3];Time-Manager[3];Supportive[2];Unreliable[-3];Easily Distracted[-1],34
+Adria,Flexible[2];Diplomatic[2];Leadership[4];Non-communicative[-2];Micromanaging[-2],17
+Emmy,Strategic[3];Collaborative[2];Diplomatic[2];Conflict-Averse[-2];Easily Distracted[-1],14
+Roxane,Mediator[2];Detail-Oriented[3];Creative Thinker[2];Overly Critical[-2];Overbearing[-1],23
+Mala,Innovative[2];Mediator[2];Diplomatic[2];Overbearing[-1];Impulsive[-1],36
+Avivah,Diplomatic[2];Problem-Solver[3];Strategic[3];Unreliable[-3];Stubborn[-1],26
+Marleah,Strategic[3];Mediator[2];Leadership[4];Defensive[-1];Overly Competitive[-1],24
+Karil,Reliable[3];Flexible[2];Diplomatic[2];Aloof[-1];Indecisive[-2],37
+Marsiella,Resourceful[2];Strategic[3];Communicative[2];Easily Distracted[-1];Conflict-Averse[-2],24
+Emmalyn,Supportive[2];Communicative[2];Organized[2];Dismissive[-2];Procrastinator[-3],7
+Othilia,Strategic[3];Empathetic[3];Supportive[2];Unreliable[-3];Intolerant[-2],26
+Alida,Analytical[3];Communicative[2];Resourceful[2];Aloof[-1];Overbearing[-1],36
+Marinna,Creative Thinker[2];Strategic[3];Collaborative[2];Unempathetic[-2];Passive[-1],33
+Annalise,Supportive[2];Flexible[2];Innovative[2];Impulsive[-1];Skeptical[-1],9
+Trudi,Creative Thinker[2];Problem-Solver[3];Time-Manager[3];Impatient[-1];Micromanaging[-2],14
+Eda,Empathetic[3];Mediator[2];Innovative[2];Dismissive[-2];Impatient[-1],13
+Gwenny,Empathetic[3];Analytical[3];Organized[2];Overbearing[-1];Non-communicative[-2],11
+Tim,Analytical[3];Reliable[3];Communicative[2];Rigid[-2];Unempathetic[-2],5
+Ailis,Organized[2];Empathetic[3];Supportive[2];Non-communicative[-2];Easily Distracted[-1],32
+Kellyann,Reliable[3];Analytical[3];Time-Manager[3];Moody[-1];Defensive[-1],15
+Norean,Resourceful[2];Logical[3];Creative Thinker[2];Skeptical[-1];Micromanaging[-2],6
+Camila,Logical[3];Collaborative[2];Diplomatic[2];Impulsive[-1];Non-communicative[-2],17
+Carolann,Mediator[2];Empathetic[3];Communicative[2];Procrastinator[-3];Dismissive[-2],21
+Bette-Ann,Resourceful[2];Leadership[4];Organized[2];Conflict-Averse[-2];Perfectionist (to a fault)[-1],38
+Ashlen,Reliable[3];Flexible[2];Innovative[2];Uncooperative[-2];Stubborn[-1],29
+Salomi,Communicative[2];Reliable[3];Time-Manager[3];Pessimistic[-1];Impulsive[-1],0
+Tedi,Logical[3];Creative Thinker[2];Tech-Savvy[2];Unreliable[-3];Stubborn[-1],11
+Maure,Supportive[2];Collaborative[2];Empathetic[3];Defensive[-1];Resistant to Change[-2],0
+Elka,Innovative[2];Analytical[3];Collaborative[2];Aloof[-1];Micromanaging[-2],24
+Maurita,Time-Manager[3];Resourceful[2];Innovative[2];Indecisive[-2];Moody[-1],36
+Natividad,Leadership[4];Time-Manager[3];Resourceful[2];Narrow-Minded[-2];Dismissive[-2],35
+Belle,Leadership[4];Detail-Oriented[3];Innovative[2];Passive[-1];Overbearing[-1],26
+Rozina,Empathetic[3];Flexible[2];Strategic[3];Indecisive[-2];Skeptical[-1],18
+Trixy,Collaborative[2];Leadership[4];Problem-Solver[3];Indecisive[-2];Easily Distracted[-1],4
+Delila,Communicative[2];Mediator[2];Collaborative[2];Moody[-1];Dismissive[-2],36
+Garnette,Empathetic[3];Time-Manager[3];Analytical[3];Dismissive[-2];Perfectionist (to a fault)[-1],13
+Patricia,Problem-Solver[3];Mediator[2];Innovative[2];Intolerant[-2];Narrow-Minded[-2],6
+Mia,Strategic[3];Leadership[4];Problem-Solver[3];Conflict-Averse[-2];Moody[-1],32
+Sydel,Flexible[2];Time-Manager[3];Mediator[2];Intolerant[-2];Dismissive[-2],2
+Tally,Communicative[2];Creative Thinker[2];Tech-Savvy[2];Unempathetic[-2];Uncooperative[-2],20
+Genny,Time-Manager[3];Creative Thinker[2];Leadership[4];Aloof[-1];Conflict-Averse[-2],36
+Nicola,Resourceful[2];Time-Manager[3];Organized[2];Overly Competitive[-1];Aloof[-1],18
+Perl,Detail-Oriented[3];Collaborative[2];Strategic[3];Stubborn[-1];Dismissive[-2],2
+Gwynne,Problem-Solver[3];Flexible[2];Analytical[3];Perfectionist (to a fault)[-1];Conflict-Averse[-2],29
+Kora,Creative Thinker[2];Organized[2];Innovative[2];Rigid[-2];Pessimistic[-1],7
+Maura,Tech-Savvy[2];Diplomatic[2];Time-Manager[3];Dismissive[-2];Intolerant[-2],5
+Ruthanne,Flexible[2];Empathetic[3];Tech-Savvy[2];Uncooperative[-2];Pessimistic[-1],34
+Noelyn,Leadership[4];Diplomatic[2];Innovative[2];Rigid[-2];Pessimistic[-1],29
+Anderea,Organized[2];Flexible[2];Detail-Oriented[3];Non-communicative[-2];Skeptical[-1],13
+Doll,Reliable[3];Creative Thinker[2];Logical[3];Micromanaging[-2];Overly Critical[-2],2
+Ardith,Detail-Oriented[3];Tech-Savvy[2];Resourceful[2];Skeptical[-1];Perfectionist (to a fault)[-1],34
+Ardelis,Organized[2];Empathetic[3];Creative Thinker[2];Overly Competitive[-1];Unempathetic[-2],9
+Karmen,Resourceful[2];Time-Manager[3];Leadership[4];Overly Critical[-2];Unempathetic[-2],40
+Anastasia,Time-Manager[3];Problem-Solver[3];Collaborative[2];Passive[-1];Unempathetic[-2],32
+Lou,Reliable[3];Problem-Solver[3];Collaborative[2];Defensive[-1];Stubborn[-1],26
+Felisha,Analytical[3];Mediator[2];Leadership[4];Impatient[-1];Easily Distracted[-1],3
+Hyacinthe,Communicative[2];Innovative[2];Detail-Oriented[3];Skeptical[-1];Resistant to Change[-2],23
+Ailis,Logical[3];Flexible[2];Time-Manager[3];Perfectionist (to a fault)[-1];Dismissive[-2],25
+Frieda,Collaborative[2];Diplomatic[2];Logical[3];Impatient[-1];Impulsive[-1],25
+Quintana,Strategic[3];Flexible[2];Detail-Oriented[3];Narrow-Minded[-2];Passive[-1],40
+Aleece,Tech-Savvy[2];Strategic[3];Detail-Oriented[3];Rigid[-2];Dismissive[-2],19
+Zorine,Empathetic[3];Innovative[2];Logical[3];Unreliable[-3];Impatient[-1],16
+Dulce,Reliable[3];Resourceful[2];Creative Thinker[2];Procrastinator[-3];Uncooperative[-2],31
+Shel,Time-Manager[3];Detail-Oriented[3];Tech-Savvy[2];Easily Distracted[-1];Passive[-1],4
+Julissa,Mediator[2];Analytical[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Uncooperative[-2],22
+Mariette,Innovative[2];Analytical[3];Collaborative[2];Perfectionist (to a fault)[-1];Impulsive[-1],30
+Eyde,Analytical[3];Collaborative[2];Supportive[2];Conflict-Averse[-2];Impatient[-1],11
+Zena,Time-Manager[3];Supportive[2];Empathetic[3];Passive[-1];Uncooperative[-2],13
+Antonie,Organized[2];Analytical[3];Strategic[3];Resistant to Change[-2];Aloof[-1],28
+Marlee,Mediator[2];Innovative[2];Time-Manager[3];Impatient[-1];Pessimistic[-1],15
+Georgeta,Reliable[3];Mediator[2];Detail-Oriented[3];Impatient[-1];Unempathetic[-2],31
+Rhody,Innovative[2];Mediator[2];Resourceful[2];Pessimistic[-1];Narrow-Minded[-2],1
+Modestine,Tech-Savvy[2];Reliable[3];Analytical[3];Aloof[-1];Impulsive[-1],2
+Charity,Leadership[4];Analytical[3];Reliable[3];Indecisive[-2];Dismissive[-2],37
+Genny,Reliable[3];Problem-Solver[3];Leadership[4];Overly Competitive[-1];Impulsive[-1],29
+Kathryne,Empathetic[3];Leadership[4];Organized[2];Resistant to Change[-2];Procrastinator[-3],13
+Heath,Problem-Solver[3];Flexible[2];Mediator[2];Procrastinator[-3];Stubborn[-1],18
+Mallorie,Logical[3];Time-Manager[3];Mediator[2];Unreliable[-3];Overly Critical[-2],6
+Elene,Analytical[3];Tech-Savvy[2];Creative Thinker[2];Conflict-Averse[-2];Impatient[-1],17
+Brenn,Creative Thinker[2];Mediator[2];Supportive[2];Pessimistic[-1];Resistant to Change[-2],7
+Sacha,Empathetic[3];Flexible[2];Logical[3];Pessimistic[-1];Overbearing[-1],10
+Rosaline,Flexible[2];Detail-Oriented[3];Problem-Solver[3];Stubborn[-1];Overly Competitive[-1],22
+Trudy,Diplomatic[2];Innovative[2];Creative Thinker[2];Aloof[-1];Indecisive[-2],16
+Theresita,Strategic[3];Time-Manager[3];Empathetic[3];Unreliable[-3];Unempathetic[-2],0
+Rita,Supportive[2];Mediator[2];Empathetic[3];Resistant to Change[-2];Micromanaging[-2],1
+Shalne,Innovative[2];Empathetic[3];Time-Manager[3];Impulsive[-1];Indecisive[-2],0
+Lib,Innovative[2];Resourceful[2];Tech-Savvy[2];Conflict-Averse[-2];Narrow-Minded[-2],29
+Brittne,Tech-Savvy[2];Empathetic[3];Mediator[2];Procrastinator[-3];Non-communicative[-2],33
+Analiese,Detail-Oriented[3];Analytical[3];Flexible[2];Aloof[-1];Dismissive[-2],13
+Golda,Logical[3];Diplomatic[2];Tech-Savvy[2];Perfectionist (to a fault)[-1];Overly Competitive[-1],27
+Jill,Time-Manager[3];Innovative[2];Creative Thinker[2];Passive[-1];Impulsive[-1],14
+Geralda,Leadership[4];Resourceful[2];Analytical[3];Perfectionist (to a fault)[-1];Non-communicative[-2],2
+Roda,Time-Manager[3];Tech-Savvy[2];Innovative[2];Overly Competitive[-1];Unreliable[-3],9
+Rosa,Collaborative[2];Flexible[2];Detail-Oriented[3];Conflict-Averse[-2];Impatient[-1],17
+Joana,Flexible[2];Leadership[4];Time-Manager[3];Aloof[-1];Dismissive[-2],10
+Laetitia,Reliable[3];Empathetic[3];Leadership[4];Skeptical[-1];Impatient[-1],13
+Josi,Analytical[3];Innovative[2];Flexible[2];Unempathetic[-2];Dismissive[-2],17
+Karly,Mediator[2];Empathetic[3];Logical[3];Passive[-1];Moody[-1],12
+Agnes,Resourceful[2];Detail-Oriented[3];Leadership[4];Passive[-1];Uncooperative[-2],29
+Hattie,Empathetic[3];Leadership[4];Communicative[2];Overly Competitive[-1];Aloof[-1],32
+Theressa,Innovative[2];Mediator[2];Tech-Savvy[2];Unempathetic[-2];Conflict-Averse[-2],19
+Aviva,Mediator[2];Creative Thinker[2];Communicative[2];Procrastinator[-3];Rigid[-2],3
+Rakel,Mediator[2];Creative Thinker[2];Collaborative[2];Intolerant[-2];Indecisive[-2],24
+Christine,Resourceful[2];Creative Thinker[2];Empathetic[3];Perfectionist (to a fault)[-1];Uncooperative[-2],11
+Starlin,Organized[2];Resourceful[2];Leadership[4];Intolerant[-2];Dismissive[-2],0
+Marcela,Creative Thinker[2];Strategic[3];Flexible[2];Overly Critical[-2];Overly Competitive[-1],3
+Cacilie,Detail-Oriented[3];Empathetic[3];Supportive[2];Dismissive[-2];Intolerant[-2],22
+Tuesday,Detail-Oriented[3];Strategic[3];Supportive[2];Overly Competitive[-1];Overly Critical[-2],16
+Nerte,Problem-Solver[3];Analytical[3];Organized[2];Procrastinator[-3];Resistant to Change[-2],38
+Kathy,Problem-Solver[3];Logical[3];Supportive[2];Resistant to Change[-2];Impulsive[-1],10
+Angelique,Communicative[2];Creative Thinker[2];Supportive[2];Indecisive[-2];Perfectionist (to a fault)[-1],35
+Stephi,Collaborative[2];Reliable[3];Strategic[3];Overly Competitive[-1];Defensive[-1],27
+Daphne,Communicative[2];Tech-Savvy[2];Mediator[2];Conflict-Averse[-2];Overly Critical[-2],35
+Dynah,Strategic[3];Logical[3];Empathetic[3];Non-communicative[-2];Passive[-1],6
+Binny,Resourceful[2];Detail-Oriented[3];Collaborative[2];Passive[-1];Perfectionist (to a fault)[-1],8
+Ida,Resourceful[2];Reliable[3];Strategic[3];Micromanaging[-2];Non-communicative[-2],2
+Dalenna,Diplomatic[2];Communicative[2];Flexible[2];Resistant to Change[-2];Moody[-1],3
+Kimmie,Problem-Solver[3];Leadership[4];Analytical[3];Moody[-1];Intolerant[-2],31
+Carmel,Innovative[2];Detail-Oriented[3];Supportive[2];Passive[-1];Resistant to Change[-2],40
+Evaleen,Flexible[2];Analytical[3];Tech-Savvy[2];Unempathetic[-2];Intolerant[-2],15
+Deni,Organized[2];Strategic[3];Time-Manager[3];Uncooperative[-2];Conflict-Averse[-2],35
+Olive,Leadership[4];Reliable[3];Time-Manager[3];Indecisive[-2];Dismissive[-2],38
+Livvyy,Creative Thinker[2];Diplomatic[2];Flexible[2];Non-communicative[-2];Aloof[-1],28
+Doralin,Innovative[2];Supportive[2];Detail-Oriented[3];Aloof[-1];Intolerant[-2],36
+Christal,Reliable[3];Mediator[2];Leadership[4];Resistant to Change[-2];Unreliable[-3],25
+Kai,Tech-Savvy[2];Strategic[3];Creative Thinker[2];Indecisive[-2];Perfectionist (to a fault)[-1],33
+Claudina,Empathetic[3];Resourceful[2];Reliable[3];Defensive[-1];Indecisive[-2],8
+Cammie,Creative Thinker[2];Detail-Oriented[3];Tech-Savvy[2];Uncooperative[-2];Non-communicative[-2],15
+Clerissa,Analytical[3];Supportive[2];Tech-Savvy[2];Intolerant[-2];Skeptical[-1],32
+Elvira,Organized[2];Flexible[2];Resourceful[2];Micromanaging[-2];Skeptical[-1],0
+Bernette,Tech-Savvy[2];Flexible[2];Communicative[2];Passive[-1];Micromanaging[-2],35
+Renee,Collaborative[2];Innovative[2];Leadership[4];Defensive[-1];Procrastinator[-3],31
+Crysta,Diplomatic[2];Reliable[3];Supportive[2];Non-communicative[-2];Overly Critical[-2],25
+Annadiane,Reliable[3];Empathetic[3];Logical[3];Indecisive[-2];Moody[-1],39
+Jana,Leadership[4];Strategic[3];Organized[2];Easily Distracted[-1];Skeptical[-1],9
+Farica,Logical[3];Diplomatic[2];Innovative[2];Intolerant[-2];Unreliable[-3],29
+Concordia,Diplomatic[2];Mediator[2];Supportive[2];Unempathetic[-2];Stubborn[-1],3
+Daffi,Strategic[3];Analytical[3];Resourceful[2];Uncooperative[-2];Defensive[-1],27
+Serene,Logical[3];Creative Thinker[2];Reliable[3];Unempathetic[-2];Overly Competitive[-1],34
+Dehlia,Problem-Solver[3];Logical[3];Flexible[2];Conflict-Averse[-2];Moody[-1],33
+Noni,Organized[2];Resourceful[2];Empathetic[3];Overly Competitive[-1];Stubborn[-1],3
+Louella,Detail-Oriented[3];Supportive[2];Diplomatic[2];Narrow-Minded[-2];Dismissive[-2],4
+Florie,Reliable[3];Problem-Solver[3];Detail-Oriented[3];Defensive[-1];Overly Competitive[-1],14
+Lotte,Logical[3];Leadership[4];Detail-Oriented[3];Micromanaging[-2];Moody[-1],4
+Aubine,Logical[3];Organized[2];Supportive[2];Procrastinator[-3];Indecisive[-2],36
+Amie,Flexible[2];Collaborative[2];Strategic[3];Impatient[-1];Unreliable[-3],27
+Lacie,Detail-Oriented[3];Time-Manager[3];Tech-Savvy[2];Impulsive[-1];Unempathetic[-2],21
+Willabella,Resourceful[2];Flexible[2];Problem-Solver[3];Resistant to Change[-2];Pessimistic[-1],22
+Carmita,Detail-Oriented[3];Strategic[3];Reliable[3];Procrastinator[-3];Pessimistic[-1],9
+Traci,Communicative[2];Reliable[3];Tech-Savvy[2];Indecisive[-2];Narrow-Minded[-2],25
+Wilhelmine,Time-Manager[3];Organized[2];Leadership[4];Unreliable[-3];Stubborn[-1],36
+Eden,Creative Thinker[2];Supportive[2];Logical[3];Impatient[-1];Intolerant[-2],23
+Rickie,Mediator[2];Logical[3];Strategic[3];Overly Critical[-2];Intolerant[-2],34
+Kirbie,Time-Manager[3];Resourceful[2];Analytical[3];Uncooperative[-2];Defensive[-1],8
+Tarrah,Innovative[2];Time-Manager[3];Analytical[3];Pessimistic[-1];Moody[-1],17
+Kelsi,Organized[2];Supportive[2];Resourceful[2];Indecisive[-2];Overly Competitive[-1],11
+Juditha,Flexible[2];Mediator[2];Resourceful[2];Conflict-Averse[-2];Impatient[-1],11
+Ofelia,Flexible[2];Analytical[3];Logical[3];Indecisive[-2];Defensive[-1],31
+Daffie,Collaborative[2];Problem-Solver[3];Empathetic[3];Rigid[-2];Unreliable[-3],35
+Alla,Creative Thinker[2];Time-Manager[3];Problem-Solver[3];Easily Distracted[-1];Impatient[-1],14
+Bernita,Flexible[2];Problem-Solver[3];Logical[3];Micromanaging[-2];Rigid[-2],16
+Francene,Diplomatic[2];Analytical[3];Creative Thinker[2];Non-communicative[-2];Skeptical[-1],8
+Peta,Organized[2];Resourceful[2];Strategic[3];Narrow-Minded[-2];Defensive[-1],8
+Marinna,Creative Thinker[2];Innovative[2];Organized[2];Impulsive[-1];Dismissive[-2],37
+Evangelin,Supportive[2];Flexible[2];Empathetic[3];Unempathetic[-2];Skeptical[-1],28
+Karita,Communicative[2];Logical[3];Creative Thinker[2];Narrow-Minded[-2];Resistant to Change[-2],22
+Afton,Organized[2];Innovative[2];Creative Thinker[2];Overly Critical[-2];Pessimistic[-1],29
+Jacklin,Analytical[3];Leadership[4];Tech-Savvy[2];Micromanaging[-2];Pessimistic[-1],34
+Vallie,Innovative[2];Mediator[2];Analytical[3];Non-communicative[-2];Narrow-Minded[-2],1
+Helen,Detail-Oriented[3];Flexible[2];Innovative[2];Micromanaging[-2];Perfectionist (to a fault)[-1],8
+Krissy,Collaborative[2];Logical[3];Diplomatic[2];Narrow-Minded[-2];Conflict-Averse[-2],0
+Corliss,Problem-Solver[3];Time-Manager[3];Communicative[2];Stubborn[-1];Easily Distracted[-1],12
+Raychel,Mediator[2];Logical[3];Innovative[2];Non-communicative[-2];Indecisive[-2],10
+Damita,Creative Thinker[2];Tech-Savvy[2];Strategic[3];Unempathetic[-2];Skeptical[-1],20
+Nanete,Supportive[2];Flexible[2];Analytical[3];Easily Distracted[-1];Non-communicative[-2],0
+Aimil,Empathetic[3];Supportive[2];Detail-Oriented[3];Aloof[-1];Indecisive[-2],19
+Amelina,Reliable[3];Flexible[2];Empathetic[3];Intolerant[-2];Easily Distracted[-1],4
+Brana,Diplomatic[2];Mediator[2];Collaborative[2];Non-communicative[-2];Intolerant[-2],14
+Kacie,Mediator[2];Innovative[2];Empathetic[3];Non-communicative[-2];Uncooperative[-2],33
+Valida,Diplomatic[2];Reliable[3];Organized[2];Dismissive[-2];Intolerant[-2],19
+Heddie,Tech-Savvy[2];Detail-Oriented[3];Creative Thinker[2];Passive[-1];Micromanaging[-2],10
+Reine,Problem-Solver[3];Creative Thinker[2];Tech-Savvy[2];Moody[-1];Intolerant[-2],0
+Reiko,Time-Manager[3];Diplomatic[2];Detail-Oriented[3];Impulsive[-1];Resistant to Change[-2],38
+Monica,Mediator[2];Detail-Oriented[3];Empathetic[3];Easily Distracted[-1];Conflict-Averse[-2],4
+Janis,Empathetic[3];Collaborative[2];Diplomatic[2];Defensive[-1];Stubborn[-1],12
+Kirsteni,Innovative[2];Organized[2];Supportive[2];Non-communicative[-2];Unreliable[-3],37
+Berte,Communicative[2];Diplomatic[2];Collaborative[2];Procrastinator[-3];Micromanaging[-2],18
+Katusha,Strategic[3];Leadership[4];Empathetic[3];Conflict-Averse[-2];Perfectionist (to a fault)[-1],5
+Georgeta,Strategic[3];Time-Manager[3];Analytical[3];Resistant to Change[-2];Stubborn[-1],40
+Damara,Communicative[2];Logical[3];Empathetic[3];Micromanaging[-2];Procrastinator[-3],8
+Dyan,Problem-Solver[3];Empathetic[3];Time-Manager[3];Unempathetic[-2];Easily Distracted[-1],4
+Goldarina,Communicative[2];Flexible[2];Supportive[2];Impulsive[-1];Moody[-1],39
+Cahra,Logical[3];Time-Manager[3];Detail-Oriented[3];Skeptical[-1];Unempathetic[-2],40
+Eddi,Detail-Oriented[3];Collaborative[2];Creative Thinker[2];Resistant to Change[-2];Unempathetic[-2],39
+Dian,Organized[2];Strategic[3];Diplomatic[2];Moody[-1];Pessimistic[-1],1
+Korry,Diplomatic[2];Flexible[2];Time-Manager[3];Aloof[-1];Moody[-1],20
+Ellene,Mediator[2];Resourceful[2];Problem-Solver[3];Unempathetic[-2];Skeptical[-1],14
+Lonna,Leadership[4];Diplomatic[2];Strategic[3];Perfectionist (to a fault)[-1];Dismissive[-2],17
+Bernardina,Empathetic[3];Collaborative[2];Strategic[3];Impatient[-1];Overbearing[-1],21
+Maryanna,Organized[2];Communicative[2];Reliable[3];Impulsive[-1];Overly Critical[-2],30
+Romona,Organized[2];Diplomatic[2];Strategic[3];Dismissive[-2];Conflict-Averse[-2],11
+Jessica,Communicative[2];Creative Thinker[2];Time-Manager[3];Micromanaging[-2];Uncooperative[-2],21
+Gerrie,Problem-Solver[3];Collaborative[2];Diplomatic[2];Overly Critical[-2];Aloof[-1],20
+Hinda,Detail-Oriented[3];Logical[3];Collaborative[2];Resistant to Change[-2];Impulsive[-1],18
+Shelly,Collaborative[2];Diplomatic[2];Leadership[4];Impatient[-1];Resistant to Change[-2],1
+Noelle,Leadership[4];Strategic[3];Time-Manager[3];Unempathetic[-2];Aloof[-1],19
+Margaux,Leadership[4];Reliable[3];Problem-Solver[3];Pessimistic[-1];Defensive[-1],10
+Corie,Reliable[3];Mediator[2];Leadership[4];Stubborn[-1];Aloof[-1],12
+Loutitia,Time-Manager[3];Diplomatic[2];Leadership[4];Easily Distracted[-1];Resistant to Change[-2],6
+Mareah,Diplomatic[2];Tech-Savvy[2];Flexible[2];Conflict-Averse[-2];Intolerant[-2],36
+Cyndy,Strategic[3];Diplomatic[2];Tech-Savvy[2];Rigid[-2];Easily Distracted[-1],7
+Loren,Creative Thinker[2];Organized[2];Leadership[4];Narrow-Minded[-2];Pessimistic[-1],25
+Cory,Leadership[4];Analytical[3];Problem-Solver[3];Unempathetic[-2];Pessimistic[-1],6
+Bobbe,Leadership[4];Detail-Oriented[3];Strategic[3];Uncooperative[-2];Easily Distracted[-1],8
+Blakeley,Flexible[2];Reliable[3];Creative Thinker[2];Overbearing[-1];Narrow-Minded[-2],5
+Felecia,Strategic[3];Time-Manager[3];Supportive[2];Micromanaging[-2];Easily Distracted[-1],4
+Kimmy,Supportive[2];Logical[3];Creative Thinker[2];Skeptical[-1];Overbearing[-1],37
+Fallon,Supportive[2];Creative Thinker[2];Empathetic[3];Stubborn[-1];Narrow-Minded[-2],12
+Theresita,Mediator[2];Creative Thinker[2];Supportive[2];Skeptical[-1];Unreliable[-3],1
+Anallese,Empathetic[3];Innovative[2];Resourceful[2];Skeptical[-1];Impatient[-1],9
+Elinore,Communicative[2];Strategic[3];Flexible[2];Overly Critical[-2];Dismissive[-2],7
+Katherina,Reliable[3];Organized[2];Logical[3];Micromanaging[-2];Overbearing[-1],32
+Karyl,Analytical[3];Flexible[2];Collaborative[2];Micromanaging[-2];Non-communicative[-2],35
+Blakeley,Problem-Solver[3];Collaborative[2];Mediator[2];Moody[-1];Stubborn[-1],28
+Flossy,Tech-Savvy[2];Leadership[4];Reliable[3];Defensive[-1];Impulsive[-1],39
+Phebe,Detail-Oriented[3];Analytical[3];Time-Manager[3];Passive[-1];Overly Critical[-2],40
+Devonna,Supportive[2];Strategic[3];Creative Thinker[2];Non-communicative[-2];Impatient[-1],38
+Lauri,Logical[3];Tech-Savvy[2];Mediator[2];Intolerant[-2];Pessimistic[-1],26
+Sybilla,Innovative[2];Leadership[4];Empathetic[3];Pessimistic[-1];Overly Competitive[-1],16
+Amil,Analytical[3];Innovative[2];Tech-Savvy[2];Conflict-Averse[-2];Passive[-1],16
+Elka,Innovative[2];Detail-Oriented[3];Diplomatic[2];Conflict-Averse[-2];Rigid[-2],9
+Theressa,Time-Manager[3];Communicative[2];Creative Thinker[2];Skeptical[-1];Impatient[-1],9
+Evita,Innovative[2];Reliable[3];Organized[2];Skeptical[-1];Conflict-Averse[-2],29
+Enrica,Time-Manager[3];Collaborative[2];Creative Thinker[2];Uncooperative[-2];Procrastinator[-3],35
+Adelice,Reliable[3];Leadership[4];Supportive[2];Dismissive[-2];Impulsive[-1],33
+Tamera,Time-Manager[3];Organized[2];Resourceful[2];Narrow-Minded[-2];Micromanaging[-2],10
+Sheilah,Time-Manager[3];Organized[2];Logical[3];Defensive[-1];Overly Critical[-2],25
+Kelcey,Resourceful[2];Collaborative[2];Tech-Savvy[2];Intolerant[-2];Uncooperative[-2],12
+Ibby,Creative Thinker[2];Logical[3];Time-Manager[3];Impatient[-1];Rigid[-2],28
+Morgana,Time-Manager[3];Tech-Savvy[2];Reliable[3];Impulsive[-1];Micromanaging[-2],30
+Willabella,Logical[3];Tech-Savvy[2];Supportive[2];Moody[-1];Unreliable[-3],27
+Kirsteni,Tech-Savvy[2];Communicative[2];Innovative[2];Skeptical[-1];Impulsive[-1],14
+Leeanne,Strategic[3];Diplomatic[2];Time-Manager[3];Rigid[-2];Non-communicative[-2],30
+Gelya,Analytical[3];Reliable[3];Empathetic[3];Unempathetic[-2];Overly Critical[-2],30
+Jenni,Collaborative[2];Problem-Solver[3];Leadership[4];Passive[-1];Skeptical[-1],10
+Nanci,Creative Thinker[2];Reliable[3];Detail-Oriented[3];Unreliable[-3];Moody[-1],38
+Mathilde,Communicative[2];Creative Thinker[2];Resourceful[2];Aloof[-1];Impatient[-1],33
+Cindi,Communicative[2];Creative Thinker[2];Empathetic[3];Stubborn[-1];Moody[-1],37
+Mercie,Mediator[2];Problem-Solver[3];Tech-Savvy[2];Rigid[-2];Perfectionist (to a fault)[-1],31
+Ophelia,Resourceful[2];Supportive[2];Mediator[2];Unempathetic[-2];Skeptical[-1],4
+Salome,Time-Manager[3];Reliable[3];Detail-Oriented[3];Moody[-1];Defensive[-1],5
+Mamie,Logical[3];Innovative[2];Communicative[2];Stubborn[-1];Rigid[-2],20
+Hyacinthia,Communicative[2];Collaborative[2];Leadership[4];Defensive[-1];Perfectionist (to a fault)[-1],36
+Corene,Problem-Solver[3];Organized[2];Mediator[2];Overly Competitive[-1];Aloof[-1],24
+Shea,Strategic[3];Leadership[4];Reliable[3];Non-communicative[-2];Resistant to Change[-2],4
+Missie,Flexible[2];Logical[3];Supportive[2];Micromanaging[-2];Procrastinator[-3],20
+Prudi,Flexible[2];Empathetic[3];Mediator[2];Impatient[-1];Overly Critical[-2],32
+Mavis,Flexible[2];Tech-Savvy[2];Supportive[2];Pessimistic[-1];Dismissive[-2],5
+Gray,Mediator[2];Resourceful[2];Supportive[2];Stubborn[-1];Non-communicative[-2],32
+Aubrette,Organized[2];Flexible[2];Strategic[3];Overly Competitive[-1];Conflict-Averse[-2],12
+Josefa,Empathetic[3];Communicative[2];Supportive[2];Micromanaging[-2];Overly Competitive[-1],4
+Nina,Organized[2];Time-Manager[3];Collaborative[2];Unreliable[-3];Dismissive[-2],22
+Anstice,Mediator[2];Empathetic[3];Supportive[2];Indecisive[-2];Procrastinator[-3],31
+Francisca,Analytical[3];Reliable[3];Problem-Solver[3];Pessimistic[-1];Indecisive[-2],36
+Wally,Mediator[2];Supportive[2];Detail-Oriented[3];Rigid[-2];Non-communicative[-2],1
+Nelle,Logical[3];Empathetic[3];Detail-Oriented[3];Non-communicative[-2];Intolerant[-2],28
+Amara,Mediator[2];Detail-Oriented[3];Innovative[2];Indecisive[-2];Procrastinator[-3],24
+Blisse,Flexible[2];Tech-Savvy[2];Creative Thinker[2];Impulsive[-1];Intolerant[-2],35
+Oralie,Flexible[2];Supportive[2];Detail-Oriented[3];Non-communicative[-2];Stubborn[-1],20
+Mignon,Leadership[4];Organized[2];Detail-Oriented[3];Skeptical[-1];Overly Critical[-2],16
+Cherri,Collaborative[2];Supportive[2];Problem-Solver[3];Defensive[-1];Skeptical[-1],18
+Juana,Resourceful[2];Mediator[2];Diplomatic[2];Overly Competitive[-1];Uncooperative[-2],40
+Dasya,Leadership[4];Flexible[2];Collaborative[2];Procrastinator[-3];Intolerant[-2],37
+Hanny,Mediator[2];Organized[2];Detail-Oriented[3];Defensive[-1];Perfectionist (to a fault)[-1],37
+Rowe,Innovative[2];Analytical[3];Creative Thinker[2];Moody[-1];Conflict-Averse[-2],8
+Melli,Flexible[2];Empathetic[3];Detail-Oriented[3];Micromanaging[-2];Pessimistic[-1],26
+Cloe,Communicative[2];Diplomatic[2];Flexible[2];Perfectionist (to a fault)[-1];Indecisive[-2],32
+Alis,Supportive[2];Tech-Savvy[2];Strategic[3];Dismissive[-2];Procrastinator[-3],17
+Violetta,Communicative[2];Time-Manager[3];Creative Thinker[2];Narrow-Minded[-2];Passive[-1],10
+Kippy,Diplomatic[2];Reliable[3];Problem-Solver[3];Indecisive[-2];Skeptical[-1],17
+Jeannette,Logical[3];Strategic[3];Innovative[2];Pessimistic[-1];Defensive[-1],9
+Orella,Collaborative[2];Supportive[2];Time-Manager[3];Rigid[-2];Impulsive[-1],34
+Franny,Flexible[2];Supportive[2];Empathetic[3];Uncooperative[-2];Stubborn[-1],30
+Sascha,Strategic[3];Collaborative[2];Diplomatic[2];Dismissive[-2];Conflict-Averse[-2],13
+Anabel,Detail-Oriented[3];Problem-Solver[3];Supportive[2];Unempathetic[-2];Impatient[-1],0
+Isa,Analytical[3];Diplomatic[2];Reliable[3];Unreliable[-3];Easily Distracted[-1],22
+Shirl,Strategic[3];Leadership[4];Collaborative[2];Unreliable[-3];Defensive[-1],4
+Prudence,Analytical[3];Supportive[2];Problem-Solver[3];Overly Competitive[-1];Rigid[-2],30
+Michelle,Resourceful[2];Empathetic[3];Time-Manager[3];Conflict-Averse[-2];Defensive[-1],40
+Sybille,Detail-Oriented[3];Resourceful[2];Strategic[3];Moody[-1];Passive[-1],37
+Candie,Supportive[2];Detail-Oriented[3];Diplomatic[2];Procrastinator[-3];Skeptical[-1],24
+Agneta,Supportive[2];Flexible[2];Problem-Solver[3];Impatient[-1];Dismissive[-2],25
+Ree,Time-Manager[3];Strategic[3];Supportive[2];Perfectionist (to a fault)[-1];Resistant to Change[-2],3
+Mariele,Detail-Oriented[3];Leadership[4];Communicative[2];Passive[-1];Rigid[-2],8
+Ariana,Leadership[4];Empathetic[3];Analytical[3];Dismissive[-2];Unempathetic[-2],30
+Minna,Reliable[3];Flexible[2];Communicative[2];Passive[-1];Stubborn[-1],11
+Susan,Strategic[3];Mediator[2];Leadership[4];Moody[-1];Rigid[-2],23
+Halli,Mediator[2];Tech-Savvy[2];Communicative[2];Skeptical[-1];Intolerant[-2],0
+Francyne,Time-Manager[3];Collaborative[2];Creative Thinker[2];Narrow-Minded[-2];Skeptical[-1],25
+Aprilette,Tech-Savvy[2];Resourceful[2];Empathetic[3];Impatient[-1];Perfectionist (to a fault)[-1],31
+Dode,Collaborative[2];Time-Manager[3];Flexible[2];Aloof[-1];Overly Critical[-2],33
+Clarice,Innovative[2];Problem-Solver[3];Strategic[3];Impatient[-1];Aloof[-1],37
+Zilvia,Organized[2];Strategic[3];Resourceful[2];Overbearing[-1];Narrow-Minded[-2],8
+Faye,Time-Manager[3];Communicative[2];Innovative[2];Aloof[-1];Defensive[-1],22
+Theodosia,Leadership[4];Creative Thinker[2];Diplomatic[2];Passive[-1];Easily Distracted[-1],7
+Maitilde,Problem-Solver[3];Resourceful[2];Collaborative[2];Impulsive[-1];Non-communicative[-2],32
+Alli,Diplomatic[2];Detail-Oriented[3];Problem-Solver[3];Moody[-1];Unempathetic[-2],29
+Lorene,Detail-Oriented[3];Analytical[3];Supportive[2];Unempathetic[-2];Overly Competitive[-1],12
+Jacenta,Logical[3];Tech-Savvy[2];Detail-Oriented[3];Intolerant[-2];Aloof[-1],18
+Myriam,Detail-Oriented[3];Strategic[3];Empathetic[3];Dismissive[-2];Passive[-1],20
+Shoshana,Supportive[2];Analytical[3];Problem-Solver[3];Skeptical[-1];Easily Distracted[-1],4
+Teresina,Communicative[2];Analytical[3];Innovative[2];Procrastinator[-3];Micromanaging[-2],33
+Joanna,Flexible[2];Collaborative[2];Reliable[3];Stubborn[-1];Narrow-Minded[-2],29
+Blancha,Empathetic[3];Communicative[2];Analytical[3];Moody[-1];Impulsive[-1],19
+Constantine,Problem-Solver[3];Mediator[2];Leadership[4];Procrastinator[-3];Dismissive[-2],25
+Alison,Strategic[3];Communicative[2];Mediator[2];Intolerant[-2];Non-communicative[-2],27
+Maribelle,Logical[3];Innovative[2];Flexible[2];Overbearing[-1];Unempathetic[-2],38
+Klarika,Strategic[3];Collaborative[2];Problem-Solver[3];Indecisive[-2];Conflict-Averse[-2],1
+Janette,Diplomatic[2];Resourceful[2];Reliable[3];Conflict-Averse[-2];Non-communicative[-2],36
+Gusta,Collaborative[2];Detail-Oriented[3];Mediator[2];Indecisive[-2];Dismissive[-2],7
+Mahala,Supportive[2];Analytical[3];Organized[2];Micromanaging[-2];Indecisive[-2],39
+Lucita,Detail-Oriented[3];Leadership[4];Supportive[2];Perfectionist (to a fault)[-1];Defensive[-1],2
+Adrienne,Problem-Solver[3];Empathetic[3];Strategic[3];Stubborn[-1];Impatient[-1],30
+Johnna,Leadership[4];Innovative[2];Problem-Solver[3];Intolerant[-2];Skeptical[-1],38
+Maria,Communicative[2];Innovative[2];Collaborative[2];Intolerant[-2];Overbearing[-1],15
+Brita,Resourceful[2];Problem-Solver[3];Logical[3];Moody[-1];Passive[-1],35
+Jeanette,Reliable[3];Flexible[2];Resourceful[2];Perfectionist (to a fault)[-1];Resistant to Change[-2],40
+Mara,Strategic[3];Communicative[2];Mediator[2];Impatient[-1];Intolerant[-2],34
+Amalie,Communicative[2];Problem-Solver[3];Diplomatic[2];Procrastinator[-3];Micromanaging[-2],11
+Kordula,Tech-Savvy[2];Mediator[2];Resourceful[2];Impulsive[-1];Uncooperative[-2],7
+Clerissa,Leadership[4];Resourceful[2];Analytical[3];Stubborn[-1];Passive[-1],33
+Auroora,Detail-Oriented[3];Leadership[4];Mediator[2];Perfectionist (to a fault)[-1];Unempathetic[-2],30
+Zena,Tech-Savvy[2];Problem-Solver[3];Empathetic[3];Indecisive[-2];Passive[-1],18
+Aura,Resourceful[2];Time-Manager[3];Communicative[2];Perfectionist (to a fault)[-1];Moody[-1],38
+Torey,Tech-Savvy[2];Analytical[3];Resourceful[2];Stubborn[-1];Impatient[-1],7
+Serena,Analytical[3];Supportive[2];Time-Manager[3];Impatient[-1];Aloof[-1],12
+Jodee,Organized[2];Detail-Oriented[3];Empathetic[3];Aloof[-1];Impulsive[-1],39
+Sidoney,Resourceful[2];Collaborative[2];Communicative[2];Impatient[-1];Procrastinator[-3],35
+Pearline,Logical[3];Communicative[2];Problem-Solver[3];Pessimistic[-1];Easily Distracted[-1],14
+Lind,Time-Manager[3];Logical[3];Creative Thinker[2];Skeptical[-1];Micromanaging[-2],11
+Odessa,Tech-Savvy[2];Leadership[4];Mediator[2];Uncooperative[-2];Non-communicative[-2],1
+Roobbie,Innovative[2];Problem-Solver[3];Leadership[4];Perfectionist (to a fault)[-1];Procrastinator[-3],26
+Anetta,Detail-Oriented[3];Collaborative[2];Reliable[3];Aloof[-1];Pessimistic[-1],33
+Lauralee,Tech-Savvy[2];Flexible[2];Empathetic[3];Uncooperative[-2];Unempathetic[-2],20
+Dela,Supportive[2];Mediator[2];Flexible[2];Defensive[-1];Intolerant[-2],36
+Allegra,Innovative[2];Strategic[3];Time-Manager[3];Overly Competitive[-1];Passive[-1],6
+Katharine,Tech-Savvy[2];Leadership[4];Empathetic[3];Pessimistic[-1];Rigid[-2],23
+Deena,Innovative[2];Tech-Savvy[2];Flexible[2];Resistant to Change[-2];Easily Distracted[-1],9
+Carolyn,Collaborative[2];Strategic[3];Reliable[3];Moody[-1];Unreliable[-3],11
+Anthea,Mediator[2];Leadership[4];Logical[3];Impulsive[-1];Impatient[-1],31
+Eustacia,Strategic[3];Flexible[2];Problem-Solver[3];Narrow-Minded[-2];Overbearing[-1],6
+Gale,Empathetic[3];Collaborative[2];Time-Manager[3];Non-communicative[-2];Impatient[-1],39
+Deanne,Logical[3];Resourceful[2];Innovative[2];Narrow-Minded[-2];Passive[-1],28
+Emelia,Problem-Solver[3];Time-Manager[3];Diplomatic[2];Overly Critical[-2];Overbearing[-1],11
+Breena,Tech-Savvy[2];Logical[3];Creative Thinker[2];Easily Distracted[-1];Unempathetic[-2],26
+Judye,Supportive[2];Tech-Savvy[2];Innovative[2];Dismissive[-2];Unreliable[-3],3
+Phaidra,Tech-Savvy[2];Innovative[2];Communicative[2];Resistant to Change[-2];Moody[-1],20
+Albertine,Flexible[2];Logical[3];Detail-Oriented[3];Micromanaging[-2];Impatient[-1],2
+Neala,Leadership[4];Creative Thinker[2];Tech-Savvy[2];Indecisive[-2];Rigid[-2],7
+Ammamaria,Innovative[2];Flexible[2];Tech-Savvy[2];Overly Competitive[-1];Aloof[-1],27
+Oneida,Empathetic[3];Leadership[4];Tech-Savvy[2];Impulsive[-1];Procrastinator[-3],34
+Elianore,Reliable[3];Communicative[2];Flexible[2];Uncooperative[-2];Defensive[-1],22
+Micki,Detail-Oriented[3];Flexible[2];Communicative[2];Overbearing[-1];Impatient[-1],31
+Dulce,Logical[3];Problem-Solver[3];Supportive[2];Skeptical[-1];Overly Critical[-2],4
+Carla,Leadership[4];Tech-Savvy[2];Mediator[2];Procrastinator[-3];Impulsive[-1],16
+Ericha,Time-Manager[3];Resourceful[2];Reliable[3];Non-communicative[-2];Impulsive[-1],25
+Cherrita,Creative Thinker[2];Innovative[2];Logical[3];Overly Competitive[-1];Easily Distracted[-1],14
+Kalina,Resourceful[2];Logical[3];Supportive[2];Impulsive[-1];Conflict-Averse[-2],20
+Hetty,Supportive[2];Problem-Solver[3];Leadership[4];Procrastinator[-3];Defensive[-1],37
+Doti,Empathetic[3];Leadership[4];Detail-Oriented[3];Rigid[-2];Impatient[-1],4
+Ingaberg,Collaborative[2];Logical[3];Mediator[2];Dismissive[-2];Aloof[-1],38
+Rozamond,Supportive[2];Logical[3];Flexible[2];Intolerant[-2];Pessimistic[-1],26
+Twyla,Analytical[3];Leadership[4];Resourceful[2];Skeptical[-1];Procrastinator[-3],27
+Mead,Problem-Solver[3];Collaborative[2];Reliable[3];Dismissive[-2];Defensive[-1],11
+Jorey,Detail-Oriented[3];Leadership[4];Problem-Solver[3];Overly Competitive[-1];Overbearing[-1],38
+Cass,Detail-Oriented[3];Creative Thinker[2];Communicative[2];Overbearing[-1];Indecisive[-2],37
+Crin,Logical[3];Mediator[2];Analytical[3];Stubborn[-1];Rigid[-2],15
+Iormina,Tech-Savvy[2];Problem-Solver[3];Communicative[2];Non-communicative[-2];Micromanaging[-2],24
+Rosmunda,Empathetic[3];Resourceful[2];Organized[2];Resistant to Change[-2];Overly Competitive[-1],39
+Raynell,Diplomatic[2];Innovative[2];Organized[2];Unempathetic[-2];Micromanaging[-2],32
+Dulce,Creative Thinker[2];Leadership[4];Resourceful[2];Easily Distracted[-1];Non-communicative[-2],24
+Sallee,Flexible[2];Reliable[3];Organized[2];Impatient[-1];Easily Distracted[-1],23
+Pollyanna,Organized[2];Collaborative[2];Time-Manager[3];Intolerant[-2];Overly Competitive[-1],3
+Carissa,Collaborative[2];Time-Manager[3];Creative Thinker[2];Narrow-Minded[-2];Indecisive[-2],19
+Terra,Diplomatic[2];Supportive[2];Communicative[2];Unempathetic[-2];Overly Competitive[-1],33
+Melony,Analytical[3];Communicative[2];Detail-Oriented[3];Impulsive[-1];Procrastinator[-3],0
+Cinda,Strategic[3];Communicative[2];Organized[2];Impatient[-1];Overly Competitive[-1],30
+Isabel,Analytical[3];Mediator[2];Strategic[3];Passive[-1];Easily Distracted[-1],25
+Mala,Creative Thinker[2];Reliable[3];Flexible[2];Overbearing[-1];Perfectionist (to a fault)[-1],5
+Reiko,Detail-Oriented[3];Innovative[2];Creative Thinker[2];Intolerant[-2];Resistant to Change[-2],37
+Ilsa,Time-Manager[3];Resourceful[2];Diplomatic[2];Rigid[-2];Defensive[-1],11
+Fifine,Resourceful[2];Creative Thinker[2];Diplomatic[2];Dismissive[-2];Impulsive[-1],36
+Celinda,Creative Thinker[2];Flexible[2];Strategic[3];Overly Competitive[-1];Intolerant[-2],11
+Stefanie,Leadership[4];Logical[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Conflict-Averse[-2],27
+Aurie,Logical[3];Time-Manager[3];Problem-Solver[3];Rigid[-2];Moody[-1],11
+Claudia,Diplomatic[2];Resourceful[2];Innovative[2];Conflict-Averse[-2];Intolerant[-2],4
+Kate,Resourceful[2];Collaborative[2];Strategic[3];Uncooperative[-2];Unreliable[-3],2
+Desirae,Empathetic[3];Creative Thinker[2];Flexible[2];Narrow-Minded[-2];Micromanaging[-2],12
+Wendye,Empathetic[3];Resourceful[2];Innovative[2];Narrow-Minded[-2];Passive[-1],40
+Malorie,Resourceful[2];Strategic[3];Leadership[4];Pessimistic[-1];Impatient[-1],1
+Rosalynd,Tech-Savvy[2];Communicative[2];Creative Thinker[2];Overbearing[-1];Non-communicative[-2],30
+Brandise,Detail-Oriented[3];Innovative[2];Problem-Solver[3];Non-communicative[-2];Micromanaging[-2],39
+Ursola,Communicative[2];Problem-Solver[3];Reliable[3];Defensive[-1];Overly Critical[-2],0
+Marice,Tech-Savvy[2];Flexible[2];Mediator[2];Intolerant[-2];Pessimistic[-1],31
+Maryjane,Resourceful[2];Analytical[3];Leadership[4];Aloof[-1];Resistant to Change[-2],24
+Bili,Time-Manager[3];Mediator[2];Reliable[3];Intolerant[-2];Pessimistic[-1],34
+Isa,Resourceful[2];Organized[2];Tech-Savvy[2];Narrow-Minded[-2];Conflict-Averse[-2],7
+Vida,Creative Thinker[2];Logical[3];Organized[2];Resistant to Change[-2];Uncooperative[-2],2
+Isabella,Analytical[3];Strategic[3];Communicative[2];Indecisive[-2];Dismissive[-2],32
+Deni,Empathetic[3];Logical[3];Problem-Solver[3];Procrastinator[-3];Impatient[-1],31
+Marabel,Collaborative[2];Logical[3];Creative Thinker[2];Dismissive[-2];Non-communicative[-2],30
+Dorthy,Creative Thinker[2];Leadership[4];Time-Manager[3];Impatient[-1];Moody[-1],11
+Margaret,Detail-Oriented[3];Mediator[2];Innovative[2];Impulsive[-1];Moody[-1],3
+Marylinda,Problem-Solver[3];Collaborative[2];Supportive[2];Dismissive[-2];Aloof[-1],1
+Naoma,Reliable[3];Tech-Savvy[2];Creative Thinker[2];Passive[-1];Easily Distracted[-1],14
+Bernardine,Empathetic[3];Innovative[2];Communicative[2];Non-communicative[-2];Narrow-Minded[-2],33
+Lisetta,Communicative[2];Diplomatic[2];Flexible[2];Intolerant[-2];Aloof[-1],9
+Tania,Flexible[2];Communicative[2];Problem-Solver[3];Rigid[-2];Unreliable[-3],38
+Alecia,Logical[3];Reliable[3];Creative Thinker[2];Non-communicative[-2];Unreliable[-3],19
+Pam,Resourceful[2];Time-Manager[3];Flexible[2];Unempathetic[-2];Moody[-1],2
+Chickie,Supportive[2];Leadership[4];Logical[3];Micromanaging[-2];Aloof[-1],2
+Kris,Diplomatic[2];Organized[2];Creative Thinker[2];Indecisive[-2];Micromanaging[-2],27
+Elisa,Innovative[2];Detail-Oriented[3];Organized[2];Conflict-Averse[-2];Narrow-Minded[-2],37
+Grissel,Creative Thinker[2];Communicative[2];Problem-Solver[3];Pessimistic[-1];Rigid[-2],20
+Sheri,Strategic[3];Leadership[4];Organized[2];Micromanaging[-2];Moody[-1],11
+Alvinia,Problem-Solver[3];Communicative[2];Mediator[2];Unempathetic[-2];Indecisive[-2],3
+Aurelie,Communicative[2];Logical[3];Creative Thinker[2];Unempathetic[-2];Easily Distracted[-1],15
+Elset,Tech-Savvy[2];Diplomatic[2];Innovative[2];Micromanaging[-2];Narrow-Minded[-2],36
+Catina,Time-Manager[3];Reliable[3];Mediator[2];Overbearing[-1];Defensive[-1],21
+Caryl,Flexible[2];Collaborative[2];Detail-Oriented[3];Narrow-Minded[-2];Rigid[-2],3
+Jorrie,Tech-Savvy[2];Problem-Solver[3];Mediator[2];Conflict-Averse[-2];Dismissive[-2],0
+Raine,Analytical[3];Strategic[3];Communicative[2];Unreliable[-3];Narrow-Minded[-2],9
+Gypsy,Empathetic[3];Analytical[3];Tech-Savvy[2];Dismissive[-2];Aloof[-1],14
+Beatriz,Resourceful[2];Strategic[3];Organized[2];Dismissive[-2];Conflict-Averse[-2],21
+Alfi,Innovative[2];Problem-Solver[3];Tech-Savvy[2];Rigid[-2];Skeptical[-1],38
+Rebekah,Communicative[2];Collaborative[2];Creative Thinker[2];Indecisive[-2];Impulsive[-1],40
+Ruthi,Leadership[4];Time-Manager[3];Problem-Solver[3];Pessimistic[-1];Micromanaging[-2],34
+Guillemette,Mediator[2];Supportive[2];Logical[3];Intolerant[-2];Unempathetic[-2],19
+Cassey,Detail-Oriented[3];Diplomatic[2];Reliable[3];Micromanaging[-2];Resistant to Change[-2],26
+Corella,Mediator[2];Collaborative[2];Supportive[2];Indecisive[-2];Overly Critical[-2],32
+Fallon,Problem-Solver[3];Resourceful[2];Organized[2];Moody[-1];Skeptical[-1],35
+Hollie,Innovative[2];Problem-Solver[3];Collaborative[2];Indecisive[-2];Defensive[-1],35
+Georgena,Creative Thinker[2];Tech-Savvy[2];Supportive[2];Unreliable[-3];Moody[-1],33
+Brinna,Leadership[4];Time-Manager[3];Organized[2];Unempathetic[-2];Impulsive[-1],22
+Joanna,Leadership[4];Detail-Oriented[3];Reliable[3];Indecisive[-2];Overly Competitive[-1],24
+George,Diplomatic[2];Creative Thinker[2];Mediator[2];Overly Critical[-2];Perfectionist (to a fault)[-1],3
+Carmelita,Creative Thinker[2];Reliable[3];Logical[3];Dismissive[-2];Impulsive[-1],1
+Blair,Flexible[2];Resourceful[2];Diplomatic[2];Defensive[-1];Intolerant[-2],3
+Brooks,Organized[2];Leadership[4];Diplomatic[2];Uncooperative[-2];Impulsive[-1],38
+Arleta,Logical[3];Collaborative[2];Empathetic[3];Uncooperative[-2];Conflict-Averse[-2],33
+Sarajane,Flexible[2];Supportive[2];Organized[2];Easily Distracted[-1];Procrastinator[-3],13
+Glynnis,Tech-Savvy[2];Leadership[4];Time-Manager[3];Uncooperative[-2];Narrow-Minded[-2],15
+Reba,Tech-Savvy[2];Innovative[2];Diplomatic[2];Passive[-1];Defensive[-1],5
+Becka,Strategic[3];Resourceful[2];Collaborative[2];Impulsive[-1];Unreliable[-3],31
+Rhetta,Supportive[2];Logical[3];Strategic[3];Overly Critical[-2];Rigid[-2],7
+Toma,Collaborative[2];Problem-Solver[3];Innovative[2];Micromanaging[-2];Uncooperative[-2],12
+Eartha,Reliable[3];Communicative[2];Detail-Oriented[3];Uncooperative[-2];Overbearing[-1],40
+Timothea,Organized[2];Problem-Solver[3];Strategic[3];Overly Competitive[-1];Unempathetic[-2],33
+Ardys,Organized[2];Diplomatic[2];Detail-Oriented[3];Rigid[-2];Overly Competitive[-1],17
+Ailyn,Tech-Savvy[2];Empathetic[3];Organized[2];Overbearing[-1];Easily Distracted[-1],11
+Luci,Communicative[2];Time-Manager[3];Reliable[3];Stubborn[-1];Unreliable[-3],37
+Caron,Logical[3];Supportive[2];Leadership[4];Conflict-Averse[-2];Overly Competitive[-1],9
+Brianna,Strategic[3];Communicative[2];Collaborative[2];Overly Critical[-2];Uncooperative[-2],22
+Deidre,Supportive[2];Collaborative[2];Analytical[3];Unreliable[-3];Passive[-1],37
+Ida,Diplomatic[2];Tech-Savvy[2];Flexible[2];Unreliable[-3];Dismissive[-2],23
+Megan,Resourceful[2];Communicative[2];Flexible[2];Skeptical[-1];Impulsive[-1],38
+Charis,Empathetic[3];Resourceful[2];Tech-Savvy[2];Narrow-Minded[-2];Stubborn[-1],12
+Edithe,Mediator[2];Logical[3];Communicative[2];Overly Critical[-2];Impulsive[-1],23
+Tarrah,Resourceful[2];Mediator[2];Tech-Savvy[2];Procrastinator[-3];Skeptical[-1],11
+Natividad,Empathetic[3];Leadership[4];Innovative[2];Unempathetic[-2];Pessimistic[-1],16
+Carita,Logical[3];Leadership[4];Organized[2];Skeptical[-1];Dismissive[-2],30
+Sherline,Reliable[3];Detail-Oriented[3];Innovative[2];Non-communicative[-2];Aloof[-1],20
+Kissiah,Strategic[3];Time-Manager[3];Detail-Oriented[3];Easily Distracted[-1];Conflict-Averse[-2],4
+Geri,Innovative[2];Logical[3];Supportive[2];Narrow-Minded[-2];Overly Critical[-2],28
+Babb,Time-Manager[3];Innovative[2];Resourceful[2];Overbearing[-1];Indecisive[-2],35
+Karole,Detail-Oriented[3];Creative Thinker[2];Analytical[3];Uncooperative[-2];Impulsive[-1],39
+Gladys,Mediator[2];Communicative[2];Logical[3];Skeptical[-1];Rigid[-2],32
+Cissy,Diplomatic[2];Supportive[2];Creative Thinker[2];Easily Distracted[-1];Procrastinator[-3],26
+Franky,Logical[3];Creative Thinker[2];Resourceful[2];Narrow-Minded[-2];Passive[-1],40
+Maribelle,Problem-Solver[3];Resourceful[2];Detail-Oriented[3];Overly Critical[-2];Passive[-1],2
+Suzie,Logical[3];Diplomatic[2];Problem-Solver[3];Pessimistic[-1];Resistant to Change[-2],18
+Lavena,Mediator[2];Resourceful[2];Problem-Solver[3];Perfectionist (to a fault)[-1];Non-communicative[-2],32
+Brandais,Time-Manager[3];Problem-Solver[3];Empathetic[3];Dismissive[-2];Resistant to Change[-2],19
+Vally,Empathetic[3];Analytical[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Passive[-1],7
+Karrah,Innovative[2];Creative Thinker[2];Mediator[2];Skeptical[-1];Uncooperative[-2],16
+Simonne,Mediator[2];Strategic[3];Communicative[2];Aloof[-1];Overly Competitive[-1],28
+Dominica,Reliable[3];Creative Thinker[2];Organized[2];Resistant to Change[-2];Perfectionist (to a fault)[-1],40
+Lenora,Leadership[4];Communicative[2];Reliable[3];Overbearing[-1];Defensive[-1],21
+Tera,Flexible[2];Creative Thinker[2];Time-Manager[3];Easily Distracted[-1];Passive[-1],24
+Lela,Strategic[3];Organized[2];Leadership[4];Stubborn[-1];Unempathetic[-2],9
+Madeline,Resourceful[2];Organized[2];Detail-Oriented[3];Impulsive[-1];Pessimistic[-1],4
+Glyn,Supportive[2];Logical[3];Diplomatic[2];Easily Distracted[-1];Conflict-Averse[-2],3
+Coral,Supportive[2];Logical[3];Reliable[3];Unreliable[-3];Overly Critical[-2],34
+Tani,Creative Thinker[2];Flexible[2];Resourceful[2];Micromanaging[-2];Impatient[-1],37
+Seline,Creative Thinker[2];Supportive[2];Mediator[2];Pessimistic[-1];Overly Competitive[-1],28
+Jammie,Diplomatic[2];Supportive[2];Problem-Solver[3];Perfectionist (to a fault)[-1];Resistant to Change[-2],22
+Jeniece,Detail-Oriented[3];Flexible[2];Reliable[3];Stubborn[-1];Impulsive[-1],5
+Elvera,Detail-Oriented[3];Analytical[3];Organized[2];Overly Competitive[-1];Aloof[-1],11
+Sibley,Time-Manager[3];Communicative[2];Supportive[2];Procrastinator[-3];Dismissive[-2],32
+Kylen,Diplomatic[2];Logical[3];Organized[2];Impatient[-1];Passive[-1],10
+Jilleen,Detail-Oriented[3];Mediator[2];Time-Manager[3];Micromanaging[-2];Conflict-Averse[-2],18
+Gertrud,Resourceful[2];Logical[3];Strategic[3];Indecisive[-2];Impulsive[-1],23
+Carol-Jean,Empathetic[3];Organized[2];Mediator[2];Resistant to Change[-2];Narrow-Minded[-2],7
+Luci,Detail-Oriented[3];Empathetic[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Micromanaging[-2],38
+Lisha,Organized[2];Collaborative[2];Innovative[2];Overly Competitive[-1];Non-communicative[-2],20
+Johannah,Supportive[2];Diplomatic[2];Reliable[3];Non-communicative[-2];Dismissive[-2],25
+Maryrose,Communicative[2];Collaborative[2];Creative Thinker[2];Uncooperative[-2];Easily Distracted[-1],28
+Lisabeth,Strategic[3];Leadership[4];Supportive[2];Passive[-1];Defensive[-1],16
+Nadine,Mediator[2];Problem-Solver[3];Tech-Savvy[2];Defensive[-1];Overbearing[-1],27
+Anette,Resourceful[2];Collaborative[2];Logical[3];Pessimistic[-1];Defensive[-1],29
+Bethina,Innovative[2];Collaborative[2];Reliable[3];Impulsive[-1];Overly Critical[-2],39
+Elysha,Innovative[2];Analytical[3];Time-Manager[3];Stubborn[-1];Overbearing[-1],30
+Diana,Detail-Oriented[3];Leadership[4];Communicative[2];Dismissive[-2];Perfectionist (to a fault)[-1],35
+Tamarra,Diplomatic[2];Empathetic[3];Reliable[3];Unempathetic[-2];Uncooperative[-2],13
+Lari,Strategic[3];Collaborative[2];Empathetic[3];Impatient[-1];Aloof[-1],23
+Zorah,Analytical[3];Supportive[2];Tech-Savvy[2];Perfectionist (to a fault)[-1];Overly Competitive[-1],32
+Phaedra,Diplomatic[2];Reliable[3];Mediator[2];Moody[-1];Perfectionist (to a fault)[-1],12
+Amelina,Resourceful[2];Leadership[4];Collaborative[2];Conflict-Averse[-2];Stubborn[-1],16
+Mitzi,Reliable[3];Logical[3];Tech-Savvy[2];Unreliable[-3];Narrow-Minded[-2],11
+Amberly,Organized[2];Communicative[2];Supportive[2];Dismissive[-2];Conflict-Averse[-2],11
+Valentina,Reliable[3];Collaborative[2];Time-Manager[3];Uncooperative[-2];Intolerant[-2],28
+Alidia,Logical[3];Strategic[3];Mediator[2];Unreliable[-3];Impatient[-1],5
+Kevyn,Organized[2];Innovative[2];Mediator[2];Passive[-1];Resistant to Change[-2],28
+Amelina,Supportive[2];Communicative[2];Creative Thinker[2];Narrow-Minded[-2];Pessimistic[-1],26
+Maryanna,Innovative[2];Mediator[2];Flexible[2];Narrow-Minded[-2];Perfectionist (to a fault)[-1],38
+Aubrie,Detail-Oriented[3];Problem-Solver[3];Diplomatic[2];Unreliable[-3];Skeptical[-1],4
+Lotte,Creative Thinker[2];Reliable[3];Time-Manager[3];Narrow-Minded[-2];Micromanaging[-2],5
+Sande,Problem-Solver[3];Tech-Savvy[2];Flexible[2];Uncooperative[-2];Impatient[-1],34
+Shir,Empathetic[3];Innovative[2];Organized[2];Intolerant[-2];Impulsive[-1],28
+Ermina,Innovative[2];Reliable[3];Organized[2];Intolerant[-2];Moody[-1],15
+Juliann,Innovative[2];Mediator[2];Flexible[2];Pessimistic[-1];Impatient[-1],25
+Jackie,Reliable[3];Logical[3];Analytical[3];Overly Competitive[-1];Aloof[-1],31
+Maxine,Flexible[2];Time-Manager[3];Organized[2];Procrastinator[-3];Passive[-1],12
+Isa,Diplomatic[2];Communicative[2];Collaborative[2];Skeptical[-1];Passive[-1],5
+Fernanda,Time-Manager[3];Logical[3];Reliable[3];Aloof[-1];Overly Critical[-2],21
+Perl,Tech-Savvy[2];Organized[2];Innovative[2];Moody[-1];Passive[-1],1
+Mallory,Empathetic[3];Logical[3];Flexible[2];Indecisive[-2];Resistant to Change[-2],1
+Brandie,Tech-Savvy[2];Supportive[2];Diplomatic[2];Intolerant[-2];Stubborn[-1],24
+Loleta,Analytical[3];Innovative[2];Detail-Oriented[3];Stubborn[-1];Pessimistic[-1],37
+Latrina,Creative Thinker[2];Communicative[2];Supportive[2];Conflict-Averse[-2];Overly Critical[-2],39
+Delores,Collaborative[2];Empathetic[3];Detail-Oriented[3];Rigid[-2];Moody[-1],0
+Manya,Empathetic[3];Time-Manager[3];Strategic[3];Perfectionist (to a fault)[-1];Impatient[-1],25
+Shina,Logical[3];Strategic[3];Problem-Solver[3];Uncooperative[-2];Narrow-Minded[-2],5
+Petra,Time-Manager[3];Leadership[4];Detail-Oriented[3];Dismissive[-2];Easily Distracted[-1],11
+Caralie,Empathetic[3];Communicative[2];Detail-Oriented[3];Defensive[-1];Conflict-Averse[-2],33
+Lucienne,Strategic[3];Innovative[2];Supportive[2];Impulsive[-1];Overbearing[-1],32
+Shanie,Mediator[2];Empathetic[3];Creative Thinker[2];Impatient[-1];Stubborn[-1],31
+Kalie,Time-Manager[3];Strategic[3];Diplomatic[2];Resistant to Change[-2];Moody[-1],34
+Clair,Tech-Savvy[2];Problem-Solver[3];Analytical[3];Stubborn[-1];Easily Distracted[-1],39
+Arlinda,Supportive[2];Resourceful[2];Flexible[2];Perfectionist (to a fault)[-1];Indecisive[-2],34
+Katrinka,Analytical[3];Organized[2];Collaborative[2];Rigid[-2];Impatient[-1],18
+Sella,Tech-Savvy[2];Empathetic[3];Communicative[2];Intolerant[-2];Passive[-1],28
+Pattie,Problem-Solver[3];Communicative[2];Mediator[2];Impulsive[-1];Indecisive[-2],37
+Anatola,Resourceful[2];Mediator[2];Communicative[2];Narrow-Minded[-2];Uncooperative[-2],37
+Liuka,Flexible[2];Logical[3];Empathetic[3];Skeptical[-1];Resistant to Change[-2],29
+Ceil,Supportive[2];Organized[2];Logical[3];Rigid[-2];Passive[-1],36
+Carina,Mediator[2];Strategic[3];Time-Manager[3];Pessimistic[-1];Perfectionist (to a fault)[-1],26
+Dennie,Strategic[3];Reliable[3];Problem-Solver[3];Passive[-1];Uncooperative[-2],30
+Eloisa,Logical[3];Mediator[2];Innovative[2];Moody[-1];Impatient[-1],7
+Astrix,Empathetic[3];Collaborative[2];Leadership[4];Indecisive[-2];Procrastinator[-3],17
+Lorianne,Leadership[4];Reliable[3];Logical[3];Indecisive[-2];Procrastinator[-3],29
+Scarlet,Tech-Savvy[2];Problem-Solver[3];Collaborative[2];Rigid[-2];Overly Critical[-2],38
+Mabel,Mediator[2];Flexible[2];Leadership[4];Resistant to Change[-2];Defensive[-1],13
+Eliza,Strategic[3];Collaborative[2];Tech-Savvy[2];Defensive[-1];Dismissive[-2],9
+George,Logical[3];Time-Manager[3];Supportive[2];Aloof[-1];Defensive[-1],40
+Della,Leadership[4];Organized[2];Mediator[2];Dismissive[-2];Easily Distracted[-1],34
+Rachael,Innovative[2];Time-Manager[3];Problem-Solver[3];Dismissive[-2];Easily Distracted[-1],2
+Betsey,Tech-Savvy[2];Diplomatic[2];Innovative[2];Rigid[-2];Perfectionist (to a fault)[-1],13
+Amandi,Leadership[4];Tech-Savvy[2];Mediator[2];Dismissive[-2];Aloof[-1],22
+Saundra,Creative Thinker[2];Innovative[2];Mediator[2];Defensive[-1];Easily Distracted[-1],35
+Sophia,Strategic[3];Analytical[3];Problem-Solver[3];Narrow-Minded[-2];Stubborn[-1],10
+Lynna,Detail-Oriented[3];Tech-Savvy[2];Diplomatic[2];Rigid[-2];Intolerant[-2],18
+Mari,Logical[3];Collaborative[2];Organized[2];Passive[-1];Impulsive[-1],35
+Chicky,Strategic[3];Detail-Oriented[3];Logical[3];Indecisive[-2];Rigid[-2],35
+Wandie,Collaborative[2];Innovative[2];Diplomatic[2];Stubborn[-1];Overbearing[-1],30
+Susanna,Tech-Savvy[2];Detail-Oriented[3];Innovative[2];Overbearing[-1];Overly Critical[-2],4
+Ilyssa,Tech-Savvy[2];Flexible[2];Empathetic[3];Skeptical[-1];Overly Competitive[-1],6
+Katrina,Diplomatic[2];Leadership[4];Time-Manager[3];Rigid[-2];Stubborn[-1],9
+Breena,Supportive[2];Innovative[2];Flexible[2];Unreliable[-3];Overly Critical[-2],32
+Kellyann,Detail-Oriented[3];Mediator[2];Supportive[2];Easily Distracted[-1];Overbearing[-1],26
+Ardisj,Strategic[3];Reliable[3];Analytical[3];Procrastinator[-3];Micromanaging[-2],15
+Harli,Leadership[4];Organized[2];Detail-Oriented[3];Overly Critical[-2];Overbearing[-1],16
+Quintilla,Collaborative[2];Resourceful[2];Flexible[2];Pessimistic[-1];Defensive[-1],20
+Amelie,Leadership[4];Flexible[2];Tech-Savvy[2];Stubborn[-1];Indecisive[-2],24
+Mickie,Strategic[3];Creative Thinker[2];Analytical[3];Narrow-Minded[-2];Resistant to Change[-2],31
+Oriana,Mediator[2];Diplomatic[2];Resourceful[2];Defensive[-1];Resistant to Change[-2],21
+Geri,Communicative[2];Diplomatic[2];Problem-Solver[3];Skeptical[-1];Overbearing[-1],26
+Kissie,Tech-Savvy[2];Logical[3];Problem-Solver[3];Dismissive[-2];Resistant to Change[-2],10
+Catharine,Logical[3];Reliable[3];Detail-Oriented[3];Micromanaging[-2];Resistant to Change[-2],30
+Domeniga,Empathetic[3];Tech-Savvy[2];Organized[2];Conflict-Averse[-2];Overly Critical[-2],7
+Desiree,Creative Thinker[2];Tech-Savvy[2];Time-Manager[3];Unreliable[-3];Impatient[-1],21
+Antonie,Creative Thinker[2];Strategic[3];Supportive[2];Indecisive[-2];Impulsive[-1],4
+Anny,Mediator[2];Diplomatic[2];Time-Manager[3];Narrow-Minded[-2];Perfectionist (to a fault)[-1],38
+Mozelle,Resourceful[2];Time-Manager[3];Collaborative[2];Aloof[-1];Overly Critical[-2],22
+Maurine,Empathetic[3];Tech-Savvy[2];Strategic[3];Perfectionist (to a fault)[-1];Pessimistic[-1],4
+Kariotta,Communicative[2];Empathetic[3];Analytical[3];Resistant to Change[-2];Rigid[-2],27
+Kristien,Organized[2];Creative Thinker[2];Reliable[3];Passive[-1];Overly Critical[-2],6
+Sydney,Empathetic[3];Creative Thinker[2];Leadership[4];Impatient[-1];Resistant to Change[-2],33
+Ileane,Organized[2];Flexible[2];Reliable[3];Unreliable[-3];Intolerant[-2],23
+Randie,Analytical[3];Time-Manager[3];Supportive[2];Skeptical[-1];Resistant to Change[-2],31
+Robenia,Detail-Oriented[3];Supportive[2];Logical[3];Impatient[-1];Conflict-Averse[-2],8
+Deidre,Tech-Savvy[2];Diplomatic[2];Supportive[2];Micromanaging[-2];Perfectionist (to a fault)[-1],26
+Siobhan,Analytical[3];Flexible[2];Detail-Oriented[3];Aloof[-1];Moody[-1],22
+Nalani,Detail-Oriented[3];Creative Thinker[2];Reliable[3];Aloof[-1];Indecisive[-2],2
+Layla,Analytical[3];Resourceful[2];Detail-Oriented[3];Uncooperative[-2];Unempathetic[-2],20
+Marcille,Creative Thinker[2];Resourceful[2];Detail-Oriented[3];Conflict-Averse[-2];Resistant to Change[-2],19
+Kissee,Detail-Oriented[3];Flexible[2];Supportive[2];Unempathetic[-2];Indecisive[-2],24
+Meryl,Logical[3];Collaborative[2];Detail-Oriented[3];Overly Critical[-2];Passive[-1],28
+Annnora,Collaborative[2];Analytical[3];Diplomatic[2];Passive[-1];Defensive[-1],11
+Tomasine,Strategic[3];Empathetic[3];Creative Thinker[2];Conflict-Averse[-2];Unreliable[-3],24
+Moselle,Diplomatic[2];Time-Manager[3];Flexible[2];Defensive[-1];Skeptical[-1],1
+Joey,Innovative[2];Mediator[2];Collaborative[2];Conflict-Averse[-2];Pessimistic[-1],9
+Adele,Creative Thinker[2];Reliable[3];Strategic[3];Pessimistic[-1];Dismissive[-2],1
+Nadine,Strategic[3];Diplomatic[2];Logical[3];Impatient[-1];Uncooperative[-2],5
+Sibel,Detail-Oriented[3];Supportive[2];Flexible[2];Perfectionist (to a fault)[-1];Pessimistic[-1],20
+Constancy,Detail-Oriented[3];Collaborative[2];Strategic[3];Unempathetic[-2];Skeptical[-1],17
+Kissee,Creative Thinker[2];Organized[2];Empathetic[3];Narrow-Minded[-2];Pessimistic[-1],19
+Jonie,Innovative[2];Empathetic[3];Diplomatic[2];Uncooperative[-2];Impatient[-1],0
+Sybila,Analytical[3];Logical[3];Tech-Savvy[2];Indecisive[-2];Conflict-Averse[-2],34
+Avrit,Analytical[3];Leadership[4];Strategic[3];Unempathetic[-2];Pessimistic[-1],11
+Peggy,Organized[2];Diplomatic[2];Empathetic[3];Easily Distracted[-1];Pessimistic[-1],8
+Sibley,Strategic[3];Organized[2];Supportive[2];Narrow-Minded[-2];Micromanaging[-2],1
+Gilda,Empathetic[3];Detail-Oriented[3];Leadership[4];Non-communicative[-2];Easily Distracted[-1],35
+Kary,Detail-Oriented[3];Innovative[2];Collaborative[2];Overbearing[-1];Micromanaging[-2],19
+Cami,Detail-Oriented[3];Empathetic[3];Mediator[2];Unreliable[-3];Uncooperative[-2],28
+Aurea,Diplomatic[2];Time-Manager[3];Tech-Savvy[2];Easily Distracted[-1];Overly Competitive[-1],2
+Almira,Time-Manager[3];Supportive[2];Tech-Savvy[2];Overly Critical[-2];Resistant to Change[-2],22
+Krystle,Problem-Solver[3];Strategic[3];Analytical[3];Easily Distracted[-1];Intolerant[-2],18
+Dulcea,Time-Manager[3];Mediator[2];Organized[2];Moody[-1];Pessimistic[-1],39
+Trenna,Problem-Solver[3];Diplomatic[2];Time-Manager[3];Unreliable[-3];Uncooperative[-2],37
+Josefa,Tech-Savvy[2];Mediator[2];Empathetic[3];Overbearing[-1];Rigid[-2],18
+Hesther,Resourceful[2];Detail-Oriented[3];Time-Manager[3];Indecisive[-2];Defensive[-1],38
+Ardis,Innovative[2];Logical[3];Leadership[4];Aloof[-1];Defensive[-1],29
+Violet,Problem-Solver[3];Mediator[2];Flexible[2];Indecisive[-2];Resistant to Change[-2],24
+Devina,Flexible[2];Mediator[2];Organized[2];Narrow-Minded[-2];Resistant to Change[-2],32
+Carroll,Communicative[2];Flexible[2];Collaborative[2];Dismissive[-2];Stubborn[-1],35
+Jorry,Tech-Savvy[2];Resourceful[2];Communicative[2];Perfectionist (to a fault)[-1];Moody[-1],10
+Catina,Tech-Savvy[2];Flexible[2];Leadership[4];Uncooperative[-2];Unempathetic[-2],5
+Rhona,Reliable[3];Strategic[3];Collaborative[2];Easily Distracted[-1];Indecisive[-2],20
+Felita,Problem-Solver[3];Reliable[3];Empathetic[3];Procrastinator[-3];Impatient[-1],36
+Malanie,Time-Manager[3];Supportive[2];Reliable[3];Intolerant[-2];Easily Distracted[-1],9
+Candide,Logical[3];Reliable[3];Creative Thinker[2];Micromanaging[-2];Overly Competitive[-1],32
+Dulsea,Resourceful[2];Leadership[4];Supportive[2];Perfectionist (to a fault)[-1];Micromanaging[-2],2
+Connie,Mediator[2];Time-Manager[3];Creative Thinker[2];Passive[-1];Overbearing[-1],10
+Lexi,Flexible[2];Strategic[3];Time-Manager[3];Indecisive[-2];Intolerant[-2],21
+Rafaela,Collaborative[2];Reliable[3];Leadership[4];Perfectionist (to a fault)[-1];Impulsive[-1],10
+Keriann,Diplomatic[2];Communicative[2];Analytical[3];Perfectionist (to a fault)[-1];Defensive[-1],17
+Eveleen,Supportive[2];Empathetic[3];Innovative[2];Overbearing[-1];Impatient[-1],26
+June,Analytical[3];Mediator[2];Innovative[2];Micromanaging[-2];Narrow-Minded[-2],14
+Minda,Strategic[3];Organized[2];Collaborative[2];Aloof[-1];Impulsive[-1],21
+Goldi,Logical[3];Reliable[3];Communicative[2];Conflict-Averse[-2];Overly Competitive[-1],0
+Eolanda,Strategic[3];Flexible[2];Innovative[2];Skeptical[-1];Uncooperative[-2],20
+Domini,Empathetic[3];Time-Manager[3];Organized[2];Unempathetic[-2];Perfectionist (to a fault)[-1],37
+Luise,Logical[3];Leadership[4];Analytical[3];Micromanaging[-2];Defensive[-1],20
+Madeleine,Empathetic[3];Time-Manager[3];Supportive[2];Skeptical[-1];Impatient[-1],25
+Corrinne,Empathetic[3];Flexible[2];Tech-Savvy[2];Perfectionist (to a fault)[-1];Procrastinator[-3],8
+Dannye,Problem-Solver[3];Tech-Savvy[2];Diplomatic[2];Dismissive[-2];Pessimistic[-1],39
+Kalinda,Resourceful[2];Time-Manager[3];Reliable[3];Conflict-Averse[-2];Impulsive[-1],15
+Alexi,Creative Thinker[2];Resourceful[2];Mediator[2];Easily Distracted[-1];Procrastinator[-3],40
+Sheelagh,Organized[2];Mediator[2];Collaborative[2];Indecisive[-2];Conflict-Averse[-2],1
+Carlin,Resourceful[2];Mediator[2];Analytical[3];Easily Distracted[-1];Overbearing[-1],16
+Ramona,Diplomatic[2];Collaborative[2];Leadership[4];Perfectionist (to a fault)[-1];Intolerant[-2],11
+Ailee,Supportive[2];Strategic[3];Logical[3];Moody[-1];Perfectionist (to a fault)[-1],1
+Ernestine,Leadership[4];Communicative[2];Strategic[3];Intolerant[-2];Unempathetic[-2],9
+Christan,Collaborative[2];Supportive[2];Time-Manager[3];Overly Competitive[-1];Skeptical[-1],9
+Siouxie,Diplomatic[2];Communicative[2];Flexible[2];Procrastinator[-3];Resistant to Change[-2],19
+Josselyn,Reliable[3];Supportive[2];Analytical[3];Impulsive[-1];Impatient[-1],14
+Idaline,Problem-Solver[3];Communicative[2];Supportive[2];Procrastinator[-3];Skeptical[-1],30
+Aggy,Analytical[3];Communicative[2];Empathetic[3];Unreliable[-3];Stubborn[-1],0
+Vallie,Reliable[3];Resourceful[2];Creative Thinker[2];Easily Distracted[-1];Defensive[-1],11
+Emogene,Logical[3];Detail-Oriented[3];Leadership[4];Impatient[-1];Unempathetic[-2],7
+Bernadine,Flexible[2];Mediator[2];Tech-Savvy[2];Defensive[-1];Micromanaging[-2],12
+Daloris,Organized[2];Reliable[3];Resourceful[2];Conflict-Averse[-2];Overly Competitive[-1],17
+Carmela,Tech-Savvy[2];Innovative[2];Leadership[4];Conflict-Averse[-2];Indecisive[-2],3
+Alida,Analytical[3];Mediator[2];Detail-Oriented[3];Perfectionist (to a fault)[-1];Aloof[-1],12
+Carolynn,Creative Thinker[2];Supportive[2];Mediator[2];Unreliable[-3];Micromanaging[-2],23
+Tamera,Time-Manager[3];Diplomatic[2];Organized[2];Aloof[-1];Defensive[-1],24
+Amy,Creative Thinker[2];Leadership[4];Resourceful[2];Narrow-Minded[-2];Unempathetic[-2],2
+Marci,Empathetic[3];Resourceful[2];Supportive[2];Impulsive[-1];Defensive[-1],33
+Valaree,Supportive[2];Leadership[4];Resourceful[2];Intolerant[-2];Passive[-1],33
+Raina,Supportive[2];Collaborative[2];Communicative[2];Rigid[-2];Micromanaging[-2],11
+Thekla,Flexible[2];Communicative[2];Detail-Oriented[3];Impulsive[-1];Conflict-Averse[-2],10
+Max,Collaborative[2];Leadership[4];Reliable[3];Procrastinator[-3];Uncooperative[-2],3
+Lanni,Reliable[3];Logical[3];Collaborative[2];Aloof[-1];Defensive[-1],0
+Terra,Diplomatic[2];Strategic[3];Analytical[3];Impatient[-1];Micromanaging[-2],18
+Editha,Organized[2];Tech-Savvy[2];Mediator[2];Overbearing[-1];Stubborn[-1],29
+Atlanta,Time-Manager[3];Detail-Oriented[3];Communicative[2];Easily Distracted[-1];Aloof[-1],37
+Joyan,Logical[3];Collaborative[2];Reliable[3];Unempathetic[-2];Overly Critical[-2],38
+Corny,Leadership[4];Strategic[3];Time-Manager[3];Overly Critical[-2];Stubborn[-1],19
+Lynna,Creative Thinker[2];Problem-Solver[3];Supportive[2];Overly Critical[-2];Conflict-Averse[-2],23
+Laurie,Communicative[2];Resourceful[2];Empathetic[3];Moody[-1];Resistant to Change[-2],39
+Bess,Analytical[3];Logical[3];Innovative[2];Impatient[-1];Rigid[-2],28
+Kial,Resourceful[2];Analytical[3];Mediator[2];Stubborn[-1];Overbearing[-1],2
+Kaleena,Leadership[4];Diplomatic[2];Tech-Savvy[2];Overly Competitive[-1];Easily Distracted[-1],27
+Ramonda,Supportive[2];Analytical[3];Detail-Oriented[3];Impulsive[-1];Rigid[-2],20
+Doralynne,Innovative[2];Logical[3];Organized[2];Unreliable[-3];Procrastinator[-3],36
+Benetta,Analytical[3];Detail-Oriented[3];Mediator[2];Skeptical[-1];Unempathetic[-2],36
+Ellissa,Mediator[2];Diplomatic[2];Time-Manager[3];Indecisive[-2];Uncooperative[-2],10
+Ilka,Mediator[2];Creative Thinker[2];Diplomatic[2];Skeptical[-1];Non-communicative[-2],33
+Kelsey,Analytical[3];Innovative[2];Leadership[4];Conflict-Averse[-2];Perfectionist (to a fault)[-1],6
+Cordelia,Communicative[2];Creative Thinker[2];Reliable[3];Impulsive[-1];Intolerant[-2],1
+Rosalynd,Tech-Savvy[2];Strategic[3];Organized[2];Rigid[-2];Impulsive[-1],34
+Teddie,Resourceful[2];Time-Manager[3];Organized[2];Overly Competitive[-1];Conflict-Averse[-2],1
+Joye,Strategic[3];Collaborative[2];Time-Manager[3];Resistant to Change[-2];Overly Competitive[-1],12
+Fiorenze,Time-Manager[3];Problem-Solver[3];Organized[2];Stubborn[-1];Aloof[-1],22
+Brittan,Organized[2];Empathetic[3];Resourceful[2];Unempathetic[-2];Dismissive[-2],35
+Merrill,Collaborative[2];Strategic[3];Empathetic[3];Narrow-Minded[-2];Micromanaging[-2],25
+Geraldine,Analytical[3];Logical[3];Empathetic[3];Unreliable[-3];Conflict-Averse[-2],29
+Kacey,Leadership[4];Time-Manager[3];Resourceful[2];Conflict-Averse[-2];Stubborn[-1],3
+Maxi,Problem-Solver[3];Diplomatic[2];Collaborative[2];Procrastinator[-3];Resistant to Change[-2],38
+Tarah,Detail-Oriented[3];Communicative[2];Analytical[3];Procrastinator[-3];Aloof[-1],32
+Modestine,Organized[2];Time-Manager[3];Reliable[3];Procrastinator[-3];Defensive[-1],38
+Bidget,Analytical[3];Supportive[2];Collaborative[2];Procrastinator[-3];Overbearing[-1],5
+Tildie,Collaborative[2];Diplomatic[2];Organized[2];Non-communicative[-2];Moody[-1],15
+Liva,Creative Thinker[2];Collaborative[2];Communicative[2];Resistant to Change[-2];Pessimistic[-1],5
+Lenna,Creative Thinker[2];Innovative[2];Diplomatic[2];Moody[-1];Intolerant[-2],0
+Linette,Tech-Savvy[2];Creative Thinker[2];Detail-Oriented[3];Non-communicative[-2];Overly Competitive[-1],23
+Milka,Strategic[3];Mediator[2];Logical[3];Dismissive[-2];Uncooperative[-2],31
+Ranique,Collaborative[2];Mediator[2];Leadership[4];Overly Critical[-2];Uncooperative[-2],14
+Twyla,Strategic[3];Organized[2];Tech-Savvy[2];Defensive[-1];Dismissive[-2],24
+De,Reliable[3];Tech-Savvy[2];Mediator[2];Unreliable[-3];Defensive[-1],34
+Magdalene,Reliable[3];Empathetic[3];Problem-Solver[3];Pessimistic[-1];Perfectionist (to a fault)[-1],21
+Nanon,Flexible[2];Collaborative[2];Empathetic[3];Intolerant[-2];Moody[-1],4
+Latashia,Resourceful[2];Supportive[2];Organized[2];Perfectionist (to a fault)[-1];Conflict-Averse[-2],13
+Loutitia,Time-Manager[3];Creative Thinker[2];Resourceful[2];Pessimistic[-1];Overly Critical[-2],15
+Harrietta,Flexible[2];Leadership[4];Empathetic[3];Rigid[-2];Impulsive[-1],18
+Hyacintha,Problem-Solver[3];Flexible[2];Communicative[2];Moody[-1];Overly Critical[-2],33
+Christal,Creative Thinker[2];Leadership[4];Time-Manager[3];Unempathetic[-2];Dismissive[-2],11
+Darb,Mediator[2];Leadership[4];Creative Thinker[2];Unreliable[-3];Intolerant[-2],4
+Alene,Supportive[2];Problem-Solver[3];Creative Thinker[2];Uncooperative[-2];Procrastinator[-3],24
+Rubia,Supportive[2];Creative Thinker[2];Problem-Solver[3];Passive[-1];Micromanaging[-2],27
+Jamima,Empathetic[3];Resourceful[2];Innovative[2];Non-communicative[-2];Rigid[-2],23
+Leta,Detail-Oriented[3];Collaborative[2];Communicative[2];Stubborn[-1];Overbearing[-1],21
+Harmonia,Logical[3];Detail-Oriented[3];Time-Manager[3];Easily Distracted[-1];Non-communicative[-2],0
+Stacie,Diplomatic[2];Organized[2];Problem-Solver[3];Defensive[-1];Procrastinator[-3],37
+Essy,Detail-Oriented[3];Supportive[2];Diplomatic[2];Unreliable[-3];Dismissive[-2],3
+Susan,Flexible[2];Reliable[3];Organized[2];Resistant to Change[-2];Non-communicative[-2],40
+Karol,Time-Manager[3];Empathetic[3];Reliable[3];Impulsive[-1];Non-communicative[-2],18
+Willyt,Tech-Savvy[2];Reliable[3];Flexible[2];Non-communicative[-2];Rigid[-2],5
+Laverne,Leadership[4];Problem-Solver[3];Creative Thinker[2];Aloof[-1];Stubborn[-1],24
+Lenee,Logical[3];Supportive[2];Leadership[4];Perfectionist (to a fault)[-1];Overbearing[-1],3
+Tybie,Time-Manager[3];Innovative[2];Flexible[2];Easily Distracted[-1];Impatient[-1],37
+Janelle,Leadership[4];Innovative[2];Collaborative[2];Skeptical[-1];Overbearing[-1],22
+Cora,Detail-Oriented[3];Logical[3];Empathetic[3];Narrow-Minded[-2];Rigid[-2],3
+Lavinia,Leadership[4];Empathetic[3];Organized[2];Impulsive[-1];Intolerant[-2],2
+Jemimah,Empathetic[3];Analytical[3];Resourceful[2];Dismissive[-2];Resistant to Change[-2],12
+Neely,Logical[3];Analytical[3];Flexible[2];Impatient[-1];Perfectionist (to a fault)[-1],13
+Louisette,Creative Thinker[2];Supportive[2];Strategic[3];Intolerant[-2];Uncooperative[-2],11
+Marget,Innovative[2];Logical[3];Tech-Savvy[2];Passive[-1];Overly Competitive[-1],31
+Zarah,Reliable[3];Creative Thinker[2];Organized[2];Overly Critical[-2];Uncooperative[-2],8
+Karoly,Organized[2];Tech-Savvy[2];Flexible[2];Overly Critical[-2];Pessimistic[-1],31
+Madel,Innovative[2];Communicative[2];Collaborative[2];Rigid[-2];Pessimistic[-1],5
+Chandra,Analytical[3];Leadership[4];Diplomatic[2];Uncooperative[-2];Rigid[-2],0
+Sharona,Strategic[3];Analytical[3];Empathetic[3];Aloof[-1];Procrastinator[-3],6
+Astrid,Creative Thinker[2];Diplomatic[2];Logical[3];Passive[-1];Narrow-Minded[-2],31
+Kessia,Flexible[2];Innovative[2];Resourceful[2];Overly Competitive[-1];Overly Critical[-2],4
+Licha,Empathetic[3];Tech-Savvy[2];Leadership[4];Defensive[-1];Skeptical[-1],6
+Adore,Logical[3];Innovative[2];Collaborative[2];Pessimistic[-1];Unreliable[-3],39
+Kaitlin,Empathetic[3];Time-Manager[3];Creative Thinker[2];Intolerant[-2];Procrastinator[-3],37
+Sophia,Collaborative[2];Reliable[3];Strategic[3];Narrow-Minded[-2];Procrastinator[-3],11
+Flossie,Detail-Oriented[3];Collaborative[2];Supportive[2];Moody[-1];Uncooperative[-2],20
+Deedee,Reliable[3];Collaborative[2];Organized[2];Passive[-1];Overly Competitive[-1],3
+Isabel,Time-Manager[3];Detail-Oriented[3];Analytical[3];Rigid[-2];Defensive[-1],40
+Tammi,Organized[2];Tech-Savvy[2];Empathetic[3];Impulsive[-1];Stubborn[-1],9
+Lurleen,Collaborative[2];Detail-Oriented[3];Creative Thinker[2];Overbearing[-1];Unempathetic[-2],34
+Zorah,Leadership[4];Empathetic[3];Supportive[2];Intolerant[-2];Pessimistic[-1],33
+Luisa,Analytical[3];Organized[2];Flexible[2];Easily Distracted[-1];Skeptical[-1],9
+Clementine,Communicative[2];Tech-Savvy[2];Collaborative[2];Pessimistic[-1];Unreliable[-3],30
+Beatrisa,Resourceful[2];Creative Thinker[2];Problem-Solver[3];Defensive[-1];Aloof[-1],28
+Marcelia,Flexible[2];Reliable[3];Detail-Oriented[3];Overbearing[-1];Unempathetic[-2],2
+Lulita,Time-Manager[3];Leadership[4];Mediator[2];Impatient[-1];Aloof[-1],32
+Trista,Flexible[2];Leadership[4];Analytical[3];Narrow-Minded[-2];Non-communicative[-2],36
+Grete,Analytical[3];Creative Thinker[2];Mediator[2];Impulsive[-1];Rigid[-2],20
+Selena,Reliable[3];Logical[3];Organized[2];Uncooperative[-2];Overbearing[-1],12
+Evvie,Problem-Solver[3];Communicative[2];Detail-Oriented[3];Impulsive[-1];Rigid[-2],3
+Josie,Innovative[2];Problem-Solver[3];Strategic[3];Dismissive[-2];Unreliable[-3],4
+Dian,Innovative[2];Time-Manager[3];Diplomatic[2];Overbearing[-1];Unreliable[-3],14
+Rafaelita,Tech-Savvy[2];Communicative[2];Organized[2];Rigid[-2];Overly Critical[-2],7
+Christan,Detail-Oriented[3];Logical[3];Creative Thinker[2];Easily Distracted[-1];Non-communicative[-2],26
+Katha,Logical[3];Communicative[2];Strategic[3];Stubborn[-1];Unreliable[-3],0
+Tabina,Analytical[3];Detail-Oriented[3];Supportive[2];Overly Critical[-2];Non-communicative[-2],26
+Carlyn,Diplomatic[2];Logical[3];Creative Thinker[2];Procrastinator[-3];Dismissive[-2],18
+Isadora,Strategic[3];Mediator[2];Time-Manager[3];Aloof[-1];Moody[-1],16
+Tabby,Collaborative[2];Mediator[2];Innovative[2];Overbearing[-1];Conflict-Averse[-2],13
+Celestyn,Time-Manager[3];Resourceful[2];Innovative[2];Impatient[-1];Rigid[-2],23
+Kelsi,Problem-Solver[3];Mediator[2];Strategic[3];Indecisive[-2];Conflict-Averse[-2],28
+Gianina,Problem-Solver[3];Organized[2];Tech-Savvy[2];Overbearing[-1];Intolerant[-2],22
+Vonny,Reliable[3];Flexible[2];Leadership[4];Pessimistic[-1];Overbearing[-1],10
+Chicky,Strategic[3];Detail-Oriented[3];Communicative[2];Intolerant[-2];Indecisive[-2],17
+Celene,Leadership[4];Empathetic[3];Analytical[3];Impulsive[-1];Pessimistic[-1],8
+Genia,Collaborative[2];Flexible[2];Reliable[3];Conflict-Averse[-2];Intolerant[-2],21
+Nedda,Resourceful[2];Detail-Oriented[3];Creative Thinker[2];Passive[-1];Impatient[-1],29
+Marie,Organized[2];Problem-Solver[3];Logical[3];Stubborn[-1];Uncooperative[-2],0
+Margalit,Resourceful[2];Reliable[3];Strategic[3];Resistant to Change[-2];Defensive[-1],39
+Leora,Collaborative[2];Innovative[2];Creative Thinker[2];Impulsive[-1];Defensive[-1],38
+Angela,Collaborative[2];Problem-Solver[3];Flexible[2];Stubborn[-1];Overbearing[-1],39
+Bonni,Tech-Savvy[2];Analytical[3];Supportive[2];Non-communicative[-2];Skeptical[-1],10
+Lexie,Collaborative[2];Problem-Solver[3];Diplomatic[2];Unempathetic[-2];Impatient[-1],31
+Allys,Innovative[2];Supportive[2];Strategic[3];Overbearing[-1];Uncooperative[-2],5
+Stephani,Leadership[4];Empathetic[3];Innovative[2];Micromanaging[-2];Narrow-Minded[-2],4
+Janean,Leadership[4];Logical[3];Problem-Solver[3];Unempathetic[-2];Stubborn[-1],37
+Cyndi,Mediator[2];Innovative[2];Reliable[3];Intolerant[-2];Overly Competitive[-1],0
+Jeni,Problem-Solver[3];Time-Manager[3];Empathetic[3];Passive[-1];Rigid[-2],10
+Merlina,Logical[3];Communicative[2];Analytical[3];Procrastinator[-3];Conflict-Averse[-2],20
+Cathi,Resourceful[2];Supportive[2];Innovative[2];Dismissive[-2];Aloof[-1],32
+Roanne,Diplomatic[2];Detail-Oriented[3];Problem-Solver[3];Unempathetic[-2];Uncooperative[-2],12
+Laverne,Strategic[3];Diplomatic[2];Problem-Solver[3];Unreliable[-3];Pessimistic[-1],1
+Danielle,Diplomatic[2];Communicative[2];Collaborative[2];Impatient[-1];Narrow-Minded[-2],33
+Rosetta,Empathetic[3];Mediator[2];Communicative[2];Procrastinator[-3];Aloof[-1],29
+Roze,Reliable[3];Diplomatic[2];Problem-Solver[3];Overly Competitive[-1];Overly Critical[-2],34
+Dyann,Analytical[3];Flexible[2];Logical[3];Uncooperative[-2];Narrow-Minded[-2],5
+Chelsea,Analytical[3];Innovative[2];Communicative[2];Unempathetic[-2];Aloof[-1],31
+Mufi,Strategic[3];Problem-Solver[3];Innovative[2];Stubborn[-1];Impulsive[-1],16
+Roby,Strategic[3];Detail-Oriented[3];Supportive[2];Intolerant[-2];Overly Competitive[-1],14
+Faye,Creative Thinker[2];Analytical[3];Reliable[3];Uncooperative[-2];Overly Competitive[-1],19
+Shanta,Flexible[2];Diplomatic[2];Mediator[2];Unempathetic[-2];Skeptical[-1],28
+Kippy,Mediator[2];Detail-Oriented[3];Organized[2];Aloof[-1];Dismissive[-2],40
+Milka,Flexible[2];Innovative[2];Creative Thinker[2];Resistant to Change[-2];Pessimistic[-1],12
+Nance,Empathetic[3];Logical[3];Analytical[3];Indecisive[-2];Overly Critical[-2],3
+Lea,Strategic[3];Detail-Oriented[3];Analytical[3];Overly Critical[-2];Non-communicative[-2],5
+Konstanze,Organized[2];Empathetic[3];Collaborative[2];Stubborn[-1];Uncooperative[-2],13
+Dionis,Time-Manager[3];Strategic[3];Mediator[2];Micromanaging[-2];Moody[-1],20
+Liana,Tech-Savvy[2];Mediator[2];Supportive[2];Narrow-Minded[-2];Micromanaging[-2],39
+Rochette,Time-Manager[3];Empathetic[3];Detail-Oriented[3];Perfectionist (to a fault)[-1];Overly Competitive[-1],3
+Agnesse,Collaborative[2];Innovative[2];Mediator[2];Skeptical[-1];Resistant to Change[-2],14
+Caren,Flexible[2];Mediator[2];Reliable[3];Indecisive[-2];Intolerant[-2],12
+Annalee,Time-Manager[3];Diplomatic[2];Innovative[2];Defensive[-1];Conflict-Averse[-2],35
+Julina,Innovative[2];Collaborative[2];Communicative[2];Perfectionist (to a fault)[-1];Passive[-1],3
+Orel,Communicative[2];Analytical[3];Logical[3];Defensive[-1];Uncooperative[-2],3
+Lesli,Leadership[4];Flexible[2];Time-Manager[3];Dismissive[-2];Moody[-1],36
+Iseabal,Detail-Oriented[3];Organized[2];Innovative[2];Narrow-Minded[-2];Rigid[-2],40
+Tamarah,Reliable[3];Problem-Solver[3];Creative Thinker[2];Overly Competitive[-1];Unreliable[-3],30
+Tana,Resourceful[2];Logical[3];Innovative[2];Aloof[-1];Overly Competitive[-1],39
+Vallie,Collaborative[2];Mediator[2];Diplomatic[2];Skeptical[-1];Uncooperative[-2],22
+Leonelle,Strategic[3];Collaborative[2];Detail-Oriented[3];Perfectionist (to a fault)[-1];Impatient[-1],36
+Carol,Creative Thinker[2];Time-Manager[3];Communicative[2];Unreliable[-3];Overly Competitive[-1],37
+Josselyn,Reliable[3];Innovative[2];Empathetic[3];Non-communicative[-2];Resistant to Change[-2],24
+Xylina,Time-Manager[3];Problem-Solver[3];Innovative[2];Stubborn[-1];Impatient[-1],10
+Milissent,Innovative[2];Organized[2];Flexible[2];Stubborn[-1];Defensive[-1],40
+Mommy,Detail-Oriented[3];Mediator[2];Resourceful[2];Unempathetic[-2];Easily Distracted[-1],26
+Corinne,Detail-Oriented[3];Diplomatic[2];Reliable[3];Skeptical[-1];Moody[-1],35
+Bettine,Analytical[3];Organized[2];Strategic[3];Easily Distracted[-1];Perfectionist (to a fault)[-1],23
+Klara,Time-Manager[3];Creative Thinker[2];Analytical[3];Moody[-1];Overly Competitive[-1],19
+Garland,Detail-Oriented[3];Logical[3];Creative Thinker[2];Micromanaging[-2];Procrastinator[-3],29
+Darby,Logical[3];Time-Manager[3];Mediator[2];Overbearing[-1];Indecisive[-2],40
+Lexine,Time-Manager[3];Detail-Oriented[3];Collaborative[2];Perfectionist (to a fault)[-1];Resistant to Change[-2],7
+Minta,Strategic[3];Flexible[2];Detail-Oriented[3];Unempathetic[-2];Pessimistic[-1],9
+Hyacinthie,Analytical[3];Time-Manager[3];Supportive[2];Unreliable[-3];Aloof[-1],33
+Valentine,Creative Thinker[2];Reliable[3];Diplomatic[2];Skeptical[-1];Impulsive[-1],13
+Stepha,Innovative[2];Communicative[2];Detail-Oriented[3];Uncooperative[-2];Passive[-1],24
+Batsheva,Collaborative[2];Logical[3];Communicative[2];Impulsive[-1];Overbearing[-1],16
+Cicily,Flexible[2];Diplomatic[2];Creative Thinker[2];Uncooperative[-2];Perfectionist (to a fault)[-1],2
+Bessy,Mediator[2];Collaborative[2];Resourceful[2];Impatient[-1];Indecisive[-2],32
+Fallon,Communicative[2];Mediator[2];Creative Thinker[2];Stubborn[-1];Moody[-1],34
+Valeria,Problem-Solver[3];Resourceful[2];Organized[2];Conflict-Averse[-2];Narrow-Minded[-2],37
+Leonanie,Problem-Solver[3];Diplomatic[2];Detail-Oriented[3];Easily Distracted[-1];Stubborn[-1],33
+Kayla,Organized[2];Diplomatic[2];Problem-Solver[3];Intolerant[-2];Stubborn[-1],3
+Tammy,Logical[3];Communicative[2];Resourceful[2];Moody[-1];Indecisive[-2],8
+Evania,Analytical[3];Leadership[4];Logical[3];Unreliable[-3];Overbearing[-1],24
+Kordula,Logical[3];Diplomatic[2];Creative Thinker[2];Skeptical[-1];Aloof[-1],3
+Davine,Analytical[3];Problem-Solver[3];Reliable[3];Overly Competitive[-1];Skeptical[-1],14
+Sonja,Tech-Savvy[2];Creative Thinker[2];Strategic[3];Skeptical[-1];Defensive[-1],1
+Dotty,Leadership[4];Tech-Savvy[2];Analytical[3];Aloof[-1];Narrow-Minded[-2],0
+Shirlene,Diplomatic[2];Flexible[2];Mediator[2];Overbearing[-1];Conflict-Averse[-2],18
+Isidora,Leadership[4];Creative Thinker[2];Flexible[2];Overly Competitive[-1];Moody[-1],20
+Neda,Communicative[2];Empathetic[3];Collaborative[2];Unreliable[-3];Pessimistic[-1],16
+Keelia,Empathetic[3];Resourceful[2];Analytical[3];Skeptical[-1];Rigid[-2],19
+Emily,Innovative[2];Creative Thinker[2];Problem-Solver[3];Overbearing[-1];Defensive[-1],5
+Ann-Marie,Detail-Oriented[3];Supportive[2];Mediator[2];Overly Competitive[-1];Unreliable[-3],19
+Terrie,Analytical[3];Empathetic[3];Diplomatic[2];Overly Critical[-2];Moody[-1],25
+Tiertza,Tech-Savvy[2];Leadership[4];Reliable[3];Perfectionist (to a fault)[-1];Unempathetic[-2],21
+Charleen,Empathetic[3];Logical[3];Flexible[2];Unempathetic[-2];Rigid[-2],25
+Consuelo,Detail-Oriented[3];Diplomatic[2];Reliable[3];Resistant to Change[-2];Dismissive[-2],6
+Ashleigh,Supportive[2];Detail-Oriented[3];Communicative[2];Passive[-1];Conflict-Averse[-2],24
+Cleopatra,Collaborative[2];Diplomatic[2];Leadership[4];Impatient[-1];Intolerant[-2],16
+Penelopa,Time-Manager[3];Empathetic[3];Flexible[2];Impatient[-1];Procrastinator[-3],17
+Marylin,Innovative[2];Mediator[2];Analytical[3];Easily Distracted[-1];Pessimistic[-1],22
+Marjorie,Tech-Savvy[2];Logical[3];Flexible[2];Passive[-1];Micromanaging[-2],5
+Audrye,Tech-Savvy[2];Strategic[3];Creative Thinker[2];Uncooperative[-2];Moody[-1],4
+Myrta,Creative Thinker[2];Analytical[3];Resourceful[2];Perfectionist (to a fault)[-1];Conflict-Averse[-2],30
+Nicole,Flexible[2];Creative Thinker[2];Detail-Oriented[3];Uncooperative[-2];Unempathetic[-2],19
+Erminie,Collaborative[2];Supportive[2];Detail-Oriented[3];Conflict-Averse[-2];Skeptical[-1],21
+Nina,Mediator[2];Supportive[2];Analytical[3];Rigid[-2];Overly Critical[-2],29
+Jilleen,Communicative[2];Collaborative[2];Creative Thinker[2];Overly Critical[-2];Unempathetic[-2],7
+Rosina,Innovative[2];Logical[3];Flexible[2];Uncooperative[-2];Unreliable[-3],34
+Lilia,Time-Manager[3];Empathetic[3];Collaborative[2];Stubborn[-1];Pessimistic[-1],20
+Adi,Analytical[3];Strategic[3];Innovative[2];Overly Critical[-2];Procrastinator[-3],16
+TEirtza,Mediator[2];Reliable[3];Detail-Oriented[3];Moody[-1];Intolerant[-2],0
+Jacquelin,Creative Thinker[2];Mediator[2];Logical[3];Overly Critical[-2];Procrastinator[-3],33
+Jemmie,Diplomatic[2];Analytical[3];Logical[3];Resistant to Change[-2];Stubborn[-1],27
+Agna,Supportive[2];Empathetic[3];Analytical[3];Procrastinator[-3];Aloof[-1],33
+Tricia,Detail-Oriented[3];Reliable[3];Communicative[2];Indecisive[-2];Micromanaging[-2],26
+Janean,Mediator[2];Logical[3];Innovative[2];Overly Critical[-2];Impulsive[-1],13
+Fernandina,Logical[3];Empathetic[3];Creative Thinker[2];Intolerant[-2];Defensive[-1],17
+Kimberlyn,Empathetic[3];Organized[2];Reliable[3];Unreliable[-3];Resistant to Change[-2],4
+Tatum,Tech-Savvy[2];Organized[2];Flexible[2];Resistant to Change[-2];Dismissive[-2],7
+Norean,Reliable[3];Flexible[2];Logical[3];Passive[-1];Non-communicative[-2],36
+Maryl,Diplomatic[2];Empathetic[3];Leadership[4];Defensive[-1];Intolerant[-2],6
+Joleen,Communicative[2];Supportive[2];Analytical[3];Aloof[-1];Unreliable[-3],26
+Roxane,Time-Manager[3];Logical[3];Communicative[2];Impulsive[-1];Intolerant[-2],37
+Katusha,Leadership[4];Organized[2];Resourceful[2];Conflict-Averse[-2];Passive[-1],3
+Norah,Strategic[3];Mediator[2];Creative Thinker[2];Indecisive[-2];Passive[-1],2
+Tabitha,Leadership[4];Strategic[3];Resourceful[2];Perfectionist (to a fault)[-1];Pessimistic[-1],33
+Allis,Reliable[3];Supportive[2];Problem-Solver[3];Procrastinator[-3];Micromanaging[-2],7
+Clarissa,Flexible[2];Detail-Oriented[3];Empathetic[3];Narrow-Minded[-2];Defensive[-1],15
+Nolana,Reliable[3];Detail-Oriented[3];Analytical[3];Narrow-Minded[-2];Overbearing[-1],13
+Martha,Leadership[4];Problem-Solver[3];Mediator[2];Moody[-1];Intolerant[-2],10
+Hanny,Analytical[3];Leadership[4];Innovative[2];Stubborn[-1];Resistant to Change[-2],7
+Wilhelmine,Innovative[2];Problem-Solver[3];Logical[3];Defensive[-1];Overly Critical[-2],7
+Kinna,Supportive[2];Empathetic[3];Organized[2];Impatient[-1];Intolerant[-2],17
+Jonie,Resourceful[2];Tech-Savvy[2];Supportive[2];Uncooperative[-2];Stubborn[-1],36
+Clovis,Diplomatic[2];Time-Manager[3];Communicative[2];Perfectionist (to a fault)[-1];Aloof[-1],35
+Deanne,Strategic[3];Reliable[3];Mediator[2];Resistant to Change[-2];Defensive[-1],26
+Kath,Innovative[2];Strategic[3];Problem-Solver[3];Procrastinator[-3];Indecisive[-2],20
+Babette,Empathetic[3];Time-Manager[3];Creative Thinker[2];Conflict-Averse[-2];Rigid[-2],7
+Tanhya,Time-Manager[3];Leadership[4];Tech-Savvy[2];Aloof[-1];Uncooperative[-2],27
+Stoddard,Resourceful[2];Mediator[2];Communicative[2];Easily Distracted[-1];Conflict-Averse[-2],36
+Ernaline,Creative Thinker[2];Diplomatic[2];Leadership[4];Narrow-Minded[-2];Perfectionist (to a fault)[-1],12
+Bobine,Resourceful[2];Logical[3];Creative Thinker[2];Uncooperative[-2];Defensive[-1],0
+Carmina,Innovative[2];Communicative[2];Mediator[2];Overly Competitive[-1];Pessimistic[-1],27
+Ramonda,Innovative[2];Problem-Solver[3];Organized[2];Narrow-Minded[-2];Non-communicative[-2],10
+Edeline,Detail-Oriented[3];Supportive[2];Diplomatic[2];Rigid[-2];Overbearing[-1],28
+Sondra,Empathetic[3];Innovative[2];Resourceful[2];Overly Critical[-2];Uncooperative[-2],37
+Nerissa,Flexible[2];Logical[3];Organized[2];Aloof[-1];Indecisive[-2],23
+Eulalie,Tech-Savvy[2];Logical[3];Supportive[2];Impatient[-1];Overly Competitive[-1],28
+Bessy,Flexible[2];Problem-Solver[3];Creative Thinker[2];Intolerant[-2];Overly Critical[-2],22
+Lyndy,Leadership[4];Reliable[3];Problem-Solver[3];Narrow-Minded[-2];Intolerant[-2],17
+Charla,Analytical[3];Collaborative[2];Innovative[2];Intolerant[-2];Skeptical[-1],18
+Kimmy,Analytical[3];Collaborative[2];Supportive[2];Micromanaging[-2];Intolerant[-2],35
+Allina,Creative Thinker[2];Strategic[3];Problem-Solver[3];Indecisive[-2];Non-communicative[-2],6
+Lenna,Collaborative[2];Flexible[2];Resourceful[2];Impulsive[-1];Unempathetic[-2],2
+Aimee,Leadership[4];Organized[2];Creative Thinker[2];Indecisive[-2];Dismissive[-2],35
+Valry,Mediator[2];Diplomatic[2];Creative Thinker[2];Skeptical[-1];Intolerant[-2],24
+Karina,Tech-Savvy[2];Flexible[2];Creative Thinker[2];Conflict-Averse[-2];Unreliable[-3],38
+Halie,Detail-Oriented[3];Leadership[4];Time-Manager[3];Micromanaging[-2];Conflict-Averse[-2],8
+Jasmina,Flexible[2];Innovative[2];Creative Thinker[2];Narrow-Minded[-2];Intolerant[-2],23
+Linzy,Problem-Solver[3];Time-Manager[3];Mediator[2];Passive[-1];Overly Competitive[-1],33
+Pooh,Supportive[2];Logical[3];Detail-Oriented[3];Unempathetic[-2];Unreliable[-3],30
+Janie,Resourceful[2];Leadership[4];Time-Manager[3];Indecisive[-2];Intolerant[-2],39
+Judye,Tech-Savvy[2];Empathetic[3];Analytical[3];Overly Competitive[-1];Resistant to Change[-2],26
+Olly,Tech-Savvy[2];Analytical[3];Creative Thinker[2];Resistant to Change[-2];Overbearing[-1],32
+Nancie,Flexible[2];Mediator[2];Organized[2];Narrow-Minded[-2];Overly Critical[-2],40
+Nancie,Analytical[3];Leadership[4];Flexible[2];Narrow-Minded[-2];Skeptical[-1],37
+Adrianne,Reliable[3];Creative Thinker[2];Mediator[2];Impatient[-1];Narrow-Minded[-2],16
+Rosa,Time-Manager[3];Strategic[3];Reliable[3];Rigid[-2];Uncooperative[-2],28
+Alisa,Time-Manager[3];Collaborative[2];Reliable[3];Unreliable[-3];Uncooperative[-2],29
+Clarey,Diplomatic[2];Reliable[3];Strategic[3];Impatient[-1];Non-communicative[-2],5
+Tabatha,Mediator[2];Supportive[2];Strategic[3];Indecisive[-2];Skeptical[-1],16
+Beverlie,Empathetic[3];Problem-Solver[3];Analytical[3];Intolerant[-2];Defensive[-1],11
+Celestyn,Supportive[2];Detail-Oriented[3];Analytical[3];Passive[-1];Skeptical[-1],22
+Marcella,Leadership[4];Analytical[3];Resourceful[2];Resistant to Change[-2];Perfectionist (to a fault)[-1],27
+Dasie,Empathetic[3];Innovative[2];Reliable[3];Micromanaging[-2];Impulsive[-1],10
+Jacquelyn,Time-Manager[3];Leadership[4];Diplomatic[2];Unempathetic[-2];Perfectionist (to a fault)[-1],4
+Holli,Leadership[4];Creative Thinker[2];Innovative[2];Pessimistic[-1];Unempathetic[-2],21
+Darell,Innovative[2];Tech-Savvy[2];Reliable[3];Indecisive[-2];Skeptical[-1],3
+Lizabeth,Empathetic[3];Time-Manager[3];Innovative[2];Overly Competitive[-1];Uncooperative[-2],11
+Corrianne,Innovative[2];Reliable[3];Diplomatic[2];Dismissive[-2];Unempathetic[-2],26
+Shelba,Innovative[2];Collaborative[2];Strategic[3];Defensive[-1];Perfectionist (to a fault)[-1],19
+Lanie,Organized[2];Analytical[3];Strategic[3];Non-communicative[-2];Unreliable[-3],6
+Laraine,Organized[2];Innovative[2];Time-Manager[3];Pessimistic[-1];Overly Critical[-2],29
+Trish,Reliable[3];Logical[3];Resourceful[2];Rigid[-2];Impulsive[-1],37
+Penny,Innovative[2];Diplomatic[2];Organized[2];Overly Critical[-2];Impulsive[-1],34
+Gwenora,Collaborative[2];Communicative[2];Innovative[2];Overly Competitive[-1];Passive[-1],27
+Wendye,Time-Manager[3];Organized[2];Supportive[2];Dismissive[-2];Perfectionist (to a fault)[-1],31
+Michelle,Organized[2];Communicative[2];Supportive[2];Overly Competitive[-1];Easily Distracted[-1],15
+Collen,Organized[2];Detail-Oriented[3];Supportive[2];Narrow-Minded[-2];Unempathetic[-2],39
+Kelly,Mediator[2];Creative Thinker[2];Organized[2];Moody[-1];Non-communicative[-2],17
+Malynda,Creative Thinker[2];Diplomatic[2];Communicative[2];Procrastinator[-3];Conflict-Averse[-2],21
+Hadria,Empathetic[3];Innovative[2];Mediator[2];Conflict-Averse[-2];Uncooperative[-2],29
+Marline,Mediator[2];Empathetic[3];Flexible[2];Overbearing[-1];Procrastinator[-3],2
+Fanechka,Resourceful[2];Detail-Oriented[3];Problem-Solver[3];Impulsive[-1];Overly Critical[-2],0
+Ginelle,Collaborative[2];Logical[3];Strategic[3];Skeptical[-1];Micromanaging[-2],22
+Regine,Time-Manager[3];Supportive[2];Leadership[4];Overly Competitive[-1];Rigid[-2],2
+Gwendolin,Communicative[2];Creative Thinker[2];Innovative[2];Overly Critical[-2];Rigid[-2],20
+Christalle,Strategic[3];Communicative[2];Diplomatic[2];Unempathetic[-2];Pessimistic[-1],37
+Lena,Leadership[4];Organized[2];Logical[3];Impulsive[-1];Resistant to Change[-2],28
+Carmon,Resourceful[2];Communicative[2];Creative Thinker[2];Impulsive[-1];Micromanaging[-2],2
+Delphine,Supportive[2];Analytical[3];Organized[2];Non-communicative[-2];Skeptical[-1],34
+Vi,Logical[3];Flexible[2];Communicative[2];Impatient[-1];Overly Critical[-2],21
+Charmaine,Collaborative[2];Supportive[2];Mediator[2];Overly Competitive[-1];Skeptical[-1],33
+Hettie,Collaborative[2];Analytical[3];Innovative[2];Easily Distracted[-1];Procrastinator[-3],0
+Sarajane,Collaborative[2];Problem-Solver[3];Detail-Oriented[3];Unreliable[-3];Conflict-Averse[-2],8
+Tim,Collaborative[2];Time-Manager[3];Analytical[3];Perfectionist (to a fault)[-1];Moody[-1],14
+Ann-Marie,Logical[3];Tech-Savvy[2];Analytical[3];Intolerant[-2];Passive[-1],17
+Vinita,Creative Thinker[2];Problem-Solver[3];Leadership[4];Impulsive[-1];Unreliable[-3],12
+Jacquetta,Organized[2];Communicative[2];Reliable[3];Impatient[-1];Defensive[-1],5
+Renee,Mediator[2];Resourceful[2];Problem-Solver[3];Indecisive[-2];Conflict-Averse[-2],35
+Ruthi,Empathetic[3];Problem-Solver[3];Strategic[3];Impatient[-1];Moody[-1],22
+Lusa,Leadership[4];Problem-Solver[3];Reliable[3];Defensive[-1];Micromanaging[-2],40
+Andee,Creative Thinker[2];Empathetic[3];Strategic[3];Micromanaging[-2];Rigid[-2],35
+Anjela,Collaborative[2];Resourceful[2];Leadership[4];Perfectionist (to a fault)[-1];Non-communicative[-2],13
+Malory,Problem-Solver[3];Creative Thinker[2];Time-Manager[3];Defensive[-1];Resistant to Change[-2],7
+Elke,Communicative[2];Creative Thinker[2];Tech-Savvy[2];Indecisive[-2];Overly Critical[-2],7
+Maurizia,Innovative[2];Organized[2];Detail-Oriented[3];Narrow-Minded[-2];Easily Distracted[-1],3
+Anne-Corinne,Supportive[2];Diplomatic[2];Innovative[2];Impulsive[-1];Overbearing[-1],22
+Anabel,Communicative[2];Mediator[2];Strategic[3];Dismissive[-2];Unempathetic[-2],7
+Eadie,Innovative[2];Organized[2];Creative Thinker[2];Pessimistic[-1];Unreliable[-3],1
+Jaime,Leadership[4];Mediator[2];Innovative[2];Micromanaging[-2];Dismissive[-2],5
+Aubry,Tech-Savvy[2];Strategic[3];Logical[3];Unempathetic[-2];Overly Critical[-2],28
+Viviyan,Detail-Oriented[3];Empathetic[3];Collaborative[2];Indecisive[-2];Impulsive[-1],6
+Wally,Strategic[3];Mediator[2];Empathetic[3];Uncooperative[-2];Non-communicative[-2],28
+Elysia,Analytical[3];Supportive[2];Leadership[4];Skeptical[-1];Moody[-1],35
+Ninnetta,Strategic[3];Creative Thinker[2];Analytical[3];Stubborn[-1];Rigid[-2],17
+Barbara,Resourceful[2];Organized[2];Creative Thinker[2];Conflict-Averse[-2];Rigid[-2],21
+Sileas,Logical[3];Diplomatic[2];Empathetic[3];Unempathetic[-2];Pessimistic[-1],5
+Robinet,Problem-Solver[3];Time-Manager[3];Leadership[4];Pessimistic[-1];Non-communicative[-2],3
+Christy,Communicative[2];Flexible[2];Resourceful[2];Overbearing[-1];Perfectionist (to a fault)[-1],8
+Nikkie,Logical[3];Tech-Savvy[2];Supportive[2];Easily Distracted[-1];Impulsive[-1],0
+Felicia,Strategic[3];Mediator[2];Detail-Oriented[3];Unreliable[-3];Intolerant[-2],26
+Nedda,Supportive[2];Reliable[3];Leadership[4];Unempathetic[-2];Uncooperative[-2],17
+Holli,Flexible[2];Reliable[3];Creative Thinker[2];Overly Competitive[-1];Passive[-1],38
+Rosamund,Creative Thinker[2];Detail-Oriented[3];Time-Manager[3];Indecisive[-2];Rigid[-2],39
+Caralie,Creative Thinker[2];Communicative[2];Diplomatic[2];Micromanaging[-2];Rigid[-2],23
+Christan,Leadership[4];Communicative[2];Problem-Solver[3];Unreliable[-3];Procrastinator[-3],35
+Briana,Organized[2];Diplomatic[2];Time-Manager[3];Unempathetic[-2];Dismissive[-2],33
+Adorne,Strategic[3];Leadership[4];Logical[3];Overly Critical[-2];Overbearing[-1],32
+Elsi,Detail-Oriented[3];Diplomatic[2];Organized[2];Perfectionist (to a fault)[-1];Rigid[-2],7
+Bernadina,Strategic[3];Flexible[2];Analytical[3];Aloof[-1];Pessimistic[-1],22
+Klarika,Time-Manager[3];Creative Thinker[2];Analytical[3];Moody[-1];Non-communicative[-2],13
+Erminie,Collaborative[2];Mediator[2];Strategic[3];Passive[-1];Conflict-Averse[-2],39
+Berrie,Detail-Oriented[3];Innovative[2];Logical[3];Impatient[-1];Unreliable[-3],38
+Opaline,Supportive[2];Reliable[3];Resourceful[2];Resistant to Change[-2];Uncooperative[-2],25
+Brinna,Logical[3];Organized[2];Supportive[2];Impatient[-1];Dismissive[-2],6
+Bernardina,Reliable[3];Collaborative[2];Empathetic[3];Non-communicative[-2];Pessimistic[-1],11
+Cheryl,Flexible[2];Creative Thinker[2];Supportive[2];Impulsive[-1];Passive[-1],31
+Shani,Resourceful[2];Tech-Savvy[2];Leadership[4];Non-communicative[-2];Intolerant[-2],5
+Katherina,Communicative[2];Organized[2];Mediator[2];Rigid[-2];Uncooperative[-2],40
+Franni,Detail-Oriented[3];Tech-Savvy[2];Analytical[3];Indecisive[-2];Skeptical[-1],18
+Philipa,Tech-Savvy[2];Logical[3];Collaborative[2];Aloof[-1];Skeptical[-1],5
+Dinah,Reliable[3];Resourceful[2];Strategic[3];Aloof[-1];Resistant to Change[-2],19
+Judy,Flexible[2];Time-Manager[3];Innovative[2];Impatient[-1];Indecisive[-2],23
+Cahra,Supportive[2];Analytical[3];Detail-Oriented[3];Non-communicative[-2];Stubborn[-1],7
+Geri,Collaborative[2];Mediator[2];Empathetic[3];Impatient[-1];Indecisive[-2],26
+Anabal,Collaborative[2];Flexible[2];Supportive[2];Conflict-Averse[-2];Unempathetic[-2],2
+Trisha,Collaborative[2];Strategic[3];Problem-Solver[3];Impatient[-1];Pessimistic[-1],1
+Charla,Detail-Oriented[3];Empathetic[3];Tech-Savvy[2];Passive[-1];Pessimistic[-1],27
+Cami,Collaborative[2];Communicative[2];Empathetic[3];Aloof[-1];Rigid[-2],5
+Latashia,Supportive[2];Logical[3];Mediator[2];Impulsive[-1];Moody[-1],37
+Carmelita,Tech-Savvy[2];Empathetic[3];Reliable[3];Easily Distracted[-1];Narrow-Minded[-2],19
+Misty,Communicative[2];Detail-Oriented[3];Creative Thinker[2];Skeptical[-1];Unempathetic[-2],16
+Annnora,Diplomatic[2];Tech-Savvy[2];Mediator[2];Easily Distracted[-1];Conflict-Averse[-2],39
+Dorie,Collaborative[2];Organized[2];Time-Manager[3];Impatient[-1];Rigid[-2],3
+Evaleen,Supportive[2];Communicative[2];Detail-Oriented[3];Pessimistic[-1];Passive[-1],30
+Nara,Time-Manager[3];Diplomatic[2];Resourceful[2];Non-communicative[-2];Overbearing[-1],14
+Ede,Empathetic[3];Collaborative[2];Strategic[3];Resistant to Change[-2];Pessimistic[-1],19
+Ceil,Diplomatic[2];Communicative[2];Logical[3];Defensive[-1];Dismissive[-2],11
+Wilie,Detail-Oriented[3];Flexible[2];Creative Thinker[2];Unempathetic[-2];Overbearing[-1],7
+Walliw,Logical[3];Collaborative[2];Analytical[3];Indecisive[-2];Intolerant[-2],19
+Ted,Resourceful[2];Mediator[2];Leadership[4];Easily Distracted[-1];Overbearing[-1],32
+Jobye,Logical[3];Reliable[3];Diplomatic[2];Pessimistic[-1];Defensive[-1],20
+Norina,Communicative[2];Logical[3];Collaborative[2];Rigid[-2];Overly Critical[-2],14
+Wylma,Problem-Solver[3];Collaborative[2];Creative Thinker[2];Perfectionist (to a fault)[-1];Rigid[-2],24
+Ayn,Resourceful[2];Time-Manager[3];Reliable[3];Easily Distracted[-1];Impatient[-1],25
+Marrissa,Detail-Oriented[3];Resourceful[2];Creative Thinker[2];Overly Critical[-2];Unempathetic[-2],18
+Pammie,Diplomatic[2];Empathetic[3];Logical[3];Aloof[-1];Dismissive[-2],22
+Larine,Time-Manager[3];Empathetic[3];Reliable[3];Conflict-Averse[-2];Pessimistic[-1],38
+Myrle,Reliable[3];Problem-Solver[3];Leadership[4];Pessimistic[-1];Easily Distracted[-1],38
+Jena,Logical[3];Innovative[2];Supportive[2];Unreliable[-3];Indecisive[-2],19
+Meggi,Innovative[2];Resourceful[2];Flexible[2];Procrastinator[-3];Rigid[-2],34
+Miran,Time-Manager[3];Diplomatic[2];Detail-Oriented[3];Aloof[-1];Micromanaging[-2],33
+Clare,Organized[2];Time-Manager[3];Empathetic[3];Defensive[-1];Impatient[-1],29
+Emera,Resourceful[2];Flexible[2];Strategic[3];Micromanaging[-2];Defensive[-1],12
+Charita,Collaborative[2];Flexible[2];Tech-Savvy[2];Overly Competitive[-1];Resistant to Change[-2],10
+Elisabetta,Flexible[2];Time-Manager[3];Detail-Oriented[3];Stubborn[-1];Dismissive[-2],29
+Adelaide,Supportive[2];Resourceful[2];Communicative[2];Intolerant[-2];Indecisive[-2],2
+Perry,Leadership[4];Collaborative[2];Organized[2];Impulsive[-1];Overly Competitive[-1],31
+Alejandra,Communicative[2];Diplomatic[2];Reliable[3];Pessimistic[-1];Overly Competitive[-1],0
+Aridatha,Problem-Solver[3];Creative Thinker[2];Empathetic[3];Perfectionist (to a fault)[-1];Rigid[-2],7
+Maria,Innovative[2];Organized[2];Reliable[3];Impatient[-1];Moody[-1],37
+Cory,Flexible[2];Time-Manager[3];Resourceful[2];Defensive[-1];Overbearing[-1],26
+Joelly,Analytical[3];Collaborative[2];Diplomatic[2];Narrow-Minded[-2];Overbearing[-1],40
+Sela,Organized[2];Reliable[3];Supportive[2];Narrow-Minded[-2];Easily Distracted[-1],31
+Aila,Empathetic[3];Reliable[3];Resourceful[2];Pessimistic[-1];Perfectionist (to a fault)[-1],34
+Jessamine,Leadership[4];Time-Manager[3];Communicative[2];Indecisive[-2];Easily Distracted[-1],5
+Lesli,Logical[3];Diplomatic[2];Analytical[3];Micromanaging[-2];Resistant to Change[-2],16
+Julina,Tech-Savvy[2];Resourceful[2];Strategic[3];Impulsive[-1];Unempathetic[-2],12
+Bertine,Communicative[2];Resourceful[2];Detail-Oriented[3];Overly Critical[-2];Moody[-1],7
+Dolores,Detail-Oriented[3];Communicative[2];Diplomatic[2];Pessimistic[-1];Unempathetic[-2],36
+Aubine,Resourceful[2];Logical[3];Collaborative[2];Stubborn[-1];Easily Distracted[-1],40
+Corie,Strategic[3];Time-Manager[3];Detail-Oriented[3];Intolerant[-2];Easily Distracted[-1],30
+Raquel,Resourceful[2];Problem-Solver[3];Collaborative[2];Pessimistic[-1];Moody[-1],25
+Giulia,Supportive[2];Innovative[2];Empathetic[3];Rigid[-2];Passive[-1],1
+Rennie,Time-Manager[3];Mediator[2];Strategic[3];Impatient[-1];Unreliable[-3],17
+Laryssa,Time-Manager[3];Logical[3];Flexible[2];Impatient[-1];Impulsive[-1],38
+Loleta,Tech-Savvy[2];Mediator[2];Flexible[2];Impulsive[-1];Perfectionist (to a fault)[-1],1
+Novelia,Time-Manager[3];Analytical[3];Mediator[2];Passive[-1];Defensive[-1],7
+Tallia,Detail-Oriented[3];Empathetic[3];Innovative[2];Intolerant[-2];Micromanaging[-2],3
+Ally,Diplomatic[2];Collaborative[2];Creative Thinker[2];Resistant to Change[-2];Indecisive[-2],3
+Leda,Problem-Solver[3];Supportive[2];Detail-Oriented[3];Non-communicative[-2];Procrastinator[-3],16
+Shaylyn,Empathetic[3];Strategic[3];Detail-Oriented[3];Procrastinator[-3];Overly Competitive[-1],6
+Dorothea,Creative Thinker[2];Mediator[2];Detail-Oriented[3];Uncooperative[-2];Moody[-1],16
+Jen,Organized[2];Tech-Savvy[2];Logical[3];Dismissive[-2];Impatient[-1],37
+Fleur,Diplomatic[2];Logical[3];Mediator[2];Rigid[-2];Procrastinator[-3],12
+Briana,Reliable[3];Diplomatic[2];Innovative[2];Dismissive[-2];Defensive[-1],7
+Kikelia,Supportive[2];Collaborative[2];Detail-Oriented[3];Overbearing[-1];Unreliable[-3],27
+Bertina,Logical[3];Strategic[3];Reliable[3];Resistant to Change[-2];Perfectionist (to a fault)[-1],15
+Alyce,Innovative[2];Leadership[4];Collaborative[2];Unempathetic[-2];Overbearing[-1],1
+Nonah,Organized[2];Leadership[4];Mediator[2];Passive[-1];Resistant to Change[-2],4
+Yoko,Resourceful[2];Problem-Solver[3];Organized[2];Stubborn[-1];Passive[-1],24
+Jaime,Innovative[2];Time-Manager[3];Diplomatic[2];Overly Critical[-2];Perfectionist (to a fault)[-1],5
+Tamarah,Creative Thinker[2];Reliable[3];Organized[2];Overly Competitive[-1];Aloof[-1],23
+Dulciana,Strategic[3];Detail-Oriented[3];Organized[2];Overly Critical[-2];Narrow-Minded[-2],27
+Tammy,Strategic[3];Diplomatic[2];Empathetic[3];Overbearing[-1];Aloof[-1],36
+Kimberli,Reliable[3];Organized[2];Empathetic[3];Resistant to Change[-2];Impulsive[-1],27
+Genna,Resourceful[2];Innovative[2];Analytical[3];Uncooperative[-2];Impatient[-1],34
+Felipa,Empathetic[3];Communicative[2];Reliable[3];Dismissive[-2];Defensive[-1],10
+Ricca,Mediator[2];Reliable[3];Creative Thinker[2];Indecisive[-2];Easily Distracted[-1],4
+Ashlie,Problem-Solver[3];Resourceful[2];Analytical[3];Overbearing[-1];Intolerant[-2],21
+Celestyn,Empathetic[3];Logical[3];Problem-Solver[3];Pessimistic[-1];Rigid[-2],12
+Allegra,Diplomatic[2];Mediator[2];Detail-Oriented[3];Defensive[-1];Perfectionist (to a fault)[-1],17
+Lydie,Creative Thinker[2];Empathetic[3];Communicative[2];Unempathetic[-2];Skeptical[-1],12
+Norma,Flexible[2];Reliable[3];Innovative[2];Unreliable[-3];Rigid[-2],3
+Eveline,Innovative[2];Resourceful[2];Detail-Oriented[3];Skeptical[-1];Unempathetic[-2],14
+Ruthe,Tech-Savvy[2];Logical[3];Empathetic[3];Dismissive[-2];Skeptical[-1],15
+Eunice,Organized[2];Tech-Savvy[2];Time-Manager[3];Aloof[-1];Skeptical[-1],2
+Lotty,Strategic[3];Detail-Oriented[3];Mediator[2];Procrastinator[-3];Skeptical[-1],5
+Roobbie,Mediator[2];Time-Manager[3];Organized[2];Perfectionist (to a fault)[-1];Aloof[-1],14
+Dinnie,Resourceful[2];Leadership[4];Creative Thinker[2];Impatient[-1];Pessimistic[-1],2
+Aidan,Diplomatic[2];Tech-Savvy[2];Reliable[3];Unempathetic[-2];Skeptical[-1],15
+Candra,Organized[2];Tech-Savvy[2];Supportive[2];Uncooperative[-2];Pessimistic[-1],18
+Tracie,Mediator[2];Detail-Oriented[3];Strategic[3];Unreliable[-3];Narrow-Minded[-2],3
+Jere,Leadership[4];Time-Manager[3];Strategic[3];Narrow-Minded[-2];Overly Critical[-2],22
+Henka,Strategic[3];Logical[3];Empathetic[3];Non-communicative[-2];Intolerant[-2],22
+Ally,Reliable[3];Detail-Oriented[3];Empathetic[3];Resistant to Change[-2];Defensive[-1],18
+Hana,Time-Manager[3];Organized[2];Tech-Savvy[2];Overly Critical[-2];Skeptical[-1],25
+Ivy,Strategic[3];Analytical[3];Empathetic[3];Easily Distracted[-1];Stubborn[-1],3
+Marigold,Logical[3];Communicative[2];Resourceful[2];Impatient[-1];Pessimistic[-1],0
+Natasha,Diplomatic[2];Innovative[2];Leadership[4];Moody[-1];Perfectionist (to a fault)[-1],37
+Leilah,Empathetic[3];Reliable[3];Creative Thinker[2];Perfectionist (to a fault)[-1];Skeptical[-1],14
+Cecil,Innovative[2];Flexible[2];Strategic[3];Moody[-1];Easily Distracted[-1],5
+Leoline,Collaborative[2];Logical[3];Empathetic[3];Aloof[-1];Narrow-Minded[-2],6
+Daisi,Reliable[3];Strategic[3];Flexible[2];Perfectionist (to a fault)[-1];Impulsive[-1],29
+Angil,Analytical[3];Collaborative[2];Creative Thinker[2];Easily Distracted[-1];Impulsive[-1],33
+Linell,Innovative[2];Supportive[2];Detail-Oriented[3];Pessimistic[-1];Stubborn[-1],26
+Margret,Analytical[3];Resourceful[2];Innovative[2];Passive[-1];Intolerant[-2],37
+Beatrix,Problem-Solver[3];Creative Thinker[2];Analytical[3];Passive[-1];Non-communicative[-2],10
+Nedi,Strategic[3];Leadership[4];Collaborative[2];Impulsive[-1];Procrastinator[-3],10
+Gusti,Strategic[3];Empathetic[3];Tech-Savvy[2];Pessimistic[-1];Non-communicative[-2],16
+Elnora,Logical[3];Problem-Solver[3];Resourceful[2];Uncooperative[-2];Pessimistic[-1],25
+Aleen,Innovative[2];Resourceful[2];Tech-Savvy[2];Dismissive[-2];Perfectionist (to a fault)[-1],28
+Dore,Analytical[3];Tech-Savvy[2];Resourceful[2];Passive[-1];Unempathetic[-2],3
+Gayleen,Tech-Savvy[2];Analytical[3];Reliable[3];Overly Critical[-2];Uncooperative[-2],2
+Vinny,Logical[3];Strategic[3];Tech-Savvy[2];Narrow-Minded[-2];Procrastinator[-3],26
+Coralyn,Reliable[3];Supportive[2];Logical[3];Impatient[-1];Procrastinator[-3],1
+Teddi,Innovative[2];Strategic[3];Organized[2];Intolerant[-2];Pessimistic[-1],10
+Merridie,Creative Thinker[2];Communicative[2];Resourceful[2];Unreliable[-3];Non-communicative[-2],29
+Mandy,Tech-Savvy[2];Time-Manager[3];Detail-Oriented[3];Unempathetic[-2];Narrow-Minded[-2],36
+Gena,Tech-Savvy[2];Detail-Oriented[3];Analytical[3];Indecisive[-2];Perfectionist (to a fault)[-1],0
+Cassondra,Collaborative[2];Communicative[2];Strategic[3];Narrow-Minded[-2];Pessimistic[-1],29
+Morgen,Flexible[2];Organized[2];Time-Manager[3];Uncooperative[-2];Moody[-1],21
+Priscilla,Leadership[4];Creative Thinker[2];Time-Manager[3];Overbearing[-1];Stubborn[-1],17
+Pamelina,Logical[3];Creative Thinker[2];Tech-Savvy[2];Dismissive[-2];Procrastinator[-3],33
+Simonne,Reliable[3];Tech-Savvy[2];Logical[3];Overly Competitive[-1];Stubborn[-1],3
+Roselia,Time-Manager[3];Leadership[4];Supportive[2];Perfectionist (to a fault)[-1];Pessimistic[-1],19
+Katey,Detail-Oriented[3];Resourceful[2];Mediator[2];Indecisive[-2];Impatient[-1],30
+Daron,Collaborative[2];Innovative[2];Leadership[4];Rigid[-2];Narrow-Minded[-2],25
+Adele,Logical[3];Problem-Solver[3];Flexible[2];Unreliable[-3];Uncooperative[-2],31
+Brigitte,Supportive[2];Communicative[2];Tech-Savvy[2];Micromanaging[-2];Non-communicative[-2],28
+Addia,Innovative[2];Empathetic[3];Flexible[2];Impatient[-1];Overbearing[-1],35
+Cassy,Leadership[4];Communicative[2];Supportive[2];Non-communicative[-2];Indecisive[-2],10
+Jacky,Detail-Oriented[3];Supportive[2];Problem-Solver[3];Unreliable[-3];Stubborn[-1],15
+Ada,Innovative[2];Time-Manager[3];Detail-Oriented[3];Perfectionist (to a fault)[-1];Aloof[-1],5
+Brook,Problem-Solver[3];Collaborative[2];Supportive[2];Indecisive[-2];Moody[-1],36
+Berti,Time-Manager[3];Tech-Savvy[2];Mediator[2];Passive[-1];Overbearing[-1],33
+Corly,Innovative[2];Diplomatic[2];Creative Thinker[2];Dismissive[-2];Overbearing[-1],36
+Monica,Strategic[3];Detail-Oriented[3];Problem-Solver[3];Intolerant[-2];Overbearing[-1],7
+Annnora,Resourceful[2];Organized[2];Collaborative[2];Easily Distracted[-1];Procrastinator[-3],13
+Blythe,Communicative[2];Detail-Oriented[3];Mediator[2];Impulsive[-1];Passive[-1],5
+Charlotte,Analytical[3];Flexible[2];Supportive[2];Overly Competitive[-1];Conflict-Averse[-2],9
+Toinette,Resourceful[2];Communicative[2];Organized[2];Overly Competitive[-1];Resistant to Change[-2],24
+Gabi,Problem-Solver[3];Empathetic[3];Logical[3];Conflict-Averse[-2];Intolerant[-2],2
+Shauna,Empathetic[3];Logical[3];Reliable[3];Procrastinator[-3];Unreliable[-3],7
+Loreen,Leadership[4];Resourceful[2];Tech-Savvy[2];Resistant to Change[-2];Procrastinator[-3],19
+Ariana,Empathetic[3];Collaborative[2];Communicative[2];Unempathetic[-2];Rigid[-2],5
+Jo,Leadership[4];Problem-Solver[3];Mediator[2];Impulsive[-1];Resistant to Change[-2],38
+Marilin,Time-Manager[3];Organized[2];Collaborative[2];Micromanaging[-2];Aloof[-1],5
+Jorie,Detail-Oriented[3];Supportive[2];Tech-Savvy[2];Indecisive[-2];Stubborn[-1],8
+Ursulina,Strategic[3];Supportive[2];Tech-Savvy[2];Conflict-Averse[-2];Overly Critical[-2],6
+Gerti,Strategic[3];Reliable[3];Flexible[2];Easily Distracted[-1];Intolerant[-2],14
+Brigid,Collaborative[2];Logical[3];Strategic[3];Unreliable[-3];Resistant to Change[-2],37
+Sindee,Logical[3];Communicative[2];Tech-Savvy[2];Micromanaging[-2];Defensive[-1],3
+Kesley,Diplomatic[2];Collaborative[2];Mediator[2];Overly Competitive[-1];Uncooperative[-2],0
+Conni,Strategic[3];Leadership[4];Reliable[3];Rigid[-2];Overbearing[-1],9
+Krystal,Flexible[2];Innovative[2];Leadership[4];Pessimistic[-1];Easily Distracted[-1],9
+Gillian,Innovative[2];Collaborative[2];Supportive[2];Overly Critical[-2];Resistant to Change[-2],4
+Rikki,Tech-Savvy[2];Supportive[2];Empathetic[3];Unempathetic[-2];Overly Critical[-2],38
+Randene,Diplomatic[2];Innovative[2];Flexible[2];Overbearing[-1];Unempathetic[-2],18
+Lin,Creative Thinker[2];Detail-Oriented[3];Leadership[4];Impulsive[-1];Aloof[-1],26
+Deeanne,Detail-Oriented[3];Empathetic[3];Logical[3];Conflict-Averse[-2];Unreliable[-3],6
+Karyl,Innovative[2];Time-Manager[3];Logical[3];Pessimistic[-1];Resistant to Change[-2],20
+Leland,Detail-Oriented[3];Reliable[3];Creative Thinker[2];Aloof[-1];Impatient[-1],20
+Sherilyn,Organized[2];Tech-Savvy[2];Innovative[2];Defensive[-1];Overbearing[-1],34
+Inez,Mediator[2];Flexible[2];Logical[3];Defensive[-1];Overly Critical[-2],33
+Kassey,Resourceful[2];Innovative[2];Collaborative[2];Micromanaging[-2];Narrow-Minded[-2],38
+Malva,Detail-Oriented[3];Reliable[3];Problem-Solver[3];Skeptical[-1];Resistant to Change[-2],37
+Sallyann,Strategic[3];Communicative[2];Tech-Savvy[2];Moody[-1];Unreliable[-3],40
+Cristy,Innovative[2];Diplomatic[2];Collaborative[2];Impatient[-1];Overly Competitive[-1],0
+Mareah,Reliable[3];Problem-Solver[3];Tech-Savvy[2];Stubborn[-1];Aloof[-1],17
+Cordey,Organized[2];Supportive[2];Resourceful[2];Moody[-1];Procrastinator[-3],18
+Lexine,Leadership[4];Mediator[2];Flexible[2];Unreliable[-3];Perfectionist (to a fault)[-1],37
+Lissy,Strategic[3];Problem-Solver[3];Communicative[2];Conflict-Averse[-2];Passive[-1],6
+Celka,Communicative[2];Resourceful[2];Innovative[2];Perfectionist (to a fault)[-1];Pessimistic[-1],33
+Lucita,Supportive[2];Problem-Solver[3];Leadership[4];Intolerant[-2];Skeptical[-1],10
+Alyda,Logical[3];Analytical[3];Time-Manager[3];Micromanaging[-2];Dismissive[-2],34
+Georgette,Analytical[3];Innovative[2];Empathetic[3];Overly Competitive[-1];Unreliable[-3],16
+Amara,Innovative[2];Logical[3];Flexible[2];Uncooperative[-2];Skeptical[-1],32
+Valene,Tech-Savvy[2];Problem-Solver[3];Organized[2];Perfectionist (to a fault)[-1];Impatient[-1],35
+Clovis,Mediator[2];Logical[3];Communicative[2];Passive[-1];Procrastinator[-3],15
+Nicky,Analytical[3];Communicative[2];Creative Thinker[2];Moody[-1];Resistant to Change[-2],26
+Myrtle,Leadership[4];Tech-Savvy[2];Innovative[2];Resistant to Change[-2];Impulsive[-1],35
+Luci,Logical[3];Innovative[2];Flexible[2];Overbearing[-1];Stubborn[-1],37
+Hyacinth,Organized[2];Tech-Savvy[2];Detail-Oriented[3];Resistant to Change[-2];Unempathetic[-2],6
+Ailsun,Detail-Oriented[3];Analytical[3];Empathetic[3];Resistant to Change[-2];Conflict-Averse[-2],37
+Vinni,Diplomatic[2];Creative Thinker[2];Time-Manager[3];Impulsive[-1];Overbearing[-1],25
+Auria,Supportive[2];Strategic[3];Diplomatic[2];Intolerant[-2];Aloof[-1],10
+Nola,Organized[2];Communicative[2];Mediator[2];Unreliable[-3];Passive[-1],2
+Raf,Detail-Oriented[3];Tech-Savvy[2];Communicative[2];Intolerant[-2];Overly Critical[-2],18
+Caterina,Reliable[3];Supportive[2];Time-Manager[3];Narrow-Minded[-2];Impulsive[-1],9
+Delores,Time-Manager[3];Innovative[2];Organized[2];Resistant to Change[-2];Overbearing[-1],38
+Cynde,Communicative[2];Logical[3];Time-Manager[3];Overly Critical[-2];Indecisive[-2],2
+Daryn,Organized[2];Mediator[2];Empathetic[3];Defensive[-1];Overly Competitive[-1],17
+Dorthea,Logical[3];Problem-Solver[3];Detail-Oriented[3];Impulsive[-1];Skeptical[-1],13
+Christie,Organized[2];Analytical[3];Collaborative[2];Narrow-Minded[-2];Skeptical[-1],20
+Elora,Flexible[2];Collaborative[2];Logical[3];Dismissive[-2];Micromanaging[-2],2
+Inger,Leadership[4];Tech-Savvy[2];Collaborative[2];Non-communicative[-2];Conflict-Averse[-2],15
+Charity,Innovative[2];Resourceful[2];Problem-Solver[3];Unreliable[-3];Resistant to Change[-2],0
+Kristyn,Strategic[3];Organized[2];Mediator[2];Non-communicative[-2];Easily Distracted[-1],4
+Elisabet,Creative Thinker[2];Innovative[2];Tech-Savvy[2];Passive[-1];Intolerant[-2],19
+Lina,Communicative[2];Resourceful[2];Reliable[3];Unempathetic[-2];Narrow-Minded[-2],9
+Adelaida,Flexible[2];Communicative[2];Resourceful[2];Overly Competitive[-1];Narrow-Minded[-2],3
+Georgeta,Logical[3];Collaborative[2];Supportive[2];Conflict-Averse[-2];Moody[-1],32
+Brigitte,Flexible[2];Logical[3];Problem-Solver[3];Moody[-1];Conflict-Averse[-2],19
+Maddy,Communicative[2];Analytical[3];Organized[2];Pessimistic[-1];Dismissive[-2],22
+Briny,Analytical[3];Detail-Oriented[3];Organized[2];Passive[-1];Indecisive[-2],20
+Saloma,Analytical[3];Supportive[2];Problem-Solver[3];Moody[-1];Skeptical[-1],21
+Anitra,Analytical[3];Leadership[4];Logical[3];Conflict-Averse[-2];Impulsive[-1],39
+Ashil,Collaborative[2];Problem-Solver[3];Reliable[3];Dismissive[-2];Impulsive[-1],20
+Idaline,Supportive[2];Organized[2];Reliable[3];Impulsive[-1];Intolerant[-2],4
+Kitty,Strategic[3];Diplomatic[2];Analytical[3];Skeptical[-1];Overly Competitive[-1],35
+Dode,Time-Manager[3];Resourceful[2];Flexible[2];Overbearing[-1];Rigid[-2],13
+Elisabet,Communicative[2];Mediator[2];Analytical[3];Defensive[-1];Indecisive[-2],27
+Rozina,Detail-Oriented[3];Creative Thinker[2];Supportive[2];Aloof[-1];Micromanaging[-2],18
+Caril,Communicative[2];Diplomatic[2];Empathetic[3];Indecisive[-2];Passive[-1],1
+Teodora,Organized[2];Problem-Solver[3];Flexible[2];Overly Critical[-2];Micromanaging[-2],32
+Giselle,Leadership[4];Detail-Oriented[3];Reliable[3];Aloof[-1];Easily Distracted[-1],25
+Fifine,Mediator[2];Flexible[2];Strategic[3];Aloof[-1];Impulsive[-1],0
+Lishe,Communicative[2];Innovative[2];Organized[2];Procrastinator[-3];Skeptical[-1],18
+Dorry,Collaborative[2];Mediator[2];Organized[2];Impatient[-1];Defensive[-1],33
+Sherry,Logical[3];Innovative[2];Empathetic[3];Stubborn[-1];Unempathetic[-2],27
+Taryn,Detail-Oriented[3];Organized[2];Logical[3];Micromanaging[-2];Aloof[-1],32
+Ora,Creative Thinker[2];Logical[3];Organized[2];Micromanaging[-2];Aloof[-1],37
+Cleo,Collaborative[2];Diplomatic[2];Analytical[3];Stubborn[-1];Pessimistic[-1],24
+Jenda,Organized[2];Innovative[2];Detail-Oriented[3];Overly Competitive[-1];Procrastinator[-3],32
+Desdemona,Supportive[2];Collaborative[2];Communicative[2];Procrastinator[-3];Overly Competitive[-1],11
+Nydia,Collaborative[2];Creative Thinker[2];Diplomatic[2];Resistant to Change[-2];Defensive[-1],16
+Inger,Leadership[4];Communicative[2];Logical[3];Defensive[-1];Aloof[-1],36
+Beatrisa,Collaborative[2];Leadership[4];Diplomatic[2];Perfectionist (to a fault)[-1];Impulsive[-1],9
+Lyn,Mediator[2];Creative Thinker[2];Supportive[2];Procrastinator[-3];Impulsive[-1],23
+Cornela,Analytical[3];Organized[2];Reliable[3];Overbearing[-1];Pessimistic[-1],9
+Vanya,Innovative[2];Creative Thinker[2];Empathetic[3];Passive[-1];Perfectionist (to a fault)[-1],0
+Frieda,Reliable[3];Detail-Oriented[3];Organized[2];Easily Distracted[-1];Intolerant[-2],40
+Felisha,Flexible[2];Collaborative[2];Diplomatic[2];Intolerant[-2];Conflict-Averse[-2],13
+Hortense,Strategic[3];Creative Thinker[2];Communicative[2];Passive[-1];Dismissive[-2],32
+Ardra,Empathetic[3];Innovative[2];Strategic[3];Procrastinator[-3];Impatient[-1],0
+Rosanne,Problem-Solver[3];Mediator[2];Detail-Oriented[3];Overly Critical[-2];Rigid[-2],3
+Gay,Communicative[2];Tech-Savvy[2];Creative Thinker[2];Narrow-Minded[-2];Defensive[-1],17
+Elfreda,Reliable[3];Diplomatic[2];Collaborative[2];Conflict-Averse[-2];Narrow-Minded[-2],8
+Pamella,Strategic[3];Analytical[3];Problem-Solver[3];Impulsive[-1];Easily Distracted[-1],22
+Latrena,Innovative[2];Reliable[3];Communicative[2];Overly Competitive[-1];Unempathetic[-2],25
+Stafani,Innovative[2];Collaborative[2];Empathetic[3];Non-communicative[-2];Rigid[-2],33
+Eugenia,Diplomatic[2];Flexible[2];Detail-Oriented[3];Overly Critical[-2];Stubborn[-1],13
+Roanna,Supportive[2];Diplomatic[2];Detail-Oriented[3];Micromanaging[-2];Non-communicative[-2],14
+Karilynn,Collaborative[2];Detail-Oriented[3];Leadership[4];Unempathetic[-2];Overly Competitive[-1],3
+Gypsy,Resourceful[2];Collaborative[2];Analytical[3];Unempathetic[-2];Impulsive[-1],7
+Lilia,Detail-Oriented[3];Collaborative[2];Diplomatic[2];Impulsive[-1];Narrow-Minded[-2],30
+Zola,Detail-Oriented[3];Strategic[3];Mediator[2];Easily Distracted[-1];Intolerant[-2],8
+Amalle,Reliable[3];Communicative[2];Organized[2];Uncooperative[-2];Stubborn[-1],2
+Estel,Organized[2];Logical[3];Resourceful[2];Overly Critical[-2];Perfectionist (to a fault)[-1],31
+Edythe,Innovative[2];Flexible[2];Creative Thinker[2];Overly Critical[-2];Pessimistic[-1],39
+Salome,Resourceful[2];Innovative[2];Reliable[3];Pessimistic[-1];Intolerant[-2],18
+Barb,Strategic[3];Supportive[2];Leadership[4];Defensive[-1];Moody[-1],19
+Hatti,Detail-Oriented[3];Tech-Savvy[2];Supportive[2];Aloof[-1];Stubborn[-1],38
+Brittney,Collaborative[2];Logical[3];Supportive[2];Resistant to Change[-2];Passive[-1],12
+Brittne,Communicative[2];Resourceful[2];Leadership[4];Non-communicative[-2];Perfectionist (to a fault)[-1],31
+Essa,Resourceful[2];Creative Thinker[2];Communicative[2];Pessimistic[-1];Dismissive[-2],2
+Janina,Tech-Savvy[2];Leadership[4];Organized[2];Resistant to Change[-2];Narrow-Minded[-2],29
+Oralla,Strategic[3];Time-Manager[3];Detail-Oriented[3];Stubborn[-1];Easily Distracted[-1],34
+Elenore,Detail-Oriented[3];Creative Thinker[2];Flexible[2];Rigid[-2];Defensive[-1],34
+Happy,Supportive[2];Analytical[3];Tech-Savvy[2];Unempathetic[-2];Overbearing[-1],34
+Miran,Resourceful[2];Mediator[2];Creative Thinker[2];Rigid[-2];Moody[-1],4
+Jamie,Strategic[3];Collaborative[2];Diplomatic[2];Impulsive[-1];Aloof[-1],23
+Sharon,Collaborative[2];Reliable[3];Innovative[2];Aloof[-1];Unreliable[-3],16
+Arleen,Empathetic[3];Innovative[2];Organized[2];Impatient[-1];Aloof[-1],15
+Rubia,Creative Thinker[2];Flexible[2];Resourceful[2];Non-communicative[-2];Indecisive[-2],7
+Alfi,Empathetic[3];Logical[3];Flexible[2];Unempathetic[-2];Overbearing[-1],5
+Thomasine,Empathetic[3];Flexible[2];Logical[3];Uncooperative[-2];Passive[-1],25
+Desdemona,Detail-Oriented[3];Flexible[2];Innovative[2];Impulsive[-1];Non-communicative[-2],3
+Lorianne,Leadership[4];Resourceful[2];Strategic[3];Rigid[-2];Overly Competitive[-1],9
+Leonie,Reliable[3];Leadership[4];Tech-Savvy[2];Pessimistic[-1];Procrastinator[-3],23
+Donnamarie,Organized[2];Creative Thinker[2];Supportive[2];Resistant to Change[-2];Passive[-1],24
+Roxine,Leadership[4];Communicative[2];Strategic[3];Impulsive[-1];Moody[-1],9
+Enriqueta,Collaborative[2];Tech-Savvy[2];Innovative[2];Overly Critical[-2];Easily Distracted[-1],7
+Dulcea,Tech-Savvy[2];Reliable[3];Logical[3];Easily Distracted[-1];Unempathetic[-2],15
+Barbee,Empathetic[3];Flexible[2];Problem-Solver[3];Non-communicative[-2];Overly Competitive[-1],35
+Berry,Organized[2];Detail-Oriented[3];Reliable[3];Overly Competitive[-1];Intolerant[-2],36
+Delcine,Logical[3];Time-Manager[3];Detail-Oriented[3];Resistant to Change[-2];Procrastinator[-3],26
+Mommy,Innovative[2];Resourceful[2];Time-Manager[3];Skeptical[-1];Dismissive[-2],4
+Carmelita,Strategic[3];Problem-Solver[3];Time-Manager[3];Intolerant[-2];Impulsive[-1],31
+Twyla,Resourceful[2];Organized[2];Strategic[3];Overly Competitive[-1];Conflict-Averse[-2],30
+Brigitta,Logical[3];Creative Thinker[2];Resourceful[2];Stubborn[-1];Defensive[-1],22
+Goldina,Innovative[2];Logical[3];Resourceful[2];Conflict-Averse[-2];Impatient[-1],22
+Berry,Creative Thinker[2];Collaborative[2];Diplomatic[2];Uncooperative[-2];Aloof[-1],29
+Alexine,Leadership[4];Innovative[2];Tech-Savvy[2];Stubborn[-1];Defensive[-1],35
+Alaine,Strategic[3];Analytical[3];Innovative[2];Procrastinator[-3];Unreliable[-3],10
+Sophie,Creative Thinker[2];Empathetic[3];Organized[2];Indecisive[-2];Impulsive[-1],4
+Jacquenetta,Logical[3];Leadership[4];Empathetic[3];Perfectionist (to a fault)[-1];Easily Distracted[-1],13
+Filia,Analytical[3];Resourceful[2];Strategic[3];Procrastinator[-3];Unreliable[-3],35
+Anthia,Analytical[3];Flexible[2];Resourceful[2];Conflict-Averse[-2];Uncooperative[-2],22
+Fred,Reliable[3];Innovative[2];Strategic[3];Impulsive[-1];Moody[-1],8
+Karalynn,Flexible[2];Reliable[3];Logical[3];Intolerant[-2];Overbearing[-1],4
+Gusty,Strategic[3];Empathetic[3];Reliable[3];Indecisive[-2];Conflict-Averse[-2],29
+Cal,Leadership[4];Empathetic[3];Analytical[3];Resistant to Change[-2];Procrastinator[-3],34
+Jeanine,Mediator[2];Creative Thinker[2];Strategic[3];Narrow-Minded[-2];Pessimistic[-1],28
+Pamela,Empathetic[3];Strategic[3];Detail-Oriented[3];Moody[-1];Impulsive[-1],27
+Pierette,Empathetic[3];Collaborative[2];Detail-Oriented[3];Micromanaging[-2];Resistant to Change[-2],28
+Galina,Innovative[2];Empathetic[3];Time-Manager[3];Moody[-1];Passive[-1],7
+Junina,Time-Manager[3];Supportive[2];Detail-Oriented[3];Skeptical[-1];Conflict-Averse[-2],11
+Sibyl,Collaborative[2];Detail-Oriented[3];Supportive[2];Stubborn[-1];Perfectionist (to a fault)[-1],23
+Venus,Detail-Oriented[3];Leadership[4];Logical[3];Overly Critical[-2];Overbearing[-1],40
+Willette,Logical[3];Collaborative[2];Problem-Solver[3];Unempathetic[-2];Rigid[-2],37
+Shana,Leadership[4];Problem-Solver[3];Collaborative[2];Impulsive[-1];Perfectionist (to a fault)[-1],38
+Sibyl,Supportive[2];Diplomatic[2];Collaborative[2];Aloof[-1];Moody[-1],37
+Pollyanna,Empathetic[3];Time-Manager[3];Logical[3];Easily Distracted[-1];Rigid[-2],1
+Honor,Problem-Solver[3];Leadership[4];Resourceful[2];Overly Competitive[-1];Easily Distracted[-1],25
+Bridget,Tech-Savvy[2];Leadership[4];Supportive[2];Rigid[-2];Unreliable[-3],30
+Cathyleen,Innovative[2];Logical[3];Flexible[2];Overbearing[-1];Easily Distracted[-1],22
+Bella,Creative Thinker[2];Resourceful[2];Tech-Savvy[2];Dismissive[-2];Stubborn[-1],5
+Denna,Time-Manager[3];Empathetic[3];Reliable[3];Resistant to Change[-2];Pessimistic[-1],17
+Kayla,Diplomatic[2];Logical[3];Reliable[3];Pessimistic[-1];Overbearing[-1],34
+Carroll,Tech-Savvy[2];Resourceful[2];Logical[3];Moody[-1];Indecisive[-2],19
+Elita,Detail-Oriented[3];Resourceful[2];Diplomatic[2];Non-communicative[-2];Pessimistic[-1],32
+Gerry,Leadership[4];Problem-Solver[3];Reliable[3];Skeptical[-1];Rigid[-2],24
+Roshelle,Leadership[4];Reliable[3];Mediator[2];Aloof[-1];Overbearing[-1],4
+Codi,Logical[3];Resourceful[2];Flexible[2];Resistant to Change[-2];Dismissive[-2],30
+Chandra,Time-Manager[3];Collaborative[2];Innovative[2];Aloof[-1];Defensive[-1],19
+Dru,Strategic[3];Mediator[2];Communicative[2];Conflict-Averse[-2];Impatient[-1],16
+Harriot,Empathetic[3];Reliable[3];Flexible[2];Overbearing[-1];Rigid[-2],33
+Kimmy,Reliable[3];Detail-Oriented[3];Empathetic[3];Defensive[-1];Impulsive[-1],36
+Jayne,Supportive[2];Communicative[2];Time-Manager[3];Impatient[-1];Resistant to Change[-2],21
+Sarette,Mediator[2];Flexible[2];Empathetic[3];Moody[-1];Narrow-Minded[-2],18
+Rianon,Logical[3];Innovative[2];Tech-Savvy[2];Skeptical[-1];Overly Critical[-2],31
+Dru,Strategic[3];Detail-Oriented[3];Tech-Savvy[2];Stubborn[-1];Micromanaging[-2],10
+Cally,Organized[2];Time-Manager[3];Diplomatic[2];Overly Competitive[-1];Overbearing[-1],23
+Lotty,Logical[3];Analytical[3];Reliable[3];Impulsive[-1];Overly Critical[-2],12
+Linet,Flexible[2];Leadership[4];Analytical[3];Indecisive[-2];Skeptical[-1],12
+Charmane,Resourceful[2];Mediator[2];Time-Manager[3];Resistant to Change[-2];Skeptical[-1],27
+Neala,Time-Manager[3];Analytical[3];Collaborative[2];Micromanaging[-2];Stubborn[-1],19
+Mariquilla,Diplomatic[2];Logical[3];Leadership[4];Moody[-1];Skeptical[-1],34
+Alexia,Problem-Solver[3];Mediator[2];Collaborative[2];Overly Critical[-2];Skeptical[-1],25
+Ruthe,Time-Manager[3];Problem-Solver[3];Resourceful[2];Unempathetic[-2];Moody[-1],39
+Ealasaid,Mediator[2];Reliable[3];Logical[3];Overly Competitive[-1];Intolerant[-2],5
+Brier,Diplomatic[2];Empathetic[3];Strategic[3];Uncooperative[-2];Rigid[-2],4
+Janella,Analytical[3];Communicative[2];Reliable[3];Narrow-Minded[-2];Skeptical[-1],8
+Robbie,Strategic[3];Leadership[4];Creative Thinker[2];Defensive[-1];Micromanaging[-2],36
+Hephzibah,Organized[2];Problem-Solver[3];Resourceful[2];Procrastinator[-3];Skeptical[-1],27
+Kori,Strategic[3];Leadership[4];Resourceful[2];Perfectionist (to a fault)[-1];Aloof[-1],4
+Avis,Logical[3];Time-Manager[3];Innovative[2];Aloof[-1];Overly Critical[-2],26
+Lorena,Empathetic[3];Communicative[2];Tech-Savvy[2];Skeptical[-1];Uncooperative[-2],18
+Eloisa,Reliable[3];Detail-Oriented[3];Leadership[4];Non-communicative[-2];Stubborn[-1],13
+Adina,Mediator[2];Detail-Oriented[3];Reliable[3];Conflict-Averse[-2];Passive[-1],14
+Nanine,Time-Manager[3];Logical[3];Collaborative[2];Non-communicative[-2];Stubborn[-1],24
+Justinn,Empathetic[3];Analytical[3];Creative Thinker[2];Rigid[-2];Indecisive[-2],21
+Selma,Innovative[2];Detail-Oriented[3];Time-Manager[3];Non-communicative[-2];Unreliable[-3],40
+Kimmy,Strategic[3];Time-Manager[3];Flexible[2];Uncooperative[-2];Unreliable[-3],22
+Brita,Resourceful[2];Analytical[3];Creative Thinker[2];Unreliable[-3];Resistant to Change[-2],30
+Stefanie,Innovative[2];Tech-Savvy[2];Empathetic[3];Easily Distracted[-1];Dismissive[-2],22
+Yoshiko,Communicative[2];Leadership[4];Problem-Solver[3];Impulsive[-1];Overbearing[-1],29
+Katharyn,Problem-Solver[3];Creative Thinker[2];Flexible[2];Defensive[-1];Stubborn[-1],1
+Nance,Empathetic[3];Analytical[3];Mediator[2];Indecisive[-2];Aloof[-1],37
+Jeni,Supportive[2];Diplomatic[2];Logical[3];Non-communicative[-2];Overly Competitive[-1],38
+Lisbeth,Diplomatic[2];Empathetic[3];Reliable[3];Overbearing[-1];Overly Competitive[-1],28
+Elizabeth,Collaborative[2];Creative Thinker[2];Tech-Savvy[2];Rigid[-2];Procrastinator[-3],24
+Jerrilyn,Strategic[3];Problem-Solver[3];Leadership[4];Impulsive[-1];Defensive[-1],32
+Shanon,Time-Manager[3];Organized[2];Reliable[3];Overly Critical[-2];Easily Distracted[-1],16
+Alyda,Mediator[2];Organized[2];Diplomatic[2];Unempathetic[-2];Moody[-1],35
+Alida,Diplomatic[2];Problem-Solver[3];Time-Manager[3];Impulsive[-1];Overly Competitive[-1],7
+Francene,Problem-Solver[3];Analytical[3];Logical[3];Intolerant[-2];Perfectionist (to a fault)[-1],16
+Miguela,Supportive[2];Organized[2];Flexible[2];Impulsive[-1];Rigid[-2],12
+Lexi,Supportive[2];Diplomatic[2];Analytical[3];Micromanaging[-2];Overly Critical[-2],16
+Ealasaid,Creative Thinker[2];Leadership[4];Supportive[2];Passive[-1];Procrastinator[-3],28
+Ebonee,Tech-Savvy[2];Reliable[3];Diplomatic[2];Uncooperative[-2];Dismissive[-2],0
+Adrian,Organized[2];Analytical[3];Collaborative[2];Intolerant[-2];Impulsive[-1],39
+Joan,Flexible[2];Resourceful[2];Creative Thinker[2];Moody[-1];Defensive[-1],38
+Livy,Resourceful[2];Diplomatic[2];Tech-Savvy[2];Impulsive[-1];Aloof[-1],14
+Nicolle,Problem-Solver[3];Resourceful[2];Time-Manager[3];Unreliable[-3];Skeptical[-1],33
+Eugine,Leadership[4];Problem-Solver[3];Empathetic[3];Passive[-1];Narrow-Minded[-2],8
+Loralie,Reliable[3];Strategic[3];Diplomatic[2];Indecisive[-2];Uncooperative[-2],22
+Carlotta,Creative Thinker[2];Analytical[3];Time-Manager[3];Moody[-1];Passive[-1],21
+Damaris,Detail-Oriented[3];Tech-Savvy[2];Leadership[4];Non-communicative[-2];Overly Competitive[-1],1
+Fifi,Collaborative[2];Mediator[2];Analytical[3];Indecisive[-2];Aloof[-1],6
+Etta,Collaborative[2];Tech-Savvy[2];Logical[3];Aloof[-1];Easily Distracted[-1],26
+Jessy,Empathetic[3];Logical[3];Strategic[3];Moody[-1];Uncooperative[-2],24
+Lusa,Innovative[2];Reliable[3];Tech-Savvy[2];Impatient[-1];Rigid[-2],16
+Perla,Communicative[2];Analytical[3];Resourceful[2];Procrastinator[-3];Rigid[-2],22
+Lonnie,Problem-Solver[3];Organized[2];Innovative[2];Dismissive[-2];Defensive[-1],25
+Alvira,Supportive[2];Innovative[2];Creative Thinker[2];Overly Competitive[-1];Passive[-1],7
+Jen,Strategic[3];Resourceful[2];Empathetic[3];Overbearing[-1];Intolerant[-2],26
+Billye,Creative Thinker[2];Collaborative[2];Leadership[4];Indecisive[-2];Rigid[-2],25
+Leontine,Empathetic[3];Innovative[2];Organized[2];Impatient[-1];Conflict-Averse[-2],20
+Margarethe,Detail-Oriented[3];Innovative[2];Reliable[3];Uncooperative[-2];Overly Critical[-2],35
+Lulita,Organized[2];Strategic[3];Tech-Savvy[2];Dismissive[-2];Moody[-1],20
+Clemence,Time-Manager[3];Empathetic[3];Leadership[4];Passive[-1];Moody[-1],11
+Helene,Detail-Oriented[3];Analytical[3];Flexible[2];Narrow-Minded[-2];Overly Competitive[-1],12
+Rosemary,Empathetic[3];Reliable[3];Detail-Oriented[3];Overly Competitive[-1];Unempathetic[-2],23
+Ronnica,Resourceful[2];Logical[3];Diplomatic[2];Defensive[-1];Uncooperative[-2],7
+Crin,Mediator[2];Creative Thinker[2];Strategic[3];Indecisive[-2];Overbearing[-1],5
+Florina,Creative Thinker[2];Innovative[2];Reliable[3];Intolerant[-2];Indecisive[-2],8
+Nanni,Analytical[3];Flexible[2];Tech-Savvy[2];Resistant to Change[-2];Rigid[-2],25
+Jeni,Analytical[3];Collaborative[2];Resourceful[2];Defensive[-1];Perfectionist (to a fault)[-1],26
+Cathy,Empathetic[3];Detail-Oriented[3];Reliable[3];Non-communicative[-2];Skeptical[-1],21
+Valentine,Organized[2];Problem-Solver[3];Collaborative[2];Non-communicative[-2];Aloof[-1],18
+Liva,Creative Thinker[2];Communicative[2];Reliable[3];Aloof[-1];Indecisive[-2],33
+Georgie,Collaborative[2];Detail-Oriented[3];Tech-Savvy[2];Non-communicative[-2];Uncooperative[-2],15
+Yvette,Reliable[3];Mediator[2];Logical[3];Stubborn[-1];Conflict-Averse[-2],1
+Trudy,Strategic[3];Communicative[2];Mediator[2];Intolerant[-2];Resistant to Change[-2],18
+Brandice,Diplomatic[2];Communicative[2];Detail-Oriented[3];Perfectionist (to a fault)[-1];Conflict-Averse[-2],11
+Flor,Detail-Oriented[3];Analytical[3];Mediator[2];Passive[-1];Moody[-1],39
+Isa,Analytical[3];Logical[3];Time-Manager[3];Overly Critical[-2];Defensive[-1],28
+Brunhilda,Detail-Oriented[3];Time-Manager[3];Reliable[3];Procrastinator[-3];Easily Distracted[-1],30
+Jennee,Detail-Oriented[3];Tech-Savvy[2];Innovative[2];Micromanaging[-2];Overbearing[-1],1
+Carol-Jean,Creative Thinker[2];Problem-Solver[3];Tech-Savvy[2];Uncooperative[-2];Impulsive[-1],34
+Pippy,Collaborative[2];Organized[2];Communicative[2];Overly Competitive[-1];Rigid[-2],0
+Lina,Mediator[2];Detail-Oriented[3];Time-Manager[3];Uncooperative[-2];Stubborn[-1],21
+Lyndy,Collaborative[2];Resourceful[2];Problem-Solver[3];Non-communicative[-2];Stubborn[-1],33
+Ardelle,Organized[2];Empathetic[3];Flexible[2];Easily Distracted[-1];Stubborn[-1],18
+Susana,Creative Thinker[2];Innovative[2];Flexible[2];Conflict-Averse[-2];Unreliable[-3],36
+Pippa,Resourceful[2];Reliable[3];Communicative[2];Defensive[-1];Procrastinator[-3],5
+Roda,Resourceful[2];Time-Manager[3];Flexible[2];Dismissive[-2];Pessimistic[-1],14
+Henrieta,Creative Thinker[2];Flexible[2];Mediator[2];Pessimistic[-1];Easily Distracted[-1],38
+Rosita,Analytical[3];Empathetic[3];Supportive[2];Unempathetic[-2];Rigid[-2],11
+Carroll,Diplomatic[2];Mediator[2];Resourceful[2];Unreliable[-3];Skeptical[-1],32
+Bernice,Communicative[2];Resourceful[2];Supportive[2];Overly Competitive[-1];Stubborn[-1],11
+Annie,Reliable[3];Mediator[2];Time-Manager[3];Impulsive[-1];Perfectionist (to a fault)[-1],34
+Alta,Detail-Oriented[3];Diplomatic[2];Logical[3];Unempathetic[-2];Aloof[-1],23
+Aurel,Resourceful[2];Mediator[2];Flexible[2];Overly Critical[-2];Pessimistic[-1],7
+Felicdad,Diplomatic[2];Mediator[2];Resourceful[2];Unempathetic[-2];Aloof[-1],3
+Sal,Reliable[3];Diplomatic[2];Logical[3];Overly Competitive[-1];Skeptical[-1],29
+Nara,Empathetic[3];Flexible[2];Mediator[2];Narrow-Minded[-2];Overly Critical[-2],10
+Cassaundra,Diplomatic[2];Supportive[2];Problem-Solver[3];Conflict-Averse[-2];Intolerant[-2],10
+Johnath,Logical[3];Time-Manager[3];Detail-Oriented[3];Perfectionist (to a fault)[-1];Defensive[-1],21
+Giralda,Problem-Solver[3];Supportive[2];Reliable[3];Moody[-1];Impatient[-1],24
+Christa,Empathetic[3];Communicative[2];Diplomatic[2];Overly Competitive[-1];Dismissive[-2],26
+Eleni,Empathetic[3];Diplomatic[2];Innovative[2];Resistant to Change[-2];Overly Critical[-2],2
+Virgie,Creative Thinker[2];Organized[2];Communicative[2];Impulsive[-1];Dismissive[-2],6
+Geraldine,Reliable[3];Resourceful[2];Communicative[2];Rigid[-2];Dismissive[-2],39
+Mallorie,Strategic[3];Logical[3];Organized[2];Overly Competitive[-1];Pessimistic[-1],40
+Alvina,Strategic[3];Organized[2];Empathetic[3];Indecisive[-2];Intolerant[-2],25
+Merle,Flexible[2];Logical[3];Empathetic[3];Moody[-1];Passive[-1],19
+Dania,Communicative[2];Strategic[3];Flexible[2];Procrastinator[-3];Overbearing[-1],31
+Pooh,Tech-Savvy[2];Diplomatic[2];Collaborative[2];Defensive[-1];Overly Competitive[-1],32
+Melany,Communicative[2];Detail-Oriented[3];Empathetic[3];Procrastinator[-3];Uncooperative[-2],14
+Zia,Empathetic[3];Problem-Solver[3];Reliable[3];Perfectionist (to a fault)[-1];Narrow-Minded[-2],28
+Adiana,Mediator[2];Communicative[2];Creative Thinker[2];Easily Distracted[-1];Indecisive[-2],1
+Roseann,Problem-Solver[3];Diplomatic[2];Empathetic[3];Easily Distracted[-1];Overly Critical[-2],33
+Ellene,Diplomatic[2];Collaborative[2];Supportive[2];Defensive[-1];Resistant to Change[-2],19
+Paulina,Analytical[3];Innovative[2];Logical[3];Narrow-Minded[-2];Skeptical[-1],5
+Faith,Organized[2];Empathetic[3];Logical[3];Moody[-1];Defensive[-1],40
+Terrijo,Logical[3];Reliable[3];Leadership[4];Impulsive[-1];Overly Competitive[-1],10
+Shelley,Problem-Solver[3];Diplomatic[2];Organized[2];Indecisive[-2];Non-communicative[-2],28
+Mickie,Strategic[3];Analytical[3];Organized[2];Perfectionist (to a fault)[-1];Impulsive[-1],30
+Ada,Resourceful[2];Flexible[2];Problem-Solver[3];Non-communicative[-2];Aloof[-1],37
+Delphinia,Leadership[4];Flexible[2];Reliable[3];Procrastinator[-3];Stubborn[-1],11
+Charlean,Strategic[3];Analytical[3];Collaborative[2];Non-communicative[-2];Impatient[-1],17
+Mirabel,Tech-Savvy[2];Collaborative[2];Innovative[2];Stubborn[-1];Easily Distracted[-1],34
+Fredra,Diplomatic[2];Analytical[3];Tech-Savvy[2];Moody[-1];Non-communicative[-2],35
+Merci,Innovative[2];Organized[2];Detail-Oriented[3];Perfectionist (to a fault)[-1];Defensive[-1],5
+Grethel,Creative Thinker[2];Organized[2];Problem-Solver[3];Impulsive[-1];Conflict-Averse[-2],22
+Naomi,Reliable[3];Innovative[2];Time-Manager[3];Rigid[-2];Passive[-1],25
+Arlyne,Diplomatic[2];Innovative[2];Strategic[3];Easily Distracted[-1];Dismissive[-2],36
+Cathryn,Diplomatic[2];Leadership[4];Reliable[3];Impulsive[-1];Uncooperative[-2],0
+Stacia,Logical[3];Diplomatic[2];Empathetic[3];Rigid[-2];Impulsive[-1],32
+Lillis,Problem-Solver[3];Empathetic[3];Detail-Oriented[3];Overly Competitive[-1];Impatient[-1],5
+Abagael,Organized[2];Collaborative[2];Supportive[2];Moody[-1];Impulsive[-1],34
+Minny,Diplomatic[2];Organized[2];Empathetic[3];Impulsive[-1];Unempathetic[-2],38
+Marya,Communicative[2];Resourceful[2];Empathetic[3];Non-communicative[-2];Perfectionist (to a fault)[-1],13
+Sheri,Detail-Oriented[3];Communicative[2];Diplomatic[2];Skeptical[-1];Unempathetic[-2],3
+Alfy,Resourceful[2];Reliable[3];Leadership[4];Overbearing[-1];Narrow-Minded[-2],10
+Vevay,Strategic[3];Problem-Solver[3];Innovative[2];Dismissive[-2];Unempathetic[-2],40
+Harrie,Analytical[3];Resourceful[2];Diplomatic[2];Impatient[-1];Overly Critical[-2],28
+Dolly,Mediator[2];Detail-Oriented[3];Reliable[3];Resistant to Change[-2];Overly Critical[-2],3
+Karalee,Mediator[2];Tech-Savvy[2];Communicative[2];Skeptical[-1];Overbearing[-1],21
+Helen-Elizabeth,Tech-Savvy[2];Strategic[3];Innovative[2];Easily Distracted[-1];Passive[-1],26
+Electra,Resourceful[2];Analytical[3];Collaborative[2];Conflict-Averse[-2];Moody[-1],27
+Aigneis,Strategic[3];Logical[3];Diplomatic[2];Unempathetic[-2];Moody[-1],24
+Annmarie,Collaborative[2];Time-Manager[3];Supportive[2];Narrow-Minded[-2];Overbearing[-1],31
+Francyne,Tech-Savvy[2];Mediator[2];Innovative[2];Resistant to Change[-2];Defensive[-1],27
+Abbi,Communicative[2];Flexible[2];Strategic[3];Perfectionist (to a fault)[-1];Resistant to Change[-2],7
+Nataline,Empathetic[3];Creative Thinker[2];Innovative[2];Overbearing[-1];Intolerant[-2],34
+Lulu,Logical[3];Communicative[2];Mediator[2];Dismissive[-2];Rigid[-2],18
+Randee,Resourceful[2];Innovative[2];Organized[2];Indecisive[-2];Impulsive[-1],19
+Jaclyn,Resourceful[2];Collaborative[2];Analytical[3];Uncooperative[-2];Unreliable[-3],23
+Maddi,Time-Manager[3];Organized[2];Reliable[3];Procrastinator[-3];Indecisive[-2],36
+Zabrina,Logical[3];Analytical[3];Empathetic[3];Rigid[-2];Non-communicative[-2],4
+Charleen,Resourceful[2];Problem-Solver[3];Empathetic[3];Passive[-1];Indecisive[-2],23
+Christean,Strategic[3];Empathetic[3];Tech-Savvy[2];Procrastinator[-3];Pessimistic[-1],8
+Juliet,Logical[3];Collaborative[2];Supportive[2];Unempathetic[-2];Resistant to Change[-2],21
+Cindie,Problem-Solver[3];Creative Thinker[2];Collaborative[2];Pessimistic[-1];Non-communicative[-2],30
+Farica,Time-Manager[3];Innovative[2];Mediator[2];Rigid[-2];Unempathetic[-2],6
+Wynny,Logical[3];Empathetic[3];Diplomatic[2];Pessimistic[-1];Uncooperative[-2],6
+Jayme,Empathetic[3];Mediator[2];Analytical[3];Overbearing[-1];Impulsive[-1],25
+Michaelina,Time-Manager[3];Flexible[2];Diplomatic[2];Overbearing[-1];Impulsive[-1],4
+Linda,Mediator[2];Empathetic[3];Resourceful[2];Perfectionist (to a fault)[-1];Conflict-Averse[-2],33
+Melly,Time-Manager[3];Analytical[3];Problem-Solver[3];Stubborn[-1];Conflict-Averse[-2],6
+Ulrika,Supportive[2];Mediator[2];Detail-Oriented[3];Non-communicative[-2];Rigid[-2],21
+Lory,Flexible[2];Time-Manager[3];Innovative[2];Micromanaging[-2];Unempathetic[-2],37
+Catie,Strategic[3];Resourceful[2];Reliable[3];Indecisive[-2];Micromanaging[-2],32
+Arabele,Time-Manager[3];Leadership[4];Supportive[2];Uncooperative[-2];Indecisive[-2],0
+Nonnah,Detail-Oriented[3];Communicative[2];Resourceful[2];Moody[-1];Overly Competitive[-1],5
+Estella,Creative Thinker[2];Flexible[2];Problem-Solver[3];Stubborn[-1];Rigid[-2],5
+Jania,Communicative[2];Leadership[4];Analytical[3];Micromanaging[-2];Easily Distracted[-1],12
+Beret,Supportive[2];Tech-Savvy[2];Flexible[2];Intolerant[-2];Procrastinator[-3],4
+Ivonne,Time-Manager[3];Empathetic[3];Problem-Solver[3];Unreliable[-3];Uncooperative[-2],8
+Candida,Empathetic[3];Creative Thinker[2];Leadership[4];Passive[-1];Rigid[-2],14
+Myrtia,Problem-Solver[3];Reliable[3];Flexible[2];Defensive[-1];Easily Distracted[-1],8
+Brigid,Mediator[2];Creative Thinker[2];Collaborative[2];Dismissive[-2];Conflict-Averse[-2],37
+Frannie,Resourceful[2];Organized[2];Tech-Savvy[2];Indecisive[-2];Narrow-Minded[-2],0
+Leann,Innovative[2];Diplomatic[2];Strategic[3];Unempathetic[-2];Impatient[-1],12
+Cristi,Leadership[4];Strategic[3];Analytical[3];Resistant to Change[-2];Overly Critical[-2],2
+Lorette,Creative Thinker[2];Diplomatic[2];Tech-Savvy[2];Overbearing[-1];Pessimistic[-1],25
+Marlene,Problem-Solver[3];Strategic[3];Mediator[2];Aloof[-1];Micromanaging[-2],35
+Deni,Logical[3];Time-Manager[3];Strategic[3];Impatient[-1];Micromanaging[-2],36
+Dorise,Time-Manager[3];Organized[2];Tech-Savvy[2];Overly Critical[-2];Micromanaging[-2],20
+Chrysler,Innovative[2];Problem-Solver[3];Reliable[3];Passive[-1];Rigid[-2],17
+Jeanne,Diplomatic[2];Resourceful[2];Logical[3];Overly Competitive[-1];Skeptical[-1],10
+Garnet,Leadership[4];Problem-Solver[3];Supportive[2];Skeptical[-1];Pessimistic[-1],25
+Bird,Analytical[3];Mediator[2];Strategic[3];Rigid[-2];Impatient[-1],7
+Dacy,Logical[3];Tech-Savvy[2];Problem-Solver[3];Passive[-1];Overbearing[-1],32
+Talyah,Logical[3];Mediator[2];Problem-Solver[3];Uncooperative[-2];Stubborn[-1],19
+Mandi,Empathetic[3];Organized[2];Collaborative[2];Unempathetic[-2];Impulsive[-1],40
+Yoshi,Problem-Solver[3];Flexible[2];Strategic[3];Unreliable[-3];Easily Distracted[-1],22
+Zitella,Innovative[2];Tech-Savvy[2];Resourceful[2];Resistant to Change[-2];Pessimistic[-1],29
+Brittan,Supportive[2];Mediator[2];Diplomatic[2];Pessimistic[-1];Overly Critical[-2],5
+Kyle,Empathetic[3];Creative Thinker[2];Logical[3];Moody[-1];Skeptical[-1],26
+Kassia,Analytical[3];Supportive[2];Innovative[2];Rigid[-2];Pessimistic[-1],28
+Camala,Empathetic[3];Reliable[3];Problem-Solver[3];Aloof[-1];Dismissive[-2],15
+Nana,Leadership[4];Reliable[3];Mediator[2];Easily Distracted[-1];Overly Critical[-2],20
+Kimberlee,Innovative[2];Leadership[4];Reliable[3];Unreliable[-3];Passive[-1],32
+Colleen,Logical[3];Detail-Oriented[3];Strategic[3];Narrow-Minded[-2];Intolerant[-2],31
+Madelon,Organized[2];Tech-Savvy[2];Supportive[2];Stubborn[-1];Rigid[-2],38
+Mildrid,Empathetic[3];Collaborative[2];Supportive[2];Conflict-Averse[-2];Moody[-1],25
+Aliza,Time-Manager[3];Reliable[3];Logical[3];Stubborn[-1];Defensive[-1],35
+Rose,Creative Thinker[2];Collaborative[2];Resourceful[2];Narrow-Minded[-2];Moody[-1],31
+Teddi,Collaborative[2];Logical[3];Mediator[2];Dismissive[-2];Uncooperative[-2],39
+Rae,Resourceful[2];Communicative[2];Flexible[2];Conflict-Averse[-2];Rigid[-2],37
+Koral,Tech-Savvy[2];Logical[3];Empathetic[3];Overly Competitive[-1];Unreliable[-3],35
+Leoine,Resourceful[2];Time-Manager[3];Analytical[3];Overbearing[-1];Easily Distracted[-1],13
+Tracy,Strategic[3];Flexible[2];Creative Thinker[2];Impatient[-1];Micromanaging[-2],9
+Kordula,Innovative[2];Problem-Solver[3];Detail-Oriented[3];Uncooperative[-2];Perfectionist (to a fault)[-1],13
+Lexy,Analytical[3];Logical[3];Detail-Oriented[3];Indecisive[-2];Impatient[-1],14
+Jackie,Strategic[3];Supportive[2];Creative Thinker[2];Overly Competitive[-1];Uncooperative[-2],38
+Georgina,Organized[2];Problem-Solver[3];Analytical[3];Moody[-1];Overly Critical[-2],37
+Erika,Resourceful[2];Reliable[3];Collaborative[2];Passive[-1];Rigid[-2],31
+Lorie,Collaborative[2];Flexible[2];Analytical[3];Procrastinator[-3];Pessimistic[-1],20
+Rebecka,Innovative[2];Supportive[2];Resourceful[2];Conflict-Averse[-2];Procrastinator[-3],15
+Tandie,Diplomatic[2];Detail-Oriented[3];Creative Thinker[2];Uncooperative[-2];Procrastinator[-3],17
+Flora,Analytical[3];Reliable[3];Empathetic[3];Intolerant[-2];Impatient[-1],17
+Amabel,Tech-Savvy[2];Mediator[2];Reliable[3];Overly Competitive[-1];Skeptical[-1],5
+Fanni,Leadership[4];Diplomatic[2];Flexible[2];Non-communicative[-2];Moody[-1],38
+Birgitta,Supportive[2];Creative Thinker[2];Tech-Savvy[2];Procrastinator[-3];Dismissive[-2],6
+Sissy,Time-Manager[3];Collaborative[2];Reliable[3];Moody[-1];Impatient[-1],39
+Joela,Supportive[2];Tech-Savvy[2];Leadership[4];Perfectionist (to a fault)[-1];Indecisive[-2],7
+Theresina,Diplomatic[2];Leadership[4];Time-Manager[3];Overbearing[-1];Perfectionist (to a fault)[-1],27
+Leandra,Reliable[3];Creative Thinker[2];Diplomatic[2];Perfectionist (to a fault)[-1];Indecisive[-2],12
+Shaylah,Logical[3];Detail-Oriented[3];Reliable[3];Stubborn[-1];Perfectionist (to a fault)[-1],16
+Loralee,Detail-Oriented[3];Reliable[3];Tech-Savvy[2];Overly Competitive[-1];Overly Critical[-2],10
+Katy,Strategic[3];Creative Thinker[2];Tech-Savvy[2];Easily Distracted[-1];Procrastinator[-3],6
+Darline,Logical[3];Resourceful[2];Innovative[2];Perfectionist (to a fault)[-1];Rigid[-2],11
+Davida,Detail-Oriented[3];Reliable[3];Tech-Savvy[2];Procrastinator[-3];Resistant to Change[-2],11
+Addie,Collaborative[2];Tech-Savvy[2];Detail-Oriented[3];Procrastinator[-3];Overly Competitive[-1],27
+Sandye,Flexible[2];Detail-Oriented[3];Problem-Solver[3];Narrow-Minded[-2];Stubborn[-1],1
+Danella,Strategic[3];Innovative[2];Supportive[2];Impulsive[-1];Aloof[-1],4
+Brigid,Detail-Oriented[3];Diplomatic[2];Communicative[2];Indecisive[-2];Aloof[-1],24
+Jackie,Leadership[4];Supportive[2];Detail-Oriented[3];Unempathetic[-2];Overbearing[-1],36
+Olenka,Flexible[2];Analytical[3];Detail-Oriented[3];Resistant to Change[-2];Overbearing[-1],4
+Star,Analytical[3];Supportive[2];Communicative[2];Moody[-1];Pessimistic[-1],36
+Hortense,Problem-Solver[3];Detail-Oriented[3];Mediator[2];Moody[-1];Impatient[-1],18
+Gillie,Analytical[3];Supportive[2];Strategic[3];Rigid[-2];Easily Distracted[-1],5
+Kim,Time-Manager[3];Reliable[3];Resourceful[2];Rigid[-2];Passive[-1],26
+Matilde,Supportive[2];Detail-Oriented[3];Diplomatic[2];Resistant to Change[-2];Micromanaging[-2],5
+Amelia,Flexible[2];Supportive[2];Mediator[2];Aloof[-1];Overbearing[-1],11
+Garnet,Leadership[4];Strategic[3];Communicative[2];Pessimistic[-1];Aloof[-1],8
+Martha,Supportive[2];Mediator[2];Creative Thinker[2];Impulsive[-1];Indecisive[-2],21
+Myrna,Leadership[4];Supportive[2];Organized[2];Passive[-1];Conflict-Averse[-2],32
+Filippa,Logical[3];Supportive[2];Problem-Solver[3];Overly Critical[-2];Stubborn[-1],6
+Tamera,Detail-Oriented[3];Creative Thinker[2];Problem-Solver[3];Non-communicative[-2];Overly Competitive[-1],1
+Chrystel,Resourceful[2];Problem-Solver[3];Strategic[3];Pessimistic[-1];Non-communicative[-2],19
+Kelila,Strategic[3];Time-Manager[3];Flexible[2];Impatient[-1];Procrastinator[-3],1
+Gael,Mediator[2];Collaborative[2];Flexible[2];Skeptical[-1];Dismissive[-2],29
+Aviva,Logical[3];Collaborative[2];Diplomatic[2];Dismissive[-2];Micromanaging[-2],3
+Mallorie,Reliable[3];Organized[2];Logical[3];Perfectionist (to a fault)[-1];Aloof[-1],26
+Amandi,Organized[2];Detail-Oriented[3];Problem-Solver[3];Overbearing[-1];Intolerant[-2],6
+Margareta,Logical[3];Flexible[2];Leadership[4];Indecisive[-2];Overly Competitive[-1],2
+Stafani,Collaborative[2];Communicative[2];Strategic[3];Indecisive[-2];Overly Competitive[-1],11
+Kristel,Creative Thinker[2];Tech-Savvy[2];Leadership[4];Rigid[-2];Dismissive[-2],24
+Michelle,Analytical[3];Reliable[3];Logical[3];Skeptical[-1];Non-communicative[-2],14
+Dorella,Supportive[2];Tech-Savvy[2];Strategic[3];Impulsive[-1];Narrow-Minded[-2],36
+Alysa,Innovative[2];Resourceful[2];Supportive[2];Moody[-1];Skeptical[-1],33
+Tessa,Analytical[3];Reliable[3];Strategic[3];Aloof[-1];Defensive[-1],30
+Fanni,Creative Thinker[2];Innovative[2];Logical[3];Procrastinator[-3];Overly Competitive[-1],20
+Giovanna,Time-Manager[3];Analytical[3];Empathetic[3];Indecisive[-2];Rigid[-2],5
+Teena,Collaborative[2];Supportive[2];Innovative[2];Moody[-1];Intolerant[-2],28
+Gipsy,Strategic[3];Logical[3];Creative Thinker[2];Indecisive[-2];Impulsive[-1],39
+Alyssa,Flexible[2];Resourceful[2];Organized[2];Intolerant[-2];Impulsive[-1],0
+Livvyy,Flexible[2];Supportive[2];Leadership[4];Skeptical[-1];Aloof[-1],9
+Evvy,Reliable[3];Mediator[2];Collaborative[2];Skeptical[-1];Uncooperative[-2],0
+Jenny,Mediator[2];Time-Manager[3];Diplomatic[2];Resistant to Change[-2];Easily Distracted[-1],20
+Alicea,Time-Manager[3];Logical[3];Leadership[4];Aloof[-1];Skeptical[-1],31
+Julissa,Tech-Savvy[2];Creative Thinker[2];Supportive[2];Rigid[-2];Unreliable[-3],15
+Mariam,Empathetic[3];Collaborative[2];Supportive[2];Unempathetic[-2];Non-communicative[-2],40
+Rivi,Analytical[3];Logical[3];Mediator[2];Defensive[-1];Impatient[-1],26
+Anetta,Communicative[2];Empathetic[3];Mediator[2];Passive[-1];Impatient[-1],13
+Katti,Logical[3];Mediator[2];Collaborative[2];Impulsive[-1];Perfectionist (to a fault)[-1],32
+Kellina,Strategic[3];Empathetic[3];Collaborative[2];Non-communicative[-2];Overbearing[-1],22
+Cathleen,Reliable[3];Supportive[2];Problem-Solver[3];Overly Competitive[-1];Dismissive[-2],23
+Shelli,Communicative[2];Empathetic[3];Mediator[2];Overly Critical[-2];Moody[-1],39
+Kristy,Time-Manager[3];Analytical[3];Communicative[2];Pessimistic[-1];Impatient[-1],26
+Noami,Tech-Savvy[2];Creative Thinker[2];Collaborative[2];Impatient[-1];Rigid[-2],14
+Dasi,Resourceful[2];Innovative[2];Mediator[2];Pessimistic[-1];Defensive[-1],16
+Ranee,Diplomatic[2];Strategic[3];Tech-Savvy[2];Defensive[-1];Unreliable[-3],28
+Hedwig,Communicative[2];Leadership[4];Logical[3];Aloof[-1];Micromanaging[-2],4
+Corina,Collaborative[2];Communicative[2];Empathetic[3];Resistant to Change[-2];Dismissive[-2],18
+Tressa,Empathetic[3];Time-Manager[3];Organized[2];Conflict-Averse[-2];Resistant to Change[-2],17
+Corilla,Flexible[2];Problem-Solver[3];Reliable[3];Non-communicative[-2];Unempathetic[-2],1
+Heather,Mediator[2];Collaborative[2];Logical[3];Narrow-Minded[-2];Micromanaging[-2],8
+Keely,Mediator[2];Innovative[2];Supportive[2];Overbearing[-1];Aloof[-1],0
+Shirl,Diplomatic[2];Detail-Oriented[3];Innovative[2];Easily Distracted[-1];Unreliable[-3],9
+Teresina,Strategic[3];Reliable[3];Empathetic[3];Stubborn[-1];Pessimistic[-1],20
+Orsola,Strategic[3];Detail-Oriented[3];Empathetic[3];Easily Distracted[-1];Resistant to Change[-2],3
+Evey,Strategic[3];Time-Manager[3];Creative Thinker[2];Procrastinator[-3];Pessimistic[-1],2
+Harri,Reliable[3];Innovative[2];Collaborative[2];Rigid[-2];Non-communicative[-2],40
+Corabel,Flexible[2];Organized[2];Creative Thinker[2];Impatient[-1];Narrow-Minded[-2],15
+Angelique,Diplomatic[2];Collaborative[2];Supportive[2];Moody[-1];Resistant to Change[-2],36
+Liuka,Leadership[4];Strategic[3];Time-Manager[3];Moody[-1];Skeptical[-1],24
+Dacy,Time-Manager[3];Strategic[3];Creative Thinker[2];Resistant to Change[-2];Impulsive[-1],31
+Constance,Organized[2];Reliable[3];Diplomatic[2];Unreliable[-3];Aloof[-1],32
+Meade,Supportive[2];Detail-Oriented[3];Mediator[2];Pessimistic[-1];Intolerant[-2],31
+Saundra,Tech-Savvy[2];Leadership[4];Mediator[2];Dismissive[-2];Impulsive[-1],16
+Tate,Organized[2];Communicative[2];Empathetic[3];Unreliable[-3];Overbearing[-1],16
+Kial,Time-Manager[3];Tech-Savvy[2];Strategic[3];Impatient[-1];Uncooperative[-2],8
+Philomena,Problem-Solver[3];Logical[3];Tech-Savvy[2];Overbearing[-1];Impatient[-1],7
+Sharyl,Logical[3];Innovative[2];Supportive[2];Impulsive[-1];Intolerant[-2],7
+Anthia,Analytical[3];Communicative[2];Tech-Savvy[2];Skeptical[-1];Uncooperative[-2],8
+Therese,Leadership[4];Communicative[2];Tech-Savvy[2];Easily Distracted[-1];Narrow-Minded[-2],34
+Dee Dee,Detail-Oriented[3];Resourceful[2];Tech-Savvy[2];Uncooperative[-2];Overbearing[-1],39
+Shelley,Tech-Savvy[2];Diplomatic[2];Resourceful[2];Dismissive[-2];Resistant to Change[-2],22
+Cathrine,Logical[3];Time-Manager[3];Diplomatic[2];Non-communicative[-2];Aloof[-1],1
+Frankie,Innovative[2];Logical[3];Resourceful[2];Impatient[-1];Overly Competitive[-1],5
+Verna,Communicative[2];Diplomatic[2];Analytical[3];Resistant to Change[-2];Stubborn[-1],27
+Mignon,Tech-Savvy[2];Organized[2];Leadership[4];Easily Distracted[-1];Skeptical[-1],17
+Tansy,Flexible[2];Organized[2];Tech-Savvy[2];Stubborn[-1];Dismissive[-2],40
+Roselin,Logical[3];Mediator[2];Creative Thinker[2];Non-communicative[-2];Unempathetic[-2],37
+Alli,Reliable[3];Mediator[2];Resourceful[2];Aloof[-1];Stubborn[-1],19
+Doti,Collaborative[2];Leadership[4];Diplomatic[2];Intolerant[-2];Rigid[-2],13
+Ertha,Communicative[2];Supportive[2];Diplomatic[2];Uncooperative[-2];Easily Distracted[-1],6
+Nari,Organized[2];Diplomatic[2];Time-Manager[3];Rigid[-2];Moody[-1],23
+Jerrine,Leadership[4];Logical[3];Mediator[2];Unempathetic[-2];Impatient[-1],10
+Zsa Zsa,Reliable[3];Supportive[2];Strategic[3];Indecisive[-2];Aloof[-1],31
+Allina,Time-Manager[3];Mediator[2];Problem-Solver[3];Passive[-1];Easily Distracted[-1],18
+Wenda,Time-Manager[3];Organized[2];Resourceful[2];Intolerant[-2];Unreliable[-3],35
+Madalyn,Problem-Solver[3];Collaborative[2];Communicative[2];Uncooperative[-2];Pessimistic[-1],4
+Rochella,Resourceful[2];Logical[3];Empathetic[3];Indecisive[-2];Conflict-Averse[-2],11
+Rozamond,Empathetic[3];Collaborative[2];Time-Manager[3];Overly Critical[-2];Pessimistic[-1],11
+Gwenni,Collaborative[2];Innovative[2];Analytical[3];Dismissive[-2];Overly Critical[-2],8
+Ludovika,Creative Thinker[2];Strategic[3];Diplomatic[2];Impulsive[-1];Defensive[-1],3
+Tamma,Flexible[2];Time-Manager[3];Supportive[2];Pessimistic[-1];Dismissive[-2],30
+Faunie,Time-Manager[3];Problem-Solver[3];Diplomatic[2];Pessimistic[-1];Skeptical[-1],31
+Barbara,Time-Manager[3];Strategic[3];Resourceful[2];Stubborn[-1];Passive[-1],2
+Buffy,Reliable[3];Detail-Oriented[3];Flexible[2];Impulsive[-1];Stubborn[-1],39
+Phillida,Diplomatic[2];Logical[3];Organized[2];Defensive[-1];Uncooperative[-2],36
+Chrissy,Mediator[2];Innovative[2];Organized[2];Uncooperative[-2];Moody[-1],20
+Raye,Time-Manager[3];Problem-Solver[3];Resourceful[2];Moody[-1];Skeptical[-1],19
+Sharona,Problem-Solver[3];Creative Thinker[2];Communicative[2];Overbearing[-1];Micromanaging[-2],28
+Jeanie,Detail-Oriented[3];Empathetic[3];Communicative[2];Overly Competitive[-1];Impatient[-1],22
+Harlie,Collaborative[2];Tech-Savvy[2];Leadership[4];Skeptical[-1];Easily Distracted[-1],10
+Tuesday,Communicative[2];Logical[3];Diplomatic[2];Rigid[-2];Perfectionist (to a fault)[-1],34
+Bev,Creative Thinker[2];Strategic[3];Innovative[2];Micromanaging[-2];Overly Competitive[-1],39
+Carissa,Mediator[2];Empathetic[3];Leadership[4];Uncooperative[-2];Pessimistic[-1],2
+Etta,Collaborative[2];Flexible[2];Strategic[3];Uncooperative[-2];Impulsive[-1],6
+Clari,Time-Manager[3];Diplomatic[2];Collaborative[2];Dismissive[-2];Rigid[-2],11
+Demetria,Flexible[2];Collaborative[2];Diplomatic[2];Overly Critical[-2];Passive[-1],1
+Katy,Empathetic[3];Leadership[4];Mediator[2];Narrow-Minded[-2];Perfectionist (to a fault)[-1],18
+Brett,Reliable[3];Time-Manager[3];Organized[2];Overly Critical[-2];Conflict-Averse[-2],10
+Zaneta,Collaborative[2];Detail-Oriented[3];Time-Manager[3];Micromanaging[-2];Unempathetic[-2],32
+Ilysa,Analytical[3];Resourceful[2];Time-Manager[3];Easily Distracted[-1];Intolerant[-2],25
+Dennie,Innovative[2];Leadership[4];Creative Thinker[2];Intolerant[-2];Non-communicative[-2],32
+Eula,Reliable[3];Creative Thinker[2];Tech-Savvy[2];Unreliable[-3];Pessimistic[-1],5
+Averyl,Strategic[3];Detail-Oriented[3];Collaborative[2];Passive[-1];Defensive[-1],28
+Cristabel,Strategic[3];Innovative[2];Problem-Solver[3];Stubborn[-1];Dismissive[-2],22
+Robbyn,Creative Thinker[2];Leadership[4];Time-Manager[3];Perfectionist (to a fault)[-1];Passive[-1],18
+Donni,Problem-Solver[3];Detail-Oriented[3];Analytical[3];Unreliable[-3];Intolerant[-2],26
+Isabelle,Organized[2];Resourceful[2];Innovative[2];Resistant to Change[-2];Moody[-1],24
+Debbi,Logical[3];Reliable[3];Empathetic[3];Impatient[-1];Conflict-Averse[-2],12
+Milly,Creative Thinker[2];Organized[2];Problem-Solver[3];Stubborn[-1];Pessimistic[-1],14
+Korella,Empathetic[3];Organized[2];Resourceful[2];Impulsive[-1];Aloof[-1],19
+Terra,Mediator[2];Logical[3];Leadership[4];Narrow-Minded[-2];Defensive[-1],2
+Blythe,Mediator[2];Empathetic[3];Analytical[3];Passive[-1];Rigid[-2],35
+Caril,Organized[2];Collaborative[2];Supportive[2];Intolerant[-2];Aloof[-1],33
+Julietta,Detail-Oriented[3];Reliable[3];Empathetic[3];Unempathetic[-2];Resistant to Change[-2],17
+Marnia,Collaborative[2];Communicative[2];Strategic[3];Indecisive[-2];Passive[-1],16
+Vevay,Collaborative[2];Creative Thinker[2];Organized[2];Perfectionist (to a fault)[-1];Easily Distracted[-1],10
+Lida,Resourceful[2];Communicative[2];Detail-Oriented[3];Resistant to Change[-2];Skeptical[-1],2
+Dorie,Creative Thinker[2];Strategic[3];Flexible[2];Overly Competitive[-1];Aloof[-1],32
+Floris,Collaborative[2];Organized[2];Supportive[2];Perfectionist (to a fault)[-1];Stubborn[-1],29
+Violet,Communicative[2];Collaborative[2];Resourceful[2];Skeptical[-1];Dismissive[-2],17
+Mercedes,Strategic[3];Innovative[2];Diplomatic[2];Dismissive[-2];Indecisive[-2],21
+Ardyth,Creative Thinker[2];Leadership[4];Organized[2];Stubborn[-1];Easily Distracted[-1],10
+Rosy,Innovative[2];Collaborative[2];Time-Manager[3];Stubborn[-1];Uncooperative[-2],36
+Mari,Collaborative[2];Flexible[2];Detail-Oriented[3];Conflict-Averse[-2];Narrow-Minded[-2],5
+Daron,Creative Thinker[2];Innovative[2];Collaborative[2];Unreliable[-3];Stubborn[-1],21
+Amelina,Logical[3];Flexible[2];Leadership[4];Overly Competitive[-1];Dismissive[-2],30
+Bunnie,Leadership[4];Resourceful[2];Tech-Savvy[2];Intolerant[-2];Uncooperative[-2],36
+Madelon,Leadership[4];Strategic[3];Creative Thinker[2];Pessimistic[-1];Moody[-1],32
+Kaylyn,Innovative[2];Resourceful[2];Organized[2];Easily Distracted[-1];Procrastinator[-3],0
+Jana,Mediator[2];Tech-Savvy[2];Logical[3];Aloof[-1];Moody[-1],3
+Fay,Logical[3];Collaborative[2];Strategic[3];Overly Competitive[-1];Aloof[-1],40
+Mildred,Leadership[4];Diplomatic[2];Time-Manager[3];Procrastinator[-3];Passive[-1],10
+Eachelle,Creative Thinker[2];Time-Manager[3];Problem-Solver[3];Impulsive[-1];Unempathetic[-2],38
+Elnora,Flexible[2];Supportive[2];Resourceful[2];Stubborn[-1];Dismissive[-2],25
+Suzann,Empathetic[3];Time-Manager[3];Organized[2];Impulsive[-1];Uncooperative[-2],8
+Rickie,Reliable[3];Leadership[4];Supportive[2];Impulsive[-1];Stubborn[-1],14
+Shalne,Communicative[2];Collaborative[2];Reliable[3];Narrow-Minded[-2];Moody[-1],23
+Emmye,Logical[3];Resourceful[2];Time-Manager[3];Unempathetic[-2];Overly Critical[-2],7
+Loreen,Logical[3];Problem-Solver[3];Mediator[2];Indecisive[-2];Resistant to Change[-2],6
+Brooke,Detail-Oriented[3];Logical[3];Problem-Solver[3];Perfectionist (to a fault)[-1];Pessimistic[-1],26
+Greer,Reliable[3];Mediator[2];Innovative[2];Pessimistic[-1];Procrastinator[-3],8
+Willamina,Logical[3];Innovative[2];Supportive[2];Skeptical[-1];Resistant to Change[-2],30
+Eleanora,Strategic[3];Logical[3];Analytical[3];Impatient[-1];Conflict-Averse[-2],38
+Staci,Strategic[3];Leadership[4];Empathetic[3];Non-communicative[-2];Intolerant[-2],3
+Marcellina,Reliable[3];Creative Thinker[2];Supportive[2];Micromanaging[-2];Narrow-Minded[-2],14
+Helene,Supportive[2];Tech-Savvy[2];Resourceful[2];Resistant to Change[-2];Skeptical[-1],29
+Tonye,Reliable[3];Leadership[4];Creative Thinker[2];Conflict-Averse[-2];Skeptical[-1],31
+Brenn,Diplomatic[2];Creative Thinker[2];Supportive[2];Easily Distracted[-1];Procrastinator[-3],30
+Candra,Time-Manager[3];Tech-Savvy[2];Mediator[2];Impatient[-1];Procrastinator[-3],17
+Miguela,Mediator[2];Strategic[3];Collaborative[2];Rigid[-2];Unreliable[-3],32
+Joceline,Collaborative[2];Diplomatic[2];Analytical[3];Defensive[-1];Conflict-Averse[-2],37
+Rosanne,Empathetic[3];Organized[2];Logical[3];Uncooperative[-2];Resistant to Change[-2],8
+Lilia,Tech-Savvy[2];Mediator[2];Supportive[2];Impulsive[-1];Easily Distracted[-1],1
+Aindrea,Time-Manager[3];Tech-Savvy[2];Problem-Solver[3];Skeptical[-1];Impatient[-1],25
+Natka,Resourceful[2];Detail-Oriented[3];Supportive[2];Unempathetic[-2];Skeptical[-1],34
+Tabatha,Strategic[3];Organized[2];Problem-Solver[3];Aloof[-1];Non-communicative[-2],22
+Vivien,Tech-Savvy[2];Mediator[2];Time-Manager[3];Unempathetic[-2];Overly Critical[-2],39
+Imelda,Leadership[4];Resourceful[2];Supportive[2];Unempathetic[-2];Overbearing[-1],10
+Nicky,Diplomatic[2];Creative Thinker[2];Detail-Oriented[3];Impatient[-1];Procrastinator[-3],36
+Tory,Flexible[2];Communicative[2];Collaborative[2];Impatient[-1];Resistant to Change[-2],5
+Leonanie,Detail-Oriented[3];Resourceful[2];Tech-Savvy[2];Unreliable[-3];Intolerant[-2],4
+Delilah,Mediator[2];Empathetic[3];Communicative[2];Aloof[-1];Non-communicative[-2],38
+Marquita,Diplomatic[2];Supportive[2];Empathetic[3];Skeptical[-1];Stubborn[-1],28
+Kat,Problem-Solver[3];Resourceful[2];Organized[2];Procrastinator[-3];Aloof[-1],25
+Marline,Leadership[4];Innovative[2];Mediator[2];Dismissive[-2];Impulsive[-1],36
+Ulrika,Leadership[4];Diplomatic[2];Analytical[3];Skeptical[-1];Micromanaging[-2],0
+Jojo,Innovative[2];Problem-Solver[3];Strategic[3];Overbearing[-1];Unreliable[-3],20
+Rosabella,Communicative[2];Leadership[4];Organized[2];Unreliable[-3];Rigid[-2],34
+Ailis,Analytical[3];Leadership[4];Communicative[2];Uncooperative[-2];Rigid[-2],34
+Lianne,Empathetic[3];Resourceful[2];Innovative[2];Overly Competitive[-1];Conflict-Averse[-2],33
+Bettina,Resourceful[2];Creative Thinker[2];Mediator[2];Unempathetic[-2];Non-communicative[-2],40
+Danny,Logical[3];Collaborative[2];Detail-Oriented[3];Conflict-Averse[-2];Uncooperative[-2],27
+Jolynn,Detail-Oriented[3];Time-Manager[3];Collaborative[2];Overly Critical[-2];Moody[-1],10
+Anny,Supportive[2];Logical[3];Communicative[2];Resistant to Change[-2];Impulsive[-1],17
+Katrina,Logical[3];Strategic[3];Leadership[4];Impulsive[-1];Indecisive[-2],39
+Shel,Tech-Savvy[2];Leadership[4];Strategic[3];Impatient[-1];Defensive[-1],20
+Ailina,Communicative[2];Time-Manager[3];Flexible[2];Unreliable[-3];Overly Competitive[-1],30
+Lilly,Logical[3];Creative Thinker[2];Detail-Oriented[3];Stubborn[-1];Perfectionist (to a fault)[-1],7
+Corinna,Leadership[4];Flexible[2];Detail-Oriented[3];Procrastinator[-3];Rigid[-2],36
+Carilyn,Analytical[3];Leadership[4];Resourceful[2];Overly Competitive[-1];Intolerant[-2],1
+Pamella,Reliable[3];Analytical[3];Time-Manager[3];Non-communicative[-2];Unempathetic[-2],36
+Lorelei,Detail-Oriented[3];Leadership[4];Logical[3];Unempathetic[-2];Passive[-1],15
+Nesta,Organized[2];Collaborative[2];Creative Thinker[2];Stubborn[-1];Perfectionist (to a fault)[-1],21
+Susana,Creative Thinker[2];Supportive[2];Detail-Oriented[3];Overly Critical[-2];Pessimistic[-1],26
+Faunie,Detail-Oriented[3];Problem-Solver[3];Empathetic[3];Defensive[-1];Pessimistic[-1],33
+Desiri,Strategic[3];Tech-Savvy[2];Problem-Solver[3];Impulsive[-1];Conflict-Averse[-2],35
+Idaline,Supportive[2];Leadership[4];Strategic[3];Defensive[-1];Impatient[-1],38
+Lilyan,Diplomatic[2];Mediator[2];Strategic[3];Procrastinator[-3];Overbearing[-1],30
+Tally,Logical[3];Leadership[4];Problem-Solver[3];Uncooperative[-2];Non-communicative[-2],25
+Vivianna,Time-Manager[3];Flexible[2];Innovative[2];Intolerant[-2];Resistant to Change[-2],34
+Chryste,Logical[3];Innovative[2];Analytical[3];Overly Critical[-2];Rigid[-2],29
+Cristen,Strategic[3];Detail-Oriented[3];Mediator[2];Uncooperative[-2];Conflict-Averse[-2],17
+Jillane,Logical[3];Organized[2];Supportive[2];Pessimistic[-1];Micromanaging[-2],10
+Tabbie,Supportive[2];Empathetic[3];Logical[3];Narrow-Minded[-2];Moody[-1],30
+Tilda,Reliable[3];Leadership[4];Problem-Solver[3];Resistant to Change[-2];Skeptical[-1],30
+Emilee,Analytical[3];Time-Manager[3];Organized[2];Micromanaging[-2];Skeptical[-1],39
+Sidonia,Empathetic[3];Analytical[3];Creative Thinker[2];Resistant to Change[-2];Overbearing[-1],7
+Ainsley,Diplomatic[2];Tech-Savvy[2];Time-Manager[3];Uncooperative[-2];Conflict-Averse[-2],22
+Tabbie,Analytical[3];Organized[2];Mediator[2];Micromanaging[-2];Dismissive[-2],9
+Saraann,Empathetic[3];Collaborative[2];Communicative[2];Easily Distracted[-1];Overbearing[-1],6
+Guillema,Communicative[2];Tech-Savvy[2];Reliable[3];Easily Distracted[-1];Procrastinator[-3],12
+Maridel,Organized[2];Flexible[2];Communicative[2];Uncooperative[-2];Overbearing[-1],15
+Dorris,Flexible[2];Resourceful[2];Collaborative[2];Indecisive[-2];Intolerant[-2],13
+Ula,Reliable[3];Logical[3];Empathetic[3];Conflict-Averse[-2];Unempathetic[-2],29
+Viviene,Creative Thinker[2];Supportive[2];Problem-Solver[3];Micromanaging[-2];Intolerant[-2],8
+Ileane,Analytical[3];Problem-Solver[3];Innovative[2];Dismissive[-2];Overly Competitive[-1],30
+Farrand,Diplomatic[2];Mediator[2];Supportive[2];Micromanaging[-2];Unreliable[-3],13
+Katy,Innovative[2];Diplomatic[2];Collaborative[2];Narrow-Minded[-2];Overbearing[-1],30
+Roby,Resourceful[2];Empathetic[3];Time-Manager[3];Unreliable[-3];Passive[-1],9
+Jerrilyn,Mediator[2];Leadership[4];Tech-Savvy[2];Impatient[-1];Overly Competitive[-1],7
+Rosana,Problem-Solver[3];Supportive[2];Leadership[4];Overly Competitive[-1];Stubborn[-1],10
+Daria,Supportive[2];Tech-Savvy[2];Detail-Oriented[3];Passive[-1];Non-communicative[-2],25
+Cindee,Collaborative[2];Diplomatic[2];Problem-Solver[3];Skeptical[-1];Impulsive[-1],2
+Dyna,Detail-Oriented[3];Mediator[2];Creative Thinker[2];Rigid[-2];Procrastinator[-3],33
+Sib,Time-Manager[3];Mediator[2];Detail-Oriented[3];Intolerant[-2];Overbearing[-1],17
+Juanita,Strategic[3];Resourceful[2];Creative Thinker[2];Overly Critical[-2];Stubborn[-1],8
+Noella,Strategic[3];Mediator[2];Empathetic[3];Rigid[-2];Stubborn[-1],39
+Steffie,Diplomatic[2];Innovative[2];Creative Thinker[2];Impatient[-1];Pessimistic[-1],22
+Alysia,Mediator[2];Leadership[4];Reliable[3];Uncooperative[-2];Intolerant[-2],4
+Velma,Organized[2];Reliable[3];Detail-Oriented[3];Skeptical[-1];Passive[-1],11
+Sandra,Leadership[4];Problem-Solver[3];Reliable[3];Micromanaging[-2];Overbearing[-1],35
+Leoline,Time-Manager[3];Creative Thinker[2];Supportive[2];Easily Distracted[-1];Rigid[-2],39
+Bel,Collaborative[2];Communicative[2];Detail-Oriented[3];Uncooperative[-2];Dismissive[-2],37
+Grazia,Reliable[3];Mediator[2];Innovative[2];Stubborn[-1];Indecisive[-2],22
+Dion,Collaborative[2];Reliable[3];Mediator[2];Unempathetic[-2];Overbearing[-1],27
+Ellene,Resourceful[2];Strategic[3];Innovative[2];Impulsive[-1];Overbearing[-1],37
+Maritsa,Logical[3];Analytical[3];Leadership[4];Conflict-Averse[-2];Moody[-1],35
+Nicky,Organized[2];Time-Manager[3];Collaborative[2];Passive[-1];Easily Distracted[-1],7
+Milzie,Innovative[2];Analytical[3];Strategic[3];Micromanaging[-2];Unempathetic[-2],32
+Chelsae,Tech-Savvy[2];Time-Manager[3];Leadership[4];Procrastinator[-3];Non-communicative[-2],12
+Babara,Creative Thinker[2];Strategic[3];Resourceful[2];Moody[-1];Overbearing[-1],20
+Hanni,Logical[3];Organized[2];Creative Thinker[2];Procrastinator[-3];Defensive[-1],2
+Clea,Diplomatic[2];Leadership[4];Reliable[3];Pessimistic[-1];Impatient[-1],33
+Celesta,Reliable[3];Flexible[2];Mediator[2];Skeptical[-1];Moody[-1],3
+Amabelle,Creative Thinker[2];Diplomatic[2];Flexible[2];Conflict-Averse[-2];Micromanaging[-2],0
+Adelaide,Innovative[2];Organized[2];Resourceful[2];Rigid[-2];Micromanaging[-2],2
+Alida,Time-Manager[3];Reliable[3];Tech-Savvy[2];Procrastinator[-3];Micromanaging[-2],32
+Cassy,Logical[3];Detail-Oriented[3];Innovative[2];Resistant to Change[-2];Uncooperative[-2],18
+Maryanne,Flexible[2];Creative Thinker[2];Mediator[2];Dismissive[-2];Overly Critical[-2],10
+Zandra,Leadership[4];Communicative[2];Diplomatic[2];Defensive[-1];Micromanaging[-2],13
+Arda,Organized[2];Problem-Solver[3];Empathetic[3];Micromanaging[-2];Indecisive[-2],12
+Flossi,Innovative[2];Logical[3];Analytical[3];Perfectionist (to a fault)[-1];Skeptical[-1],36
+Moyna,Diplomatic[2];Time-Manager[3];Detail-Oriented[3];Pessimistic[-1];Overly Critical[-2],15
+Rhianna,Flexible[2];Resourceful[2];Communicative[2];Moody[-1];Impatient[-1],18
+Letizia,Innovative[2];Problem-Solver[3];Tech-Savvy[2];Procrastinator[-3];Easily Distracted[-1],4
+Danice,Innovative[2];Collaborative[2];Flexible[2];Impatient[-1];Uncooperative[-2],24
+Coleen,Tech-Savvy[2];Analytical[3];Time-Manager[3];Narrow-Minded[-2];Resistant to Change[-2],2
+Cally,Communicative[2];Innovative[2];Detail-Oriented[3];Conflict-Averse[-2];Intolerant[-2],33
+Theressa,Collaborative[2];Diplomatic[2];Creative Thinker[2];Perfectionist (to a fault)[-1];Passive[-1],37
+Karmen,Tech-Savvy[2];Organized[2];Empathetic[3];Overly Competitive[-1];Stubborn[-1],10
+Anna-Diane,Supportive[2];Mediator[2];Resourceful[2];Easily Distracted[-1];Unreliable[-3],9
+Felicity,Time-Manager[3];Collaborative[2];Creative Thinker[2];Easily Distracted[-1];Skeptical[-1],19
+Berni,Flexible[2];Collaborative[2];Creative Thinker[2];Dismissive[-2];Uncooperative[-2],20
+Rosanna,Logical[3];Innovative[2];Strategic[3];Indecisive[-2];Impulsive[-1],2
+Sonni,Empathetic[3];Organized[2];Resourceful[2];Procrastinator[-3];Skeptical[-1],26
+Patience,Leadership[4];Empathetic[3];Organized[2];Aloof[-1];Uncooperative[-2],38
+Gianna,Tech-Savvy[2];Diplomatic[2];Flexible[2];Moody[-1];Defensive[-1],37
+Natalina,Leadership[4];Innovative[2];Time-Manager[3];Micromanaging[-2];Non-communicative[-2],11
+Harley,Reliable[3];Mediator[2];Leadership[4];Rigid[-2];Aloof[-1],16
+Lurlene,Supportive[2];Mediator[2];Resourceful[2];Non-communicative[-2];Narrow-Minded[-2],10
+Margalit,Flexible[2];Strategic[3];Supportive[2];Easily Distracted[-1];Procrastinator[-3],26
+Loria,Supportive[2];Innovative[2];Creative Thinker[2];Rigid[-2];Conflict-Averse[-2],20
+Betteanne,Collaborative[2];Strategic[3];Supportive[2];Conflict-Averse[-2];Resistant to Change[-2],34
+Ivory,Logical[3];Innovative[2];Reliable[3];Overly Competitive[-1];Impulsive[-1],0
+Adelice,Detail-Oriented[3];Reliable[3];Logical[3];Skeptical[-1];Resistant to Change[-2],35
+Giralda,Collaborative[2];Logical[3];Organized[2];Impatient[-1];Passive[-1],18
+Therese,Time-Manager[3];Reliable[3];Innovative[2];Intolerant[-2];Overly Critical[-2],20
+Josephine,Mediator[2];Collaborative[2];Strategic[3];Perfectionist (to a fault)[-1];Non-communicative[-2],16
+Scarlett,Reliable[3];Tech-Savvy[2];Organized[2];Overbearing[-1];Impulsive[-1],16
+Dania,Collaborative[2];Communicative[2];Reliable[3];Resistant to Change[-2];Non-communicative[-2],28
+Ludovika,Creative Thinker[2];Reliable[3];Diplomatic[2];Overly Critical[-2];Moody[-1],0
+Gertruda,Analytical[3];Flexible[2];Diplomatic[2];Easily Distracted[-1];Rigid[-2],39
+Ailis,Flexible[2];Strategic[3];Supportive[2];Uncooperative[-2];Defensive[-1],9
+Vivi,Tech-Savvy[2];Analytical[3];Collaborative[2];Intolerant[-2];Micromanaging[-2],34
+Barrie,Mediator[2];Innovative[2];Leadership[4];Intolerant[-2];Pessimistic[-1],20
+Cinderella,Problem-Solver[3];Supportive[2];Diplomatic[2];Passive[-1];Skeptical[-1],5
+Petra,Supportive[2];Collaborative[2];Strategic[3];Narrow-Minded[-2];Passive[-1],7
+Adela,Time-Manager[3];Tech-Savvy[2];Communicative[2];Aloof[-1];Unempathetic[-2],22
+Alicia,Diplomatic[2];Leadership[4];Analytical[3];Aloof[-1];Impulsive[-1],5
+Cheslie,Reliable[3];Logical[3];Collaborative[2];Overbearing[-1];Micromanaging[-2],32
+Flossie,Leadership[4];Innovative[2];Organized[2];Moody[-1];Intolerant[-2],37
+Lonni,Time-Manager[3];Tech-Savvy[2];Resourceful[2];Procrastinator[-3];Dismissive[-2],17
+Danielle,Organized[2];Flexible[2];Strategic[3];Defensive[-1];Micromanaging[-2],15
+Marilin,Problem-Solver[3];Mediator[2];Strategic[3];Rigid[-2];Easily Distracted[-1],27
+Sula,Problem-Solver[3];Mediator[2];Time-Manager[3];Conflict-Averse[-2];Uncooperative[-2],12
+Essy,Flexible[2];Analytical[3];Logical[3];Passive[-1];Rigid[-2],22
+Elnora,Mediator[2];Time-Manager[3];Creative Thinker[2];Overly Critical[-2];Pessimistic[-1],27
+Catherine,Communicative[2];Organized[2];Collaborative[2];Passive[-1];Impatient[-1],6
+Evaleen,Communicative[2];Time-Manager[3];Tech-Savvy[2];Intolerant[-2];Defensive[-1],15
+Halimeda,Analytical[3];Flexible[2];Supportive[2];Resistant to Change[-2];Dismissive[-2],22
+Kirsteni,Supportive[2];Empathetic[3];Communicative[2];Perfectionist (to a fault)[-1];Overbearing[-1],32
+Ariella,Empathetic[3];Communicative[2];Flexible[2];Conflict-Averse[-2];Impatient[-1],12
+Janna,Leadership[4];Innovative[2];Empathetic[3];Micromanaging[-2];Stubborn[-1],10
+Cordi,Reliable[3];Flexible[2];Resourceful[2];Intolerant[-2];Unreliable[-3],11
+Eleanore,Communicative[2];Logical[3];Flexible[2];Conflict-Averse[-2];Overly Critical[-2],29
+Imogene,Supportive[2];Collaborative[2];Strategic[3];Intolerant[-2];Procrastinator[-3],3
+Georgie,Empathetic[3];Logical[3];Mediator[2];Overly Critical[-2];Easily Distracted[-1],1
+Junina,Problem-Solver[3];Collaborative[2];Logical[3];Overly Critical[-2];Overbearing[-1],35
+Doll,Logical[3];Reliable[3];Empathetic[3];Impulsive[-1];Uncooperative[-2],31
+Yvonne,Communicative[2];Organized[2];Resourceful[2];Pessimistic[-1];Non-communicative[-2],3
+Clio,Creative Thinker[2];Reliable[3];Leadership[4];Unempathetic[-2];Passive[-1],18
+Clea,Flexible[2];Problem-Solver[3];Resourceful[2];Indecisive[-2];Uncooperative[-2],34
+Nicola,Tech-Savvy[2];Mediator[2];Analytical[3];Moody[-1];Uncooperative[-2],38
+Leeann,Reliable[3];Supportive[2];Detail-Oriented[3];Impulsive[-1];Micromanaging[-2],19
+Horatia,Resourceful[2];Time-Manager[3];Logical[3];Intolerant[-2];Pessimistic[-1],28
+Hyacinthie,Empathetic[3];Leadership[4];Analytical[3];Rigid[-2];Overbearing[-1],31
+Lurlene,Mediator[2];Strategic[3];Time-Manager[3];Uncooperative[-2];Stubborn[-1],9
+Lenora,Time-Manager[3];Innovative[2];Leadership[4];Unempathetic[-2];Intolerant[-2],0
+Myrlene,Communicative[2];Tech-Savvy[2];Problem-Solver[3];Unreliable[-3];Rigid[-2],36
+Bibbye,Empathetic[3];Flexible[2];Diplomatic[2];Aloof[-1];Dismissive[-2],32
+Prudi,Analytical[3];Flexible[2];Innovative[2];Uncooperative[-2];Easily Distracted[-1],32
+Kellen,Creative Thinker[2];Communicative[2];Analytical[3];Overbearing[-1];Moody[-1],14
+Rhody,Supportive[2];Resourceful[2];Empathetic[3];Resistant to Change[-2];Overbearing[-1],39
+Melisa,Organized[2];Detail-Oriented[3];Diplomatic[2];Stubborn[-1];Overbearing[-1],33
+Iormina,Resourceful[2];Mediator[2];Innovative[2];Aloof[-1];Moody[-1],19

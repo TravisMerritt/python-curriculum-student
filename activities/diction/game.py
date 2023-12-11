@@ -14,7 +14,7 @@ screen = pygame.display.set_mode((screen_width, screen_height))
 
 # Game variables
 word_values = {
-    "easy": ["cat", "dog", "fish"],
+    "easy": ["cat", "dog", "fish", "bird", "cow", "pig", "rat", "ant"],
     "medium": ["python", "giraffe", "elephant"],
     "hard": ["encyclopedia", "exaggerate", "university"]
 }
